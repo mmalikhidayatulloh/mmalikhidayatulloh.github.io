@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Semoga Bermanfaat
 
 # Your name to show in the footer
-author: Some Person
+author: Mohammad Malik Hidayatulloh
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  GitHub: "https://github.com/mmalikhidayatulloh"
 
 # --- Logo --- #
 
@@ -39,25 +39,25 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "m4likhidayatulloh@gmail.com"
+  facebook: malix.4
+  github: mmalikhidayatulloh
+  twitter: mmalik_hidayat
+#  patreon: DeanAttali
+  youtube: channel/UCYY76y_fP8ewNP8Nn8OzoiA
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: mohammad-malik-hidayatulloh-2091821b9
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: m_malikhidayatulloh
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: m4like
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -74,6 +74,8 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram : true
+  telegram : true
   vk: false
 
 # How to display the link to your website in the footer
@@ -193,7 +195,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
