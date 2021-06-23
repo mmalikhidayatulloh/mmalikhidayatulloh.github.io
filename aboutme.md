@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Let me indroduce my website
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+`mmalikhidayatulloh.github.io` di ciptakan sebagai wadah untuk mempublikasikan sedikit pengetahuan dari seorang bocah yang aneh dengan harapan agar pengetahuan yang di dapatkan selama hidup tidak hanya dinikmati sendirian.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+`mmalikhidayatulloh.github.io` mengambil motto _Semoga Bermanfaat_ karena harapan dari penulis agar hidupnya tidak selamanya menjadi beban orang lain. `mmalikhidayatulloh.github.io` sebagai bukti dan saksi dari harapan tersebut.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Media lain yang diciptakan oleh penulis selain `mmalikhidayatulloh.github.io` adalah sebuah channel YouTube [Mamal](https://www.youtube.com/channel/UCYY76y_fP8ewNP8Nn8OzoiA) yang mempunyai tujuan yang sama hanya saja lewat video
