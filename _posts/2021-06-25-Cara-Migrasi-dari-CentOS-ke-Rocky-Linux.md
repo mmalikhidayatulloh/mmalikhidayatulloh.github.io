@@ -39,11 +39,11 @@ sudo ./migrate2rocky.sh -r
 ```
 sudo dnf distro-sync -y 
 ```
-4. Reboot
+# 4. Reboot
 ```
 sudo reboot
 ```
-5. Cek
+# 5. Cek
 ```
 cat /etc/os-release
 ```
