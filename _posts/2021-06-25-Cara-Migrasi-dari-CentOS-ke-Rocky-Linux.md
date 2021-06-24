@@ -34,7 +34,7 @@ sudo ./migrate2rocky.sh -r
 ```
 * Outputnya seperti ini
   
-  [proses]()
+  [proses](https://raw.githubusercontent.com/mmalikhidayatulloh/mmalikhidayatulloh.github.io/master/assets/migrasi.txt)
 # 3. Update
 ```
 sudo dnf distro-sync -y 
