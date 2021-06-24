@@ -34,7 +34,6 @@ sudo ./migrate2rocky.sh -r
 ```
 * Outputnya seperti ini
 ```
-
 Getting a list of enabled modules for the system repositories.
 
 In addition to the above the following system packages will be removed:
