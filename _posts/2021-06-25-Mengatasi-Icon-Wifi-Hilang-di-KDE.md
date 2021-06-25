@@ -11,6 +11,7 @@ Ketika menguninstall `kwalletd` maka indikator bahwa komputer terhubung ke jarin
 sudo zypper in plasma-nm
 ```
 >Sesuaikan dengan distro masing-masing
+
 # 2. Re-Login
 
 # Sumber
