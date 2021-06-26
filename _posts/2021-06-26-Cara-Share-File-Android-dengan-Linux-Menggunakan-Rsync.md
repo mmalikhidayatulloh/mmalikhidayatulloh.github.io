@@ -12,6 +12,7 @@ Salah satu cara untuk sharing file antara android dengan linux selain menggunaka
 * rsync
 * set password
 * Akses file manager
+
 ## Di linux
 * openssh
 * rsync
