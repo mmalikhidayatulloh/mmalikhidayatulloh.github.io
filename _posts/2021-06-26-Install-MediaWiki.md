@@ -9,7 +9,7 @@ layout: post
 Jalankan `apache` dan `mariaDB`
 
 # Download
-[link Download][https://www.mediawiki.org/wiki/Download]
+[link Download](https://www.mediawiki.org/wiki/Download)
 
 # Extract
 ```
