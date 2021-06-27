@@ -23,6 +23,91 @@ Nah tujuan dari tulisan ini yaitu menjelaskan bagaimana cara menggunakan `CLI`, 
 | Shift + Page Down | Scroll ke bawah |
 | Tombol Navigasi ke atas dan bawah | Melihat history perintah |
 
+>Tips: Gunakan `tab` untuk menggunakan fitur completions
+
+>Misalnya anda mengetik `cd D` di terminal, kemudian anda menekan tombol `tab` maka secara otomatis anda diberi pilihan oleh terminal untuk melengkapi perintah yang akan anda jalankan
+# File dan Directory
+## Membuat direktori
+```
+mkdir namadirectory
+```
+## Masuk ke directory
+```
+cd directorytujuan
+```
+## Masuk ke directory di atas directory sekarang
+```
+cd ..
+```
+## Melihat isi directory
+```
+ls
+```
+### Tips melihat isi directory
+
+| Perintah | Fungsi |
+| :-------- | :-------- |
+| ls -a | Melihat file tersembunyi |
+| ls -l | Melihat secara detail |
+| ls -R | Melihat seluruh yang ada dalam suatu directory |
+
+## Memindahakan directory atau file
+```
+mv /alamatyangmaudipindahkan /alamattujuan
+```
+## Rename file atau directory
+```
+mv namalama namabaru
+```
+## copy file atau directory
+```
+cp /alamatyangakandicopy /alamattujuan
+```
+## Membuat file
+### Menggunakan `touch`
+```
+touch namafile
+```
+### Menggunakan `cat`
+```
+cat > namafile
+tulis isi file
+
+Tekan Ctrl+D untuk mengakhiri
+```
+### Menggunakan `echo`
+```
+echo "isifile" > namafile
+```
+## Membaca isi file
+### Menggunakan `cat`
+```
+cat namafile
+```
+### Menggunakan `more`
+```
+more namafile
+```
+### Menggunakan `head` (hanya menampilkan bagian atas dari suatu file)
+```
+head namafile
+```
+### Menggunakan `tail` (hanya menampilkan bagian akhir dari suatu file)
+```
+tail namafile
+```
+## Menghapus file
+```
+rm Namafile
+```
+## Menghapus directory _kosong_
+```
+rmdir directoryKosong
+```
+## Menghapus directory yang _tidak kosong_
+```
+rm -rf directorytidakkosong
+```
 ### Untu mengecek jenis `shell` yang digunakan oleh terminal Anda:
 ```
 echo $SHELL
@@ -46,58 +131,6 @@ cal feb 1998
 ### Mengetahui posisi Anda saat ini di dalam terminal
 ```
 pwd
-```
-### Membuat direktori
-```
-mkdir namadirectory
-```
-### Masuk ke directory
-```
-cd directorytujuan
-```
-### Melihat isi directory
-```
-ls
-```
-### Melihat file tersembunyi pada suatu directory
-```
-ls -a
-```
-### Melihat isi directory beserta hak ases file, waktu pembuatan file, pemilik file, grup yang bisa mengakses, ukuran file.
-```
-ls -l
-```
-### Menghapus file
-```
-rm Namafile
-```
-### Menghapus directory _kosong_
-```
-rmdir directoryKosong
-```
-### Menghapus directory yang _tidak kosong_
-```
-rm -rf directorytidakkosong
-```
-### Masuk ke directory di atas directory sekarang
-```
-cd ..
-```
-### Memindahakan directory
-```
-mv /directoryyangingindipindah /directorytujuan
-```
-### Rename file atau directory
-```
-mv oldname newname
-```
-### copy file atau directory
-```
-cp /directoryyangakandicopy /Directorytujuan
-```
-### Membuat file kosong
-```
-touch namafile.formatfile
 ```
 ### Mengecek pengimpanan internal
 ```
