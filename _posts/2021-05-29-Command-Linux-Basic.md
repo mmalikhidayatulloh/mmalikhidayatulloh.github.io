@@ -11,16 +11,16 @@ Meskipun zaman ini sudah sangat-sangat mudah dengan hadirnya `GUI` tapi linux te
 Nah tujuan dari tulisan ini yaitu menjelaskan bagaimana cara menggunakan `CLI`, terutaman perintah-perintah apa saja yang digunakan. Kemudian yang perlu diperhatikan adalah perintah-perintah ini hanya bisa digunakan di OS unix-like seperti linux, keluarga BSD, Android juga bisa dikit-dikit menggunakan applikasi `termux` ya karena Android menggunakan kernel Linux, MacOS juga bisa karena di Mac kan ada terminal. Yang tidak bisa itu di `command prompt` atau `CMD` pada perangkat windows.
 
 # Shortcut Terminal
-|Shortcut   | Fungsi    |
-|:----------|:----------|
-|Ctrl + L   |Hapus layar|
-|Ctrl + C   |Membatalkan perintah yang dijalankan|
-|Ctrl + U   | Menghapus karakter yang telah diketik di kiri kursor|
-|Ctrl + K   | Menghapus karakter yang telah diketik di kanan kursor|
-|Ctrl + D   | Menutup shell|
-|Shift + Page Up    | Scroll ke atas|
-|Shift + Page Down  | Scroll ke bawah|
-|Tombol Navigasi ke atas dan bawah  | Melihat history perintah|
+| Shortcut | Fungsi |
+| :----- | :------ |
+| Ctrl + L | Hapus layar |
+| Ctrl + C | Membatalkan perintah yang dijalankan |
+| Ctrl + U | Menghapus karakter yang telah diketik di kiri kursor |
+| Ctrl + K | Menghapus karakter yang telah diketik di kanan kursor |
+| Ctrl + D | Menutup shell |
+| Shift + Page Up | Scroll ke atas |
+| Shift + Page Down | Scroll ke bawah |
+| Tombol Navigasi ke atas dan bawah | Melihat history perintah |
 
 ### Untu mengecek jenis `shell` yang digunakan oleh terminal Anda:
 ```
