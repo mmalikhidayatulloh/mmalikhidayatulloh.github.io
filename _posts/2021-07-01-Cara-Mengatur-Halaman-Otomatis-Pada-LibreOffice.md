@@ -23,6 +23,7 @@ Dalam penulisan dokumen-dokumen resmi seperi laporan, karya tulis, proposal, dan
 * Pilih `Insert Page Number`
 * Kemudian atur menjadi rata tengah
 # 2. Angka biasa
+
 >caranya sama cuma diganti jenisnya menjadi angka biasa
 
 # 3. Cara ganti dari romawi ke angka
