@@ -22,6 +22,7 @@ Dalam penulisan dokumen-dokumen resmi seperi laporan, karya tulis, proposal, dan
 * Klik lagi maka keluar menunya
 * Pilih `Insert Page Number`
 * Kemudian atur menjadi rata tengah
+
 # 2. Angka biasa
 
 >caranya sama cuma diganti jenisnya menjadi angka biasa
