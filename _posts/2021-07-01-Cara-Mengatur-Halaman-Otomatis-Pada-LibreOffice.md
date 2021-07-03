@@ -25,7 +25,7 @@ Dalam penulisan dokumen-dokumen resmi seperi laporan, karya tulis, proposal, dan
 
 # 2. Angka biasa
 
->caranya sama cuma diganti jenisnya menjadi angka biasa
+caranya sama cuma diganti jenisnya menjadi angka biasa
 
 # 3. Cara ganti dari romawi ke angka
 * Pilih menu `Insert`
