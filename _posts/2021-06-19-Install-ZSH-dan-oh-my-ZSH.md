@@ -44,6 +44,40 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 pastikan `wget` sudah terinstall di perangkat Anda
 ```
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+
+Hasil:
+
+```
+Cloning Oh My Zsh...
+Cloning into '/home/malik/.oh-my-zsh'...
+remote: Enumerating objects: 1239, done.
+remote: Counting objects: 100% (1239/1239), done.
+remote: Compressing objects: 100% (1204/1204), done.
+remote: Total 1239 (delta 20), reused 1101 (delta 15), pack-reused 0
+Receiving objects: 100% (1239/1239), 863.92 KiB | 763.00 KiB/s, done.
+Resolving deltas: 100% (20/20), done.
+
+Looking for an existing zsh config...
+Found ~/.zshrc. Backing up to /home/malik/.zshrc.pre-oh-my-zsh
+Using the Oh My Zsh template file and adding it to ~/.zshrc.
+
+         __                                     __
+  ____  / /_     ____ ___  __  __   ____  _____/ /_
+ / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \
+/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / /
+\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/
+                        /____/                       ....is now installed!
+
+
+Before you scream Oh My Zsh! please look over the ~/.zshrc file to select plugins, themes, and options.
+
+• Follow us on Twitter: https://twitter.com/ohmyzsh
+• Join our Discord server: https://discord.gg/ohmyzsh
+• Get stickers, shirts, coffee mugs and other swag: https://shop.planetargon.com/collections/oh-my-zsh
+
+➜  ~ 
+```
+
 ```
 # Memilih tema
 Masuk ke `.zshrc`
