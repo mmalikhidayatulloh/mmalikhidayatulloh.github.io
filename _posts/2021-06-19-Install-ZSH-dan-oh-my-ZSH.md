@@ -44,6 +44,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 pastikan `wget` sudah terinstall di perangkat Anda
 ```
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+```
 
 Hasil:
 
@@ -78,7 +79,6 @@ Before you scream Oh My Zsh! please look over the ~/.zshrc file to select plugin
 ➜  ~ 
 ```
 
-```
 # Memilih tema
 Masuk ke `.zshrc`
 ```
