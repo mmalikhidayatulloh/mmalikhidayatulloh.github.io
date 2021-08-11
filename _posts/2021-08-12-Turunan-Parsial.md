@@ -1,0 +1,5 @@
+# Definisi dan Notasi
+
+Misal kita punya z sebagai fungsi dari variabel x dan y, atau jika ditulis z=f (x,y). Biar lebih jelas lagi misalnya $z=x^3y-e^{xy}$.
+
+Kemudian kita ingin mengatahui gradien atau kemiringan, nilai minimum, maupun nilai maksimum antara z dengan x atau antara z dengan y. Sedangkan fungsinya berbentuk f(x,y). Maka jika kita ingin mengetahui antara z dengan x saja kita harus menganggap y=konstan dan ditulis sebagai $\frac{\partial z}{\partial x}$ (dibaca turunan parsial z terhadap x). Begitupun sebalinya, jika ingin mengetahui antara z dengan y saja maka x harus dianggap konstan dan ditulis $\frac{\partial z}{\partial y}$ (dibaca turunan parsial z terhadap y).
