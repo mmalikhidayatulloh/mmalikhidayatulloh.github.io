@@ -67,7 +67,7 @@ systemctl restart postfix
 # Add user
 
 ```
-useradd suse
+useradd --create-home suse
 passwd suse
 ```
 
@@ -386,8 +386,10 @@ a2enmod mod_access_compat
 systemctl restart apache2
 ```
 
-# Buka browser
+# Open browser
 
 ```
 localhost/squirrelmail
 ```
+
+login with your ordinary username and password
