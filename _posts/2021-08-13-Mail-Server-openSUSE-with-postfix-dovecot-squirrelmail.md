@@ -260,7 +260,7 @@ Connection closed by foreign host.
 
 # Install Squirrelmail
 
-search package using [](pkgs.org)
+search squirrelmail using [pkgs.org](pkgs.org) then follow installation instruction
 
 # configuration squirrelmail
 
