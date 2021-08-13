@@ -14,7 +14,7 @@ vim /etc/hosts
 add this configurations
 
 ```
-192.168.43.224  opensuse.malik.com opensuse malik.local
+192.168.43.224  malik.local
 ```
 
 # Install Postfix
@@ -32,7 +32,7 @@ vim /etc/postfix/main.cf
 ```
 # uncomment myhostname at line 102
 
-myhostname = server.malik.local
+myhostname = malik.local
 
 # uncomment mydomain at line 111
 mydomain = malik.local
@@ -68,7 +68,7 @@ systemctl restart postfix
 
 ```
 useradd --create-home suse
-passwd suse
+passwd ******
 ```
 
 # Install telnet
@@ -297,14 +297,14 @@ Q   Quit
 Command >> 
 ```
 
-In this case i change organization name become `malik` then save
+In this case i change organization name become `malik.local` then save
 
 ```
 SquirrelMail Configuration : Read: config.php
 Config version 1.4.0; SquirrelMail version 1.5.2 [SVN]
 ---------------------------------------------------------
 Organization Preferences
-1.  Organization Name      : malik
+1.  Organization Name      : malik.local
 2.  Organization Logo      : ../images/sm_logo.png
 3.  Org. Logo Width/Height : (0/0)
 4.  Organization Title     : SquirrelMail $version
@@ -393,3 +393,7 @@ localhost/squirrelmail
 ```
 
 login with your ordinary username and password
+
+# Source
+
+[https://www.unixmen.com/setup-local-mail-server-using-postfix-dovecot-squirrelmail-opensuse-13-x/](https://www.unixmen.com/setup-local-mail-server-using-postfix-dovecot-squirrelmail-opensuse-13-x/)
