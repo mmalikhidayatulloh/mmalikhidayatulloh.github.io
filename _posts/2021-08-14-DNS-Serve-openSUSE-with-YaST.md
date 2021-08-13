@@ -53,3 +53,7 @@ mail.malik.local
 ```
 ns.malik.local
 ```
+
+# Source
+
+[https://www.vavai.com/tutorial-mudahnya-konfigurasi-dns-server-pada-opensusesles-bagian-2/](https://www.vavai.com/tutorial-mudahnya-konfigurasi-dns-server-pada-opensusesles-bagian-2/)
