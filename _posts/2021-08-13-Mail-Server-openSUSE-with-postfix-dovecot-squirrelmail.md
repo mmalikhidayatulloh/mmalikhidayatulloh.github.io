@@ -360,23 +360,7 @@ hit `Q` to quit
 
 # Create sqirrelmail vhost
 
-```
-vim /etc/apache2/httpd.conf
-```
-
-add this configurations at end line of httpd.conf
-
-```
-Alias /squirrelmail /srv/www/htdocs/squirrelmail
-<Directory /srv/www/htdocs/squirrelmail>
-    Options Indexes FollowSymLinks
-    RewriteEngine On
-    AllowOverride All
-    DirectoryIndex index.php
-    Order allow,deny
-    Allow from all
-</Directory>
-```
+follow [this link](https://mmalikhidayatulloh.github.io/2021-08-14-Virtual-Host-Linux(openSUSE)/)
 
 Then restart apache2
 

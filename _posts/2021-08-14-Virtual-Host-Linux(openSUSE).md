@@ -1,4 +1,4 @@
-before you do this configuration, you should configure [DNS Server](/_posts/2021-08-14-DNS-Server-openSUSE-with-YaST.md) first.
+before you do this configuration, you should configure [DNS Server](https://mmalikhidayatulloh.github.io/2021-08-14-DNS-Server-openSUSE-with-YaST/) first.
 
 # Make configuration
 
