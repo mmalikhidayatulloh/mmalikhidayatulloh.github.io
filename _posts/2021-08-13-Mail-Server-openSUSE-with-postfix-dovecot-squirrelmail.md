@@ -373,8 +373,10 @@ systemctl restart apache2
 # Open browser
 
 ```
-localhost/squirrelmail
+mail.malik.local
 ```
+
+![](/assets/IMG/Screenshot_20210814_034801.png)
 
 login with your ordinary username and password
 

@@ -54,3 +54,5 @@ DocumentRoot /srv/www/htdocs/squirrelmail
 ```
 http://mail.malik.local
 ```
+
+![](/assets/IMG/Screenshot_20210814_034801.png)
