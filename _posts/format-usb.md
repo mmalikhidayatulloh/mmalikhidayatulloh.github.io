@@ -1,32 +1,75 @@
-Menggunakan Terminal
-Cek dulu
+ 
+{:toc}
 
+# Menggunakan Terminal
+
+Cek dulu directory usb-nya
+
+```
 df
+```
+
 Nama usb biasanya
 
+```
 /dev/sdb
-Umount
+```
 
+## Umount
+
+```
 sudo umount /dev/sdb
+```
 
-To format a USB drive with FAT32 file system, use:
+## Format
+
+Untuk memformat USB drive menjadi format `FAT32`:
+
+```
 sudo mkfs.vfat /dev/sdb
-To format a USB drive using the NTFS file system run:
+```
+
+Untuk memformat USB drive menjadi format `NTFS`:
+
+```
 sudo mkfs.ntfs /dev/sdb
-To format a USB drive in accordance with the exFAT file system use:
+```
+
+Untuk memformat USB drive ke dalam format `exFAT`:
+
+```
 sudo mkfs.exfat /dev/sdb
-Confirm the formatting process has completed successfully:
+```
 
+## Konfirmasi bahwa pemformatan berhasil:
+
+```
 sudo fsck /dev/sdb
-Hasil
+```
 
+Hasil:
+
+```
 ~ >>> sudo fsck /dev/sdb                                                                        
 fsck from util-linux 2.36.2
 fsck.fat 4.1 (2017-01-24)
 /dev/sdb: 0 files, 1/510992 clusters
-Menggunakan gparted
+```
+
+# Menggunakan gparted
+
+## Install Gparted
+
+```
 sudo zypper in gparted
-Pilih /dev/sdb
-Klik kanan pilih format to
-Pilih FAT32
-Klik simbol centang
+```
+
+## Cara memformat
+
+Pilih `/dev/sdb`
+
+Klik kanan pilih `format to`
+
+Pilih `FAT32` (atau format lain)
+
+Klik tanda centang
