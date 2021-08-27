@@ -15,9 +15,9 @@ In this case i want to make vhost for my mail server. So i customize configurati
 ```
 <VirtualHost *:80>
     #ServerAdmin webmaster@dummy-host.example.com
-    ServerAdmin webmaster@malik.local
+    ServerAdmin webmaster@malik.net.id
     #ServerName dummy-host.example.com
-    ServerName www.malik.local
+    ServerName www.malik.net.id
 
 
     # DocumentRoot: The directory out of which you will serve your
@@ -26,27 +26,38 @@ In this case i want to make vhost for my mail server. So i customize configurati
     # DocumentRoot /srv/www/vhosts/dummy-host.example.com
     DocumentRoot /srv/www/htdocs/
 
-....
+[....]
 
 </VirtualHost>
 
-###########################
-# Virtual host mail server#
-###########################
-NameVirtualHost *:80
-<VirtualHost *:80 >
-ServerName mail.malik.local
+#######################
+#   My Config
+#######################
 
-DocumentRoot /srv/www/htdocs/squirrelmail
-<Directory /srv/www/htdocs/squirrelmail>
-    Options Indexes FollowSymLinks
-    RewriteEngine On
-    AllowOverride All
-    DirectoryIndex index.php
-    Order allow,deny
-    Allow from all
+<VirtualHost *:80>
+ServerName mail.malik.net.id
+DocumentRoot "/srv/www/htdocs/mail"
+<Directory "/srv/www/htdocs/mail">
+<IfModule mod_rewrite>
+Require all granted
+</IfModule>
+</Directory>
+
+</VirtualHost>
+<VirtualHost *:80>
+ServerName lib.malik.net.id
+DocumentRoot "/srv/www/htdocs/library"
+<Directory "/srv/www/htdocs/library">
+Options all
 </Directory>
 </VirtualHost>
+
+```
+
+# Restart Apache
+
+```
+# systemctl restart apache2
 ```
 
 # Open Browser
@@ -55,4 +66,10 @@ DocumentRoot /srv/www/htdocs/squirrelmail
 http://mail.malik.local
 ```
 
-![](/assets/IMG/Screenshot_20210814_034801.png)
+![](/assets/IMG/DNS13.png)
+
+```
+http://lib.malik.local
+```
+
+![](/assets/IMG/DNS14.png)

@@ -5,18 +5,9 @@ The following command use super user(root).
 zypper rm -n sendmail
 ```
 
-# Set Hostname
+# Set DNS
 
-```
-vim /etc/hosts
-```
-
-add this configurations
-
-```
-192.168.43.224  malik.local
-```
-
+follow this link [DNS Server OpenSUSE]()
 # Install Postfix
 
 ```
@@ -32,10 +23,10 @@ vim /etc/postfix/main.cf
 ```
 # uncomment myhostname at line 102
 
-myhostname = malik.local
+myhostname = mail.malik.net.id
 
 # uncomment mydomain at line 111
-mydomain = malik.local
+mydomain = malik.net.id
 
 # uncomment myorigin at line 128
 myorigin = $mydomain
@@ -80,7 +71,7 @@ zypper in -y telnet
 # Test via telnet
 
 ```
-telnet localhost smtp
+telnet malik.net.id smtp
 ```
 
 output
@@ -94,7 +85,7 @@ Escape character is '^]'.
 type
 
 ```
-ehlo localhost
+ehlo malik.net.id
 ```
 
 result
@@ -178,18 +169,6 @@ You have new mail in /home/malik/Maildir
 ls /home/malik/Maildir/new/
 ```
 
-result
-
-```
-1628791173.V801I1ea23bM230219.lenovo-k2180
-```
-
-then read it
-
-```
-cat 1628791173.V801I1ea23bM230219.lenovo-k2180
-```
-
 # Install Dovecot
 
 ```
@@ -203,7 +182,7 @@ vim /etc/dovecot/dovecot.conf
 ```
 uncomment line 24
 ```
-protocols = imap pop3 lmtp submission
+protocols = imap pop3 lmtp # submission
 ```
 
 Edit file /etc/dovecot/conf.d/10-auth.conf file
@@ -227,7 +206,7 @@ systemctl start dovecot
 # Testing dovecot
 
 ```
-telnet localhost pop3
+telnet malik.net.id pop3
 ```
 
 result
@@ -260,7 +239,7 @@ Connection closed by foreign host.
 
 # Install Squirrelmail
 
-search squirrelmail using [pkgs.org](pkgs.org) then follow installation instruction
+search squirrelmail using https://pkgs.org/ then follow installation instruction
 
 # configuration squirrelmail
 
@@ -297,14 +276,14 @@ Q   Quit
 Command >> 
 ```
 
-In this case i change organization name become `malik.local` then save
+In this case i change organization name become `Home` then save
 
 ```
 SquirrelMail Configuration : Read: config.php
 Config version 1.4.0; SquirrelMail version 1.5.2 [SVN]
 ---------------------------------------------------------
 Organization Preferences
-1.  Organization Name      : malik.local
+1.  Organization Name      : Home
 2.  Organization Logo      : ../images/sm_logo.png
 3.  Org. Logo Width/Height : (0/0)
 4.  Organization Title     : SquirrelMail $version
@@ -373,10 +352,10 @@ systemctl restart apache2
 # Open browser
 
 ```
-mail.malik.local
+http://mail.malik.net.id
 ```
 
-![](/assets/IMG/Screenshot_20210814_034801.png)
+![](/assets/IMG/DNS13.png)
 
 login with your ordinary username and password
 
