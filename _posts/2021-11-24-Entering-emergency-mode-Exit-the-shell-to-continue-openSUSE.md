@@ -26,4 +26,4 @@ Karena belum solved, maka saya reboot lagi dan browsing lagi, setelah saya baca-
 fsck -y /dev/sda1
 ```
 
-solusi ini saya dapat dari website [ini](https://bobcares.com/blog/welcome-to-emergency-mode-in-linux-boot-error/   )
+solusi ini saya dapat dari website [ini](https://bobcares.com/blog/welcome-to-emergency-mode-in-linux-boot-error/)
