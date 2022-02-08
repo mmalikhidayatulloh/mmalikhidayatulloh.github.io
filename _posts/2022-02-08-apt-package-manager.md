@@ -69,19 +69,12 @@ apt-file update
 # Daftar package yang terinstall
 ```
 dpkg --list 
-
 aptitude search ~i 
-
 dpkg-query -l 
-
 dpkg-query -f '${binary:Package}\n' -W 
-
 dpkg -l | grep '^.i' 
-
 apt-cache pkgnames 
-
 dpkg --get-selections
-
 ```
 * Untuk mengecek status dari package yang terinstall
 ```
