@@ -60,3 +60,6 @@ kemudian run di command window
 ```
 opengl('save','software')
 ```
+
+# sumber
+https://www.mathworks.com/matlabcentral/answers/157894-resolving-low-level-graphics-issues-in-matlab
