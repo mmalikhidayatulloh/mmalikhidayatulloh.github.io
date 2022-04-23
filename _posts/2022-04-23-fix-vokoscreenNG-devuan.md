@@ -10,3 +10,7 @@ apt policy intel-media-va-driver
 ```
 sudo apt remove intel-media-va-driver
 ```
+
+
+# sumber
+https://github.com/vkohaupt/vokoscreenNG/issues/117
