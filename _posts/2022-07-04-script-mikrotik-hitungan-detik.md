@@ -1,7 +1,9 @@
 #Requirements
+
 ether1 as WAN
 
 ether2,3,4,5 as LAN
+
 #Script
 ```
 /ip dhcp-client add interface=ether1 disable=no
@@ -26,5 +28,7 @@ bridge-LAN
 /ip dns set servers=8.8.8.8 allow-remote-requests=yes
 
 ```
+
 #Source
+
 https://lms.onnocenter.or.id/wiki/index.php/Mikrotik:_Router_Sederhana
