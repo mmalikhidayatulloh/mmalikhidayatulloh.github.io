@@ -17,3 +17,12 @@ remote cAP dengan winbox
 winbox>wireless>cap>enable>interface:wlan>Discovery interface:ether1
 ```
 discovery interface, anda pilih interface mana yang menghubungkan antara cap dengan manager. bila tidak satu segmen/melewati jalur routing maka masukkan ip manager
+
+# 3. Konfig dasar
+cap akan otomatis terdeteksi oleh capsman dan bisa langsung dikonfigurasi
+```
+wiress>mode:ap>SSID:nama wifi>channel>frekuensi:2412>channel width:20MHz>Band:2ghz-b/g/n>datapath>bridge:bridge-LAN>Apply
+```
+# 4. Fitur
+## 1. Provioning
+## 2. Access list
