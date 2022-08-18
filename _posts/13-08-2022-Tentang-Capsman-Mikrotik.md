@@ -1,20 +1,19 @@
-Fungsi magement banyak AP secara terpusat. Perlu nambah fitur supaya lebih baik
+CAPsMAN untuk memanage banyak AP secara terpusat karena umumnya untuk mengatur AP itu harus dikonfig manual di masing-masing AP. Nah dengan adanya CAPsMAN maka konfigurasi bisa dilakukan secara terpusat.
 
-Kenapa harus pake Capsman? karena banyak ap dan males konfigure satupersatu kedua karena gratis ketiga konfigurasinya gampang
+Syarat:
+* Ada yang bertidak sebagai manager, biasanya router dan sebagai manager tidak harus punya interface wlan tapi harus punya package wireless karena fitur capsman ada di package wireless
+* Ada yang bertindak sebagai cAP. Boleh cAP, cAP lite, hAP, yang penting perangkat mikrotik yang punya interface wlan
 
-Kita punya banyak AP tapi gk pake Capsman boleh? ya boleh
+Dasar-dasarnya:
 
-1. Provisioning
-
-CAP-CAP yang kita punya punya konfigurasi secara otomatis sehingga kita pertu template konfigurasinya. Fitur yang sering digunakan.
-misal 100 AP misal ngonfig manual itu pasti lama, misal ada yang mau diubah SSID. Provisioning untuk mendeploy CAP yang baru. Misal ada CAP baru yang masuk maka akan terdeteksi dan jika sesuai dengan matcher yang kita tentukan maka akan otomatis terkonfigurasi
-
-2. Access list
-
-memanage client yang terkoneksi, di yang biasa kita bisa menentukan mac-mac yang bisa konek dan yang tidak,  mac ini passwordnya ini mac ini passwordnya itu. kalo di capsman dia akan memanage semua AP jaddi kita akan punya data access list di setiap ap yang disimpan secara terpusat
-
-3. Datapath
-
-ngatur local forwarding
-
-CAP mati semua AP mati
+# 1. Aktifkan CAPsMAN manager
+remote router yang akan menjadi manager dengan winbox
+```
+winbox>capman>manager>enable
+```
+# 2. Konfigurasi cAP
+remote cAP dengan winbox
+```
+winbox>wireless>cap>enable>interface:wlan>Discovery interface:ether1
+```
+discovery interface, anda pilih interface mana yang menghubungkan antara cap dengan manager. bila tidak satu segmen/melewati jalur routing maka masukkan ip manager
