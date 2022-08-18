@@ -1,4 +1,5 @@
 ```
+apt update -y ; apt upgrade -y
 apt install -y apache2 mysql-server php libapache2-mod-php php-mysql php-curl php-json php-cgi php-curl php-gd php-mbstring php-xml php-xmlrpc php-intl
 systemctl enable apache2 mariadb
 systemctl start apache2 mariadb
