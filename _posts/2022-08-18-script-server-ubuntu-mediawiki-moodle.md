@@ -1,7 +1,9 @@
 ```
-apt install -y apache2 mysql-server php libapache2-mod-php php-mysql php-curl php-json php-cgi php-curl php-gd php-mbstring php-xml php-xmlrpc
+apt install -y apache2 mysql-server php libapache2-mod-php php-mysql php-curl php-json php-cgi php-curl php-gd php-mbstring php-xml php-xmlrpc php-intl
 systemctl enable apache2 mariadb
 systemctl start apache2 mariadb
+```
+```
 mysql -u root
 CREATE DATABASE wiki;
 CREATE USER 'adminwiki'@'localhost' IDENTIFIED BY 'adminwiki';
@@ -9,7 +11,10 @@ GRANT ALL ON webdata.* TO 'adminwiki'@'localhost';
 CREATE DATABASE moodle;
 CREATE USER 'adminmoodle'@'localhost' IDENTIFIED BY 'adminmoodle';
 GRANT ALL ON webdata.* TO 'adminmoodle'@'localhost';
+SHOW DATABASES;
 quit
+```
+```
 cd /var/www/html/
 git clone git://git.moodle.org/moodle.git
 cd moodle
