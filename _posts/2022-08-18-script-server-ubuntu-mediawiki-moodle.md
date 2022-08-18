@@ -1,5 +1,5 @@
 ```
-apt install apache2 mysql-server php libapache2-mod-php php-mysql php-curl php-json php-cgi install php-curl php-gd php-mbstring php-xml php-xmlrpc
+apt install -y apache2 mysql-server php libapache2-mod-php php-mysql php-curl php-json php-cgi php-curl php-gd php-mbstring php-xml php-xmlrpc
 mysql -u root
 CREATE DATABASE wiki;
 CREATE USER 'adminwiki'@'localhost' IDENTIFIED BY 'adminwiki';
