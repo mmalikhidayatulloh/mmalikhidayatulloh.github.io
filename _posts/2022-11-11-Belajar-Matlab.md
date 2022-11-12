@@ -18,22 +18,23 @@ pake titik tiga (...) terus enter
 ```
 % komentar tidak di run
 ```
-9. clear window
+8. clear window
 ```
 clc
 ```
-11. ans
+9. ans
 ```
 hasil dari running
 ```
-13. variable
+10. variable
 ```
 pake alfabet, jika variablenya sama dengan nilai yang berbeda maka variable tsb diupdate
 ```
-14. desimal
+11. desimal
 ```
 0.4 (pake titik)
 ```
+
 # Aritmatika
 1. Jumlah
 ```
@@ -51,7 +52,7 @@ pake alfabet, jika variablenya sama dengan nilai yang berbeda maka variable tsb 
 ```
 /
 ```
-9. kurung
+8. kurung
 ```
 ()
 ```
@@ -85,11 +86,11 @@ cosd(60)
 18. arc cosec
 19. arc cotan
 # Matematika lain
-1. exp
+exp
 ```
 exp(3)
 ```
-3. factorial
+factorial
 ```
 factorial(6)
 ```
@@ -180,30 +181,22 @@ randn(m,n)
 ```
 randi(m,n)
 ```
-## operasi
+## operasi matriks
 ```
 cross(a,b)
-```
-```
-det(a)
-```
-```
-x=1:2:5;diag(x)
 ```
 ```
 dot(a,b)
 ```
 ```
+det(a)
+```
+```
+x=1:2:5;
+diag(x)
+```
+```
 length(x)
-```
-```
-max(a),min(a)
-```
-```
-mean(x)
-```
-```
-median(x)
 ```
 ```
 num2str(a)
@@ -220,6 +213,19 @@ size(a)
 ```
 std(a)
 ```
+
+# Statistik
+```
+max(a),min(a)
+```
+```
+mean(x)
+```
+```
+median(x)
+```
+
+
 # perbandingan
 ```
 >
@@ -234,6 +240,7 @@ s&g
 s|h
 ~A
 ```
+
 # if
 ```
 if
