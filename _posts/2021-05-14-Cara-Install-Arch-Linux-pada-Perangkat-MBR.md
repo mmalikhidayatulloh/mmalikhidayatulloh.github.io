@@ -63,7 +63,9 @@ Ketika laptop baru menyala, tekan F2 sampai masuk ke menu BIOS kemudian cari men
     >Langkah ini paling beresiko!
     
     Jalankan perintah `fdisk /dev/sda`
-    
+
+    Klik `o` untuk mbr
+
     Klik `n` untuk partisi baru
     
     Klik `p` untuk primary (partisi utama)
@@ -74,64 +76,66 @@ Ketika laptop baru menyala, tekan F2 sampai masuk ke menu BIOS kemudian cari men
 
     Jika ingin full partisi langsung klik enter (untuk swap urusan gampang karena bisa pake `swapfile`)
 
+    Klik `a` untuk menandai boot
+
     Jika ingin swap terpisah, Klik `n` kemudian `p` kemudian `enter` kemudian `enter` lagi kemudian `+2G` (untuk swap 2GB)
 
     Klik `w` untuk menyimpan pengaturan
 
-14. Cek lagi dengan `lsblk`
-15. Jika menggunakan swap terpisah maka perlu mengaktifkan swap dengan cara `mkswap /dev/sda1` atau sda2 sesuai lokasinya. kemudian `swapon /directorySWAPnya`
-16. Setelah itu format untuk partisi rootnya dengan  `mkfs.ext4 /dev/sda2` atau sda1 sesuai lokasinya
-17. Kemudian partisi rootnya di mount dengan cara
+15. Cek lagi dengan `lsblk`
+16. Jika menggunakan swap terpisah maka perlu mengaktifkan swap dengan cara `mkswap /dev/sda1` atau sda2 sesuai lokasinya. kemudian `swapon /directorySWAPnya`
+17. Setelah itu format untuk partisi rootnya dengan  `mkfs.ext4 /dev/sda2` atau sda1 sesuai lokasinya
+18. Kemudian partisi rootnya di mount dengan cara
 
         mount /dev/sda2 /mnt
 
-18. Kemudian install package linux dasar ke /mnt
+19. Kemudian install package linux dasar ke /mnt
 
         pacstrap /mnt base base-devel linux linux-firmware vim
 
-19. Kemudian
+20. Kemudian
 
         genfstab -U /mnt >> /mnt/etc/fstab
 
-20. Cek fstab sudah terisi
+21. Cek fstab sudah terisi
 
         cat /mnt/etc/fstab
 
-21. Kemudian
+22. Kemudian
 
-        Arch-chroot /mnt
+        arch-chroot /mnt
 
-22. Kemudian Setting zona waktu
+23. Kemudian Setting zona waktu
 
         ln -sf /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
 
-23. Kemudian
+24. Kemudian
 
         hwclock --systohc
 
-24. Kemudian 
+25. Kemudian 
 
         vim /etc/locale.gen
 
     Hapus tanda # pada `# en_US.UTF-8`
 
-25. Kemudian
+26. Kemudian
 
         locale-gen
 
-26. Kemudian
+27. Kemudian
 
         vim /etc/locale.conf
     
     Masukkan `LANG=en_US.UTF-8`
 
-27. Kemudian setting hostname
+28. Kemudian setting hostname
 
         vim /etc/hostname
 
 
     Masukkan nama hostname sesuai keinginan Anda. Misalnya `lenovo-K2180`
-28. Kemudian
+29. Kemudian
 
         vim /etc/hosts
     
@@ -142,23 +146,23 @@ Ketika laptop baru menyala, tekan F2 sampai masuk ke menu BIOS kemudian cari men
         ::1         localhost
         127.0.0.1   lenovo-K2180
 
-29. Kemudian set root password
+30. Kemudian set root password
 
         passwd
 
-30. Kemudian install package lain
+31. Kemudian install package lain
 
         pacman -S grub networkmanager network-manager-applet wireless_tools wpa_supplicant dialog os-prober linux-headers mtools dosfstools 
 
-31. Kemudian
+32. Kemudian
 
         grub-install --target=i386-pc /dev/sda
 
-32. Kemudian
+33. Kemudian
 
         grub-mkconfig -o /boot/grub/grub.cfg
 
-33. Kemudian
+34. Kemudian
 
         systemctl enable NetworkManager
 
