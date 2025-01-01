@@ -1,4 +1,4 @@
-'''
+```
 sudo dnf install gh
 gh auth login
 git config user.email "m4likhidayatulloh@gmail.com"
@@ -9,4 +9,4 @@ git add .
 git commit -m "message"
 git push
 graph
-'''
+```
