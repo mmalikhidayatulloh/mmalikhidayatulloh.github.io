@@ -60,4 +60,5 @@
 - Tidak selengkap fedora
 - Dan beda dengan fedora
 - Troubleshoot kurang
-- Codecs ffmpeg ada yg ndak bisa ketika pake audacity. 
+- Codecs ffmpeg ada yg ndak bisa ketika pake audacity
+- Terus ketika install FFmpeg dan running audacity masih error, alasannya ffmpeg tidak ikut terinstall ketika menginstall audacity, audacity direinstall, seluruh cache dan konfigurasi audaciy yg terinstall sudah diremove masih tetap
