@@ -56,6 +56,5 @@ sudo dnf install -y xrdp
 sudo systemctl enable --now xrdp
 sudo firewall-cmd --permanent --add-port=3389/tcp
 sudo firewall-cmd --reload
-gns3server &
-gns3
+reboot
 ```
