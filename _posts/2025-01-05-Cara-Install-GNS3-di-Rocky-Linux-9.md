@@ -58,3 +58,8 @@ sudo firewall-cmd --permanent --add-port=3389/tcp
 sudo firewall-cmd --reload
 reboot
 ```
+
+# Referensi
+https://github.com/uwbfritz/gns3-rhel9/blob/master/rhel9-gns3-install.sh
+
+https://gerov.eu/posts/how-to-install-gns3-on-rhel-centos/
