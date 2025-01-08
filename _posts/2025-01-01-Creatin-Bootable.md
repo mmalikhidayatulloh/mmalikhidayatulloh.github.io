@@ -1,11 +1,35 @@
 Creating bootable USB flash drive from a Terminal on Linux 
+
 Plug in the USB flash drive.
 
-Find the corresponding device with lsblk. You can distinguish them by their size.
-
-Make sure all partitions on the device are properly unmounted. Replace sdX with your device (e.g. sdb).
-
+Find out the name of your USB drive with `ls -l /dev/disk/by-id/usb-*` and check with lsblk to make sure that it is not mounted
+```
 sudo umount /dev/sdX*
-Then use the dd utility to write the image to the USB flash drive.
+```
+To restore the USB drive as an empty, usable storage device after using ISO image, the `ISO 9660` filesystem signature needs to be removed by running
+```
+# wipefs --all /dev/disk/by-id/usb-My_flash_drive
+```
+as root
 
-sudo dd bs=4M conv=fsync oflag=direct status=progress if=<path-to-image> of=/dev/sdX
+Then
+# using cat:
+```
+# cat path/to/archlinux-version-x86_64.iso > /dev/disk/by-id/usb-My_flash_drive
+```
+# using cp:
+```
+# cp path/to/archlinux-version-x86_64.iso /dev/disk/by-id/usb-My_flash_drive
+```
+# using dd:
+```
+# dd bs=4M if=path/to/image.iso of=/dev/disk/by-id/usb-My_flash_drive conv=fsync oflag=direct status=progress
+```
+# using tee:
+```
+# tee < path/to/archlinux-version-x86_64.iso > /dev/disk/by-id/usb-My_flash_drive
+```
+# using pv:
+```
+# pv path/to/archlinux-version-x86_64.iso -Yo /dev/disk/by-id/usb-My_flash_drive
+```
