@@ -1,0 +1,5 @@
+Generally, the photocatalytic oxidation of organic pollutants takes place via semiconducting nanoparticles under the irradiation of sunlight in aqueous solution. The degradation of dyes arises through the combined relation of the energy of sunlight photons and the band gap of semiconductor materials under the irradiation of sunlight. During sunlight irradiation, the influence of photons with a relatively higher energy than the band gap energy of a material can result in the valence electrons receiving enough energy to move up to the conduction band, leaving behind holes in the valence band. Hence, the holes promote the reduction process while electrons promote the oxidation process, which is actually the reason for the degradation of dyes under photocatalytic oxidation. For these reasons, various nanostructured photocatalysts, including Ag, Ag3PO4, CdS, CuO, V2O5, TiO2, g-C3N4, SiO2, ZnO, porphyrin, AB2X4, and their composites systems, have been found to be highly efficient photocatalytic materials for the removal of organic dyes from wastewater.
+
+
+
+https://pubs.rsc.org/en/content/articlelanding/2025/ra/d4ra08782h
