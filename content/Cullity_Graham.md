@@ -29,7 +29,7 @@ Many of the equations in this introductory chapter and the next are stated witho
 
 Almost everyone as a child has played with magnets and felt the mysterious forces of attraction and repulsion between them. These forces appear to originate in regions called poles, located near the ends of the magnet. The end of a pivoted bar magnet which points approximately toward the north geographic pole of the Earth is called the northseeking pole, or, more briefly, the north pole. Since unlike poles attract, and like poles repel, this convention means that there is a region of south polarity near the north geographic pole. The law governing the forces between poles was discovered independently in England in 1750 by John Michell (1724 – 1793) and in France in 1785 by Charles Coulomb (1736– 1806). This law states that the force F between two poles is proportional to the product of their pole strengths $p_{1}$ and $p_{2}$ and inversely proportional to the square of the distance d between them:
 
-![](/content/images/page_20_image_2.jpg)
+![](images/page_20_image_2.jpg)
 
 Fig. 1.1 Torsion balance for measuring the forces between poles.
 
@@ -51,7 +51,7 @@ If the proportionality constant k is again put equal to 1, this equation then de
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>1</sup>The existence of isolated magnetic poles, or monopoles, is not forbidden by any known law of nature, and serious efforts to find monopoles have been made [P. A. M. Dirac, Proc. R. Soc. Lond., A133 (1931) p. 60; H. Jeon and M. J. Longo, Phys. Rev. Lett., 75 (1995) pp. 1443–1446]. The search has not so far been successful.</span></small>
 
-![](/content/images/page_21_image_2.jpg)
+![](images/page_21_image_2.jpg)
 
 Fig. 1.2 External field of a bar magnet.
 
@@ -71,7 +71,7 @@ $$
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>2</sup>James Clerk Maxwell (1831–1879), Scottish physicist, who developed the classical theory of electromagnetic fields described by the set of equations known as Maxwell’s equations.</span></small>
 
-![](/content/images/page_22_image_2.jpg)
+![](images/page_22_image_2.jpg)
 
 Fig. 1.3 Fields of bar magnets revealed by iron filings.
 
@@ -91,7 +91,7 @@ $$
 m = p l,\tag{1.4}
 $$
 
-![](/content/images/page_22_image_10.jpg)
+![](images/page_22_image_10.jpg)
 
 Fig. 1.4 Bar magnet in a uniform field. (Note use of plus and minus signs to designate north and south poles.)
 
@@ -129,7 +129,7 @@ Consider two bar magnets of the same size and shape, each having the same pole s
 
 In these examples, we double the magnetic moment by doubling the volume. The magnetic moment per unit volume has not changed and is therefore a quantity that describes the degree to which the magnets are magnetized. It is called the intensity of magnetization, or simply the magnetization, and is written M (or I or J by some authors). Since
 
-![](/content/images/page_24_image_2.jpg)
+![](images/page_24_image_2.jpg)
 
 Fig. 1.5 Compound magnets.
 
@@ -161,7 +161,7 @@ Magnetization can also be expressed per mole, per unit cell, per formula unit, e
 
 As shown in Appendix 1, the field of a magnet of pole strength p and length l, at a distance r from the magnet, depends only on the moment pl of the magnet and not on the separate values of p and l, provided r is large relative to l. Thus the field is the same if we halve the length of the magnet and double its pole strength. Continuing this process, we obtain in the limit a very short magnet of finite moment called a magnetic dipole. Its field is sketched in Fig. 1.6. We can therefore think of any magnet, as far as its external field is concerned, as being made up of a number of dipoles; the total moment of the magnet is the sum of the moments, called dipole moments, of its constituent dipoles.
 
-![](/content/images/page_25_image_2.jpg)
+![](images/page_25_image_2.jpg)
 
 Fig. 1.6 Field of a magnetic dipole.
 
@@ -193,7 +193,7 @@ $$
 m (\text {loop}) = \frac {\pi R ^ {2} i}{1 0} = \frac {A i}{1 0} = \mathrm{amp} \cdot \mathrm{cm} ^ {2} \text {or erg / Oe},\tag{1.12}
 $$
 
-![](/content/images/page_26_image_2.jpg)
+![](images/page_26_image_2.jpg)
 
 Fig. 1.7 Magnetic fields of currents.
 
@@ -213,19 +213,19 @@ $$
 
 where A is the cross-sectional area.
 
-![](/content/images/page_26_image_10.jpg)
+![](images/page_26_image_10.jpg)
 
 Fig. 1.8 Magnetic field of a solenoid.
 
-![](/content/images/page_27_image_2.jpg)
+![](images/page_27_image_2.jpg)
 
 (a)
 
-![](/content/images/page_27_image_4.jpg)
+![](images/page_27_image_4.jpg)
 
 (b)
 
-![](/content/images/page_27_image_6.jpg)
+![](images/page_27_image_6.jpg)
 
 Fig. 1.9 Amperian current loops in a magnetized bar.
 
@@ -237,7 +237,7 @@ We are now in a position to consider how magnetization can be measured and what 
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>3</sup>Sometimes called a Rowland ring, after the American physicist H. A. Rowland (1848– 1901), who first used this kind of specimen in his early research on magnetic materials. He is better known for the production of ruled diffraction gratings for the study of optical spectra.</span></small>
 
-![](/content/images/page_28_image_2.jpg)
+![](images/page_28_image_2.jpg)
 
 Fig. 1.10 Circuit for magnetization of a ring. Dashed lines indicate flux.
 
@@ -269,7 +269,7 @@ All substances are magnetic to some extent. However, examples of the first three
 
 We can formally understand how the material of the ring causes a change in flux if we consider the fields which actually exist inside the ring. Imagine a very thin, transverse cavity cut out of the material of the ring, as shown in Fig. 1.11. Then H lines/cm<sup>2</sup> cross this gap, due to the current in the magnetizing winding, in accordance with Equation 1.13. This flux density is the same whether or not there is any material in the ring. In addition, the applied field H, acting from left to right, magnetizes the material, and north and south poles are produced on the surface of the cavity, just as poles are produced on the ends of a magnetized bar. If the material is ferromagnetic, the north poles will be on the left-hand surface and south poles on the right. If the intensity of magnetization is M, then each square centimeter of the surface of the cavity has a pole strength of M, and 4pM lines issue from it. These are sometimes called lines of magnetization. They add to the lines of force due to the applied field H, and the combined group of lines crossing the gap are called lines of magnetic flux or lines of induction. The total number of lines per $\mathrm{cm}^2$ is called the magnetic flux density or the induction B. Therefore,
 
-![](/content/images/page_29_image_7.jpg)
+![](images/page_29_image_7.jpg)
 
 Fig. 1.11 Transverse cavity in a portion of a Rowland ring.
 
@@ -311,9 +311,9 @@ Typical curves of M vs H, called magnetization curves, are shown in Fig. 1.12 fo
 
 2. Hysteresis, or irreversibility. After saturation, a decrease in H to zero does not reduce M to zero. Ferro- and ferrimagnetic materials can thus be made into permanent magnets. The word hysteresis is from a Greek word meaning “to lag behind,” and is today applied to any phenomenon in which the effect lags behind the cause, leading to irreversible behavior. Its first use in science was by Ewing$^{5}$ in 1881, to describe the magnetic behavior of iron.
 
-![](/content/images/page_31_chart_11.jpg)
+![](images/page_31_chart_11.jpg)
 
-![](/content/images/page_31_chart_12.jpg)
+![](images/page_31_chart_12.jpg)
 
 Fig. 1.12 Typical magnetization curves of (a) a diamagnetic; (b) a paramagnetic or antiferromagnetic; and (c) a ferromagnetic of ferrimagnetic.
 
@@ -333,9 +333,9 @@ $$
 
 Note that μ is not the slope $dB/dH$ of the B, H curve, but rather the slope of a line from the origin to a particular point on the curve. Two special values are often quoted, the initial permeability $\mu_{0}$ and the maximum permeability $\mu_{\mathrm{max}}$ These are illustrated in Fig. 1.13, which also shows the typical variation of μ with H for a ferro- or ferrimagnetic. If not otherwise specified, permeability μ is taken to be the maximum permeability $\mu_{\mathrm{max}}$ . The local slope of the B, H curve $dB/dH$ is called the differential permeability, and is sometimes
 
-![](/content/images/page_32_image_9.jpg)
+![](images/page_32_image_9.jpg)
 
-![](/content/images/page_32_image_10.jpg)
+![](images/page_32_image_10.jpg)
 
 Fig. 1.13 (a) B vs H curve of a ferro- or ferrimagnetic, and (b) corresponding variation of μ with H.
 
@@ -453,11 +453,11 @@ Both ferro- and ferrimagnetic materials differ widely in the ease with which the
 
 Figure 1.15 shows magnetization curves both in terms of B (full line from the origin in first quadrant) and M (dashed line). Although M is constant after saturation is achieved, B continues to increase with H, because H forms part of B. Equation 1.15 shows that the slope $\mathrm{dB / dH}$ is unity beyond the point $B_{s},$ called the saturation induction; however, the slope of this line does not normally appear to be unity, because the B and H scales are usually quite different. Continued increase of H beyond saturation will cause $\mu (\mathrm{cgs})$ or $\mu_{\mathrm{r}}(\mathrm{SI})$ to approach 1 as H approaches infinity. The curve of B vs H from the demagnetized state to saturation is called the normal magnetization or normal induction curve. It may be measured in two different ways, and the demagnetized state also may be achieved in two different ways, as will be noted later in this chapter. The differences are not practically significant in most cases.
 
-![](/content/images/page_35_chart_15.jpg)
+![](images/page_35_chart_15.jpg)
 
 Fig. 1.14 Magnetization curves of different materials.
 
-![](/content/images/page_36_image_2.jpg)
+![](images/page_36_image_2.jpg)
 
 Fig. 1.15 Magnetization curves and hysteresis loops. (The height of the M curve is exaggerated relative to that of the B curve.)
 
@@ -473,7 +473,7 @@ There are an infinite number of symmetrical minor hysteresis loops inside the ma
 
 If a specimen is being cycled on a symmetrical loop, it will always be magnetized in one direction or the other when H is reduced to zero. Demagnetization is accomplished by subjecting the sample to a series of alternating fields of slowly decreasing amplitude. In this way the induction is made to traverse smaller and smaller loops until it finally arrives at the origin (Fig. 1.16). This process is known as cyclic or field demagnetization. An alternative demagnetization method is to heat the sample above its Curie point, at which it becomes paramagnetic, and then to cool it in the absence of a magnetic field. This is called thermal demagnetization. The two demagnetization methods will not in general lead to identical internal magnetic structures, but the difference is inconsequential for most practical purposes. Some practical aspects of demagnetization are considered in the next chapter.
 
-![](/content/images/page_37_image_7.jpg)
+![](images/page_37_image_7.jpg)
 
 Fig. 1.16 Demagnetization by cycling with decreasing field amplitude.
 
@@ -521,9 +521,9 @@ $$
 H = C _ {1} \frac {n i}{L} \left[ \frac {L + 2 x}{2 \sqrt {D ^ {2} + (L + 2 x) ^ {2}}} + \frac {L - 2 x}{2 \sqrt {D ^ {2} + (L - 2 x) ^ {2}}} \right],\tag{2.1}
 $$
 
-![](/content/images/page_40_chart_9.jpg)
+![](images/page_40_chart_9.jpg)
 
-![](/content/images/page_40_chart_10.jpg)
+![](images/page_40_chart_10.jpg)
 
 Fig. 2.1 Single-layer solenoid and its field distribution. The axial field at point P is expressed as the fraction of the field at the center of an infinitely long solenoid.
 
@@ -582,17 +582,17 @@ $$
 
 Figure 2.3 shows the field from each of the individual coils (normalized to unity), and the total field from both. G. G. Scott [J. Appl. Phys. , 28 (1957) pp. 270– 272] gives equations for both components of the field at points off the axis. For the same power consumption, Helmholtz coils produce a field which is only a few percent of that produced by a solenoid of length r. They are thus confined to low-field applications.
 
-![](/content/images/page_43_image_2.jpg)
+![](images/page_43_image_2.jpg)
 
 Fig. 2.2 Helmholtz coils. The spacing between coils L is equal to the coil radius r.
 
 By increasing the coil spacing slightly, the length of the uniform field region can be increased at the cost of a slight dip in field at the center. Figure 2.4 compares the computed fields of a “pure” Helmholtz coil with one where the coil spacing has been increased by 10%. The arrows show the distance over which the field is within 0.7% of the maximum field. Increasing the coil spacing by 10% lowers the maximum field by about 5%, but increases the length of the uniform field by almost 50%. Equation 2.4 is written in a form than permits the effect of changing the coil spacing L to be easily calculated.
 
-![](/content/images/page_43_chart_6.jpg)
+![](images/page_43_chart_6.jpg)
 
 Fig. 2.3 Field distribution in Helmholtz coils. Position is specified in units of the coil radius r. The light lines show the field (normalized to unity) from the individual coils (gray bars), located at +0.5 r, and the heavy line is the total field.
 
-![](/content/images/page_44_chart_2.jpg)
+![](images/page_44_chart_2.jpg)
 
 Fig. 2.4 Field distribution in a “pure” Helmholtz coil (upper curve) compared with field distribution in a Helmholtz coil pair whose coil spacing has been increased by 10%. The dimension lines show the distance over which the field is uniform within 0.7% of the maximum field.
 
@@ -604,21 +604,21 @@ To produce very high fields with normal solenoids requires very large power inpu
 
 Beginning about 1936, Francis Bitter [Rev. Sci. Instrum., 10 (1939) pp. 373– 381] began the development of high-field solenoids of a new type. The coil of a Bitter magnet is sketched in Fig. 2.5, and a photograph of two partly assembled coils in shown in Fig. 2.6. (Any device which produces a field is commonly referred to as a “magnet,” whether or not it contains iron.) The winding is composed, not of wire, but of thin disks of copper or a copper alloy. These disks, usually 1 ft (30 cm) or more in diameter and about 0.04 in (1 mm) thick, have a central hole and a narrow radial slot and are insulated from each other by similarly cut sheets of thin insulating material. Each copper disk is rotated about $20^{\circ}$ with respect to its neighbor, so that the region of overlap provides a conducting path for the current to flow from one disk to the next. The current path through the entire stack of disks is therefore helical, and the stack of disks acts as a solenoid. The disks are clamped tightly together and enclosed
 
-![](/content/images/page_45_image_2.jpg)
+![](images/page_45_image_2.jpg)
 
 Fig. 2.5 Sketch of a Bitter magnet solenoid. Arrows indicate the current path from one disk to another.
 
-![](/content/images/page_45_image_4.jpg)
+![](images/page_45_image_4.jpg)
 
 Fig. 2.6 Photograph of partially-assembled Bitter magnets. Figures 2.6 and 2.7 are by Walter Thorner, National High Magnetic Field Laboratory.
 
-![](/content/images/page_46_image_2.jpg)
+![](images/page_46_image_2.jpg)
 
 (a)
 
-![](/content/images/page_46_image_4.jpg)
+![](images/page_46_image_4.jpg)
 
-![](/content/images/page_46_image_5.jpg)
+![](images/page_46_image_5.jpg)
 
 (b)
 
@@ -636,11 +636,11 @@ For even higher fields, flux compression devices can be used. A large field is c
 
 The phenomenon of superconductivity provides a radically different approach to the highfield problem. When a normal metal is cooled near 0K, its electrical resistivity decreases to a low but nonzero value $\rho_{\mathrm{r}}$ called the residual resistivity (Fig. 2.8a). However, the resistivity of some metals and alloys decreases abruptly to zero at a critical temperature $T_{\mathrm{c}}$ These materials are called superconductors; lead $(T_{\mathrm{c}} = 7.2\mathrm{K})$ and tin $(T_{\mathrm{c}} = 3.7\mathrm{K})$ are examples. (The magnetic properties of superconductors are also important; see Chapter 16.) If a current is once started in a circuit formed of a superconductor maintained below $T_{\mathrm{c}}$ it will persist indefinitely without any power input or heat generation, because the resistance is zero. The attractive possibility at once presents itself of producing very large magnetic fields by making a solenoid of, for example, lead wire and operating it below $T_{\mathrm{c}}$ by immersing the windings in liquid helium (4.2K). However, soon after the discovery of superconductivity in 1911, it was found that an applied magnetic field decreased $T_{c}$ and a field of a few hundred oersteds or several tens of milli-tesla destroyed the superconductivity completely (Fig. 2.8b). Thus, when the field produced by the solenoid itself exceeds a critical value $H_{\mathrm{cr}}$ the normal resistivity of the wire returns, along with the attendant problems of heating and power consumption.
 
-![](/content/images/page_48_image_2.jpg)
+![](images/page_48_image_2.jpg)
 
 (a)
 
-![](/content/images/page_48_image_4.jpg)
+![](images/page_48_image_4.jpg)
 
 (b)
 
@@ -661,19 +661,19 @@ In the ordinary laboratory, the need for fields larger than those obtainable fro
 An electromagnet consists essentially of an iron “core” around which is wrapped a coil of wire carrying a direct current. Figure 2.9 illustrates its development. A simple solenoid is shown in Fig. 2.9a; the field H at its center C is proportional to the number of ampere-turns per unit length of its winding, in accordance with Equation 2.3. If an iron rod is inserted in the coil, as in Fig. 2.9b, the field at its center C, inside the iron, is now very much larger, because the field is now given by B, which is the sum of H due to the current and M due to the iron (in appropriate units; Equation 1.15). We cannot, of course, make any use of the field at a point inside the iron. However, the field at the point P, just outside the end of the rod, is also equal to B. Further away, the lines of force diverge and the flux density, or field strength, decreases rapidly. The iron has, in effect, multiplied the field due to the current, and the multiplying factor is simply the permeability μ or $\mu_{r}$ , because $B = \mu H.$ Thus, if the permeability is 2000 for $H = 10\mathrm{Oe}$ or 1 mT, the field inside and just outside the iron is 20,000 Oe or 2 T. In this way quite a large field can be obtained with a relatively low current. Here we have ignored the fact that B inside the rod near one end is much less than B in the center of the rod, as we shall see in Section 2.6. When this effect is taken into account, we find that the current in the coil has to produce a field H many times larger than 10 Oe or 1 mT if the flux density B at the end of the rod is to be 20,000 G or 2 T. Even so, this current will still be very much less than if the iron were absent.
 
 
-![](/content/images/page_49_image_6.jpg)
+![](images/page_49_image_6.jpg)
 
 (a)
 
-![](/content/images/page_49_image_7.jpg)
+![](images/page_49_image_7.jpg)
 
 (b)
 
-![](/content/images/page_49_image_9.jpg)
+![](images/page_49_image_9.jpg)
 
 (c)
 
-![](/content/images/page_49_image_11.jpg)
+![](images/page_49_image_11.jpg)
 
 (d)
 
@@ -683,7 +683,7 @@ The rotor of an ordinary electric motor or generator is fundamentally a rotating
 
 The divergence of the lines of force near the ends of a straight iron rod can be reduced by bending the rod into a circle so that the ends nearly touch, as in Fig. 2.9c. The flux then travels directly from one pole to the other across the air gap. As the current in the winding is increased, the magnetization of the iron increases to its saturation value $M_{\mathrm{s}}$ . The maximum contribution of the iron to the field in the air gap is therefore about 21.5 kG or 2.15 T, if the pole faces are flat. Any further increase is due only to an increased current in the winding. To make this contribution more effective, the turns of the winding are brought close to the air gap, and the magnet assumes the final form shown in Fig. 2.9d. The flux generated by the winding passes through the core into the yoke, and back through the other core. Both core and yoke are made of iron or low-carbon steel, annealed to produce high permeability. The yoke must also be massive enough to resist the strong force of attraction between the two poles. The windings are usually water-cooled. The size of a magnet is specified in terms of the diameter of its poles, and electromagnets are made in a range of sizes from 3 to 12 inches (7.5 to 30 cm) or more. Figure 2.10 shows a commercial electromagnet with its power supply and measuring equipment.
 
-![](/content/images/page_50_image_5.jpg)
+![](images/page_50_image_5.jpg)
 
 Fig. 2.10 Commercial electromagnet (center). Power supply at left, control and measurement equipment on right. Courtesy Lake Shore Cryotronics, Inc.
 
@@ -691,17 +691,17 @@ When a field uniform over a fairly large volume is required, flat pole faces are
 
 In many electromagnets the size of the air gap (distance between poles) can be adjusted by a screw mechanism or by interchangeable pole caps of varying size. The larger the gap, the smaller the field, because the larger air gap increases the reluctance of the magnetic circuit (see Section 2.8) and because much of the flux then leaves the volume of the gap proper and forms the “fringing flux” indicated in Fig. 2.9c and e. Figure 2.11a shows how the field in the gap depends on gap size and the current in the winding for an
 
-![](/content/images/page_51_chart_5.jpg)
+![](images/page_51_chart_5.jpg)
 
 (a)
 
-![](/content/images/page_51_chart_7.jpg)
+![](images/page_51_chart_7.jpg)
 
 (b)
 
 Fig. 2.11 Magnetic field (kOe) vs current in a 12-inch electromagnet: (a) 4-inch and 1-inch gaps; (b) with 4-inch tapered pole caps, 2-inch and 1-inch gaps.
 
-![](/content/images/page_52_image_2.jpg)
+![](images/page_52_image_2.jpg)
 
 Fig. 2.12 Halbach cylinder. Solid arrows show direction of local magnetization. The open arrow is the resulting field.
 
@@ -713,11 +713,11 @@ A constant magnetic field up to some limiting value can be produced by an approp
 
 The device is based on an arrangement called the Halbach cylinder (Fig. 2.12). The direction of local magnetization in a permanent magnet ring at any angular position $\theta$ is rotated by an angle $2\theta$ from its original orientation at $\theta$ = 0. The result is a uniform field across a diameter of the cylinder, as shown by the large open arrow. In practice, the cylinder is replaced with an array of uniformly-magnetized blocks arranged in an octagon, as shown in Fig. 2.13. If two Halbach arrays are arranged concentrically, as in Fig. 2.14, and if the inner array is made of a material whose state of magnetization is not altered significantly by the field of the outer array, then the field at the center is simply the sum of the field from each of the individual arrays. In Fig. 2.14, the fields of the two arrays are in opposite directions, so if both arrays produce the same central field, the net field is zero. If either array is rotated through $180^{\circ}$, the fields add, and the net field is the sum of the two individual fields. By appropriate rotation of the two arrays, the central field can have any value and
 
-![](/content/images/page_53_image_2.jpg)
+![](images/page_53_image_2.jpg)
 
 Fig. 2.13 Halbach magnet array.
 
-![](/content/images/page_53_image_4.jpg)
+![](images/page_53_image_4.jpg)
 
 Fig. 2.14 Pair of concentric Halbach arrays. Each array can be rotated independently about the central axis perpendicular to the page.
 
@@ -741,7 +741,7 @@ where t is the thickness of the plate, and $R_{\mathrm{H}}$ the Hall constant, i
 
 If i is kept constant, then $e_{\mathrm{H}}$ is a measure of field strength H. If i is alternating, then $e_{\mathrm{H}}$ is also alternating and can be easily amplified. The sensing element, called a Hall probe, is usually the semiconductor InSb in commercial instruments. The probe can be made very small, 1 mm<sup>2</sup> or less, and is usually mounted on the end of a thin rod connected by a small-diameter cable to a control unit containing the current source, amplifier, and indicating meter. Depending on the orientation of the semiconductor chip, the measured field can be perpendicular to the rod (transverse probe) or parallel to the rod (axial probe). Multirange instruments are available for measurement of fields ranging from values smaller than the Earth’s field to 30 kOe (3 T) or more. Because of the small size of the probe, these instruments are well suited to the measurement of fields in confined regions, or of field gradients. Alternating fields may also be measured, up to some frequency limit set by the characteristics of the measuring circuit.
 
-![](/content/images/page_54_image_11.jpg)
+![](images/page_54_image_11.jpg)
 
 Fig. 2.15 Sketch of a Hall plate, showing the relationship between field, current, and emf.
 
@@ -775,7 +775,7 @@ $$
 
 An instrument to integrate the voltage from a search coil is called a fluxmeter. Various moving-coil devices have been used in the past, but fluxmeters are now electronic integrators based on capacitative feedback around an operational amplifier (see Fig. 2.16). The electronic integrator provides a voltage output that can be digitized and recorded, rather than a pointer deflection that must be written down.
 
-![](/content/images/page_56_image_2.jpg)
+![](images/page_56_image_2.jpg)
 
 Fig. 2.16 Electronic integrator (schematic). $E_{\mathrm{out}} = 1 / RC \int_0^t E_\mathrm{in} dt.$
 
@@ -815,13 +815,13 @@ Magnetoresistance Most conducting materials show a change in resistance when pla
 
 Fluxgate Magnetometer A rod or strip of soft magnetic material driven beyond its linear magnetization region by an alternating field will display a symmetric hysteresis loop. If a dc field is superimposed on the ac field, the hysteresis loop will become asymmetric as it is displaced from a center at H = 0, as in Fig. 2.17. The asymmetry is easily detected, and can be cancelled by applying an opposing dc field with a small solenoid surrounding the sensing strip. The current required to cancel the asymmetry is a direct measure of the field that caused the original asymmetry. An instrument based on this principle is called a fluxgate (or saturable core) magnetometer, and is commonly used to detect changes in the Earth’s field for archeology and oil-field surveys, to control a coil current to produce a stable magnetic environment in the laboratory, etc. The fluxgate magnetometer is generally limited by heating in the balancing coil to the measurement of fields not much greater than the Earth’s field. The sensing element is also large compared to a Hall element. Further details are given in Section 2.5.3.
 
-![](/content/images/page_58_image_2.jpg)
+![](images/page_58_image_2.jpg)
 
 Fig. 2.17 Principle of fluxgate magnetometer (schematic).
 
 Magnetic Potentiometer or Chattock Coil This is a tightly wound coil, usually but not necessarily semi-circular, wound on a nonmagnetic form, whose two ends lie in the same plane (see Fig. 2.18). If no current flows in the coil, the line integral $\oint H$ dl around the path shown by the dotted line must be zero. We can write this integral as the
 
-![](/content/images/page_58_image_6.jpg)
+![](images/page_58_image_6.jpg)
 
 Fig. 2.18 Sketch of Chattock coil or magnetic potentiometer.
 
@@ -845,7 +845,7 @@ Nuclear Magnetic Resonance This was referred to above as a calibration method. T
 
 SQUID Magnetometer This device is based on the tunneling of superconducting electrons across a very narrow insulating gap, called a Josephson junction, between two superconductors. A sketch of the device in its usual form is shown in Fig. 2.19. A superconducting measuring current flows through the ring, dividing so that equal currents pass through each of two Josephson junctions. A changing magnetic flux through the ring generates a voltage and a current in the ring, according to Faraday’s Law. This induced current adds to the measuring current in one junction, and subtracts in the other. Because of the wave nature of the superconducting current, the result is a periodic appearance of resistance in the superconducting circuit, and the appearance of a voltage between points A and B. Each voltage step corresponds to the passage of a single flux quantum across the boundary of the ring. The existence of the flux quantum was demonstrated in somewhat similar experiments on superconducting rings; its value is $h / 2e = 2.07\times 10^{-15}$ weber or $\mathrm{Tm}^2$ , or $2.07\times 10^{-7}$ maxwell or gauss $\mathrm{cm}^2$ . This sensitivity is rarely needed in a measurement of magnetic field, and in practice the device is most commonly linked to a coil to measure the flux from a small sample, and thus the sample magnetization. In this form it is called a SQUID (for superconducting quantum interference device) magnetometer. Since a superconducting Josephson device requires low-temperature operation, it is usually used in conjunction with a superconducting solenoid.
 
-![](/content/images/page_60_image_2.jpg)
+![](images/page_60_image_2.jpg)
 
 Fig. 2.19 SQUID (superconducting quantum interference device) flux sensor.
 
@@ -857,7 +857,7 @@ An important property of a closed and homogeneous magnetic circuit is that the m
 
 The simplest example of a closed magnetic circuit is a ring, with a uniform circular or square or rectangular cross-section, magnetized circumferentially. We will now consider how the normal induction curve and hysteresis loop of a ring specimen can be determined. A search coil of N turns is wound directly on the ring, often over a thin layer of electrically insulating tape to protect the electrical insulation on the wire. This is called the secondary winding, and since it will carry no significant current, it can be made using the smallest practical wire size. If the material is known to be homogeneous and nondirectional, this winding need not extend around the entire circumference of the sample. However, not many samples can be reliably known to meet these conditions, so a complete circumferential winding is usually best. This winding should consist of a single layer if possible (and it usually is). Over this is placed a magnetizing winding of n turns. This is the primary winding. It must carry the magnetizing current, and its wire diameter must be chosen accordingly (see Fig. 2.20). The primary winding must be distributed uniformly around the sample circumference, and may consist of multiple layers. A current i through this winding subjects the material of the ring to a field H, given by
 
-![](/content/images/page_61_image_2.jpg)
+![](images/page_61_image_2.jpg)
 
 Fig. 2.20 Arrangement for measuring the magnetic properties of a ring sample.
 
@@ -901,19 +901,19 @@ Before considering magnetic measurements in open circuits, we must examine the n
 
 Suppose a bar sample is magnetized by a field applied from left to right and subsequently removed. Then a north pole is formed at the right end, and a south pole at the left, as shown in Fig. 2.21a. We see that the H lines, radiating out from the north pole and ending at the south pole, constitute a field both outside and inside the magnet which acts from north to south and which therefore tends to demagnetize the magnet. This self-demagnetizing action of a magnetized body is important, not only because of its bearing
 
-![](/content/images/page_64_image_5.jpg)
+![](images/page_64_image_5.jpg)
 
 (a)
 
-![](/content/images/page_64_image_7.jpg)
+![](images/page_64_image_7.jpg)
 
-![](/content/images/page_64_image_8.jpg)
+![](images/page_64_image_8.jpg)
 
 (b)
 
 Fig. 2.21 Fields of a bar magnet in zero applied field. (a) H field, and (b) B field. The vectors in the center indicate the values and directions of $B,H_{\mathrm{d}},$ and 4pM (cgs units) at the center of the magnet.
 
-![](/content/images/page_65_chart_2.jpg)
+![](images/page_65_chart_2.jpg)
 
 Fig. 2.22 Variation of the demagnetizing field along the length of a bar magnet.
 
@@ -927,11 +927,11 @@ The variation in induction along a bar magnet is easily demonstrated experimenta
 
 When a soft magnetic body is placed in a field, it alters the shape of that field. Thus, in Fig. 2.24, suppose that Fig. 2.24a is a uniform field, such as the field of a solenoid. It may be regarded as either an H field or a B field. The B field of a magnet in zero applied field is shown in Fig. 2.24b. The B field in Fig. 2.24c is the vector sum of the fields in Fig. 2.24a and b. The flux tends to crowd into the magnet, as though it were more permeable than the surrounding air; this is the origin of the term permeability for the quantity m. At points outside the magnet near its center, the field is actually reduced. The same general result is obtained if the body placed in the field is originally unmagnetized, because the field itself will produce magnetization. Figure 2.24 applies to a material like iron, with $\mu \gg 1$ . The opposite effect occurs for a diamagnetic body: the flux tends to avoid the body, so that the flux density is greater outside than inside. (Because lines of B are continuous, the B lines of Fig. 2.24 must close on themselves outside the drawing. If the field in which the body was placed was generated by a solenoid, then the manner in which the lines close is suggested in Fig. 1.8.)
 
-![](/content/images/page_66_chart_2.jpg)
+![](images/page_66_chart_2.jpg)
 
 (a)
 
-![](/content/images/page_66_chart_4.jpg)
+![](images/page_66_chart_4.jpg)
 
 (b)
 
@@ -939,7 +939,7 @@ Fig. 2.23 (a) Measured flux density vs position in a steel bar magnet. (b) Same 
 
 The extent to which a body, originally unmagnetized, disturbs the field in which it is placed depends on its permeability. For strongly magnetic materials (ferro- and ferrimagnetic) the disturbance is considerable; for weakly magnetic materials it is practically negligible. Steel ships produce appreciable disturbance of the Earth’s magnetic field at a considerable distance from the ship, and the magnetic mines used in warfare make use of this fact. As the ship passes, the change in field at the position of the mine is sensed by some kind of magnetometer which then actuates an electrical circuit to activate the mine.
 
-![](/content/images/page_67_image_0.jpg)
+![](images/page_67_image_0.jpg)
 
 Fig. 2.24 Result of placing a magnetized body in an originally uniform field.
 
@@ -947,15 +947,15 @@ Fig. 2.24 Result of placing a magnetized body in an originally uniform field.
 
 If a high-permeability ring or cylinder is placed in a field, it tends to shield the space inside from the field, as suggested by Fig. 2.25a. The field lines tend to follow the magnetic material around the perimeter and emerge from the other side. The difficulty with this explanation of shielding is that it suggests that the part of the cylinder normal to the field plays a primary role in diverting the flux. Actually, a field normal to the center of a flat plate passes right through, undeviated, as shown in Fig. 2.25b. It is the sides of the cylinder parallel to the applied field that have the greatest effect. These become magnetized, with poles as shown in Fig. 2.25c, and they reduce the field inside the ring by exactly the same mechanism as that by which the bar magnet of Fig. 2.24 reduces the field in the region adjacent to its center. (The portions of the cylinder normal to the field acquire little magnetization, because of their very large demagnetizing factor. See below.) Two or more concentric thin cylinders, separated by air gaps, are more effective than one thick cylinder. Components of some electronic circuits and devices need to be shielded from external magnetic fields, and this is done by enclosing them in one or more thin sheets of a high-permeability material, usually a Ni –Fe alloy.
 
-![](/content/images/page_68_image_2.jpg)
+![](images/page_68_image_2.jpg)
 
 (a)
 
-![](/content/images/page_68_image_4.jpg)
+![](images/page_68_image_4.jpg)
 
 (b)
 
-![](/content/images/page_68_image_6.jpg)
+![](images/page_68_image_6.jpg)
 
 (c)
 
@@ -965,7 +965,7 @@ Fig. 2.25 Magnetic shielding.
 
 Returning to the bar magnets of Fig. 2.24, we might ascribe the nonuniformity of the induction inside the magnet to the fact that lines of B “leak out” of the sides. If we taper the magnet toward each end to make up for this leakage, the induction can be made uniform throughout. It may be shown, although not easily, that the correct taper to achieve this result is that of an ellipsoid (Fig. 2.26). If an unmagnetized ellipsoid is placed in a uniform magnetic field, it becomes magnetized uniformly throughout; the uniformity of M and B are due to the uniformity of $H_{\mathrm{d}}$ throughout the volume. This uniformity can be achieved only in an ellipsoid. (These statements require qualification for ferro- and ferrimagnetic materials, because they are made up of domains, or small regions magnetized to saturation in different directions. Even an ellipsoidal specimen of such a material cannot be uniformly magnetized, although a condition of uniform M is approached as the domain size becomes small relative to the specimen size. (See Sections 4.1 and 7.2.)
 
-![](/content/images/page_68_image_11.jpg)
+![](images/page_68_image_11.jpg)
 
 Fig. 2.26 The H field of an ellipsoidal magnet in zero applied field.
 
@@ -989,7 +989,7 @@ $$
 
 The general ellipsoid has three unequal axes 2a, 2b, 2c, and a section perpendicular to any axis is an ellipse (Fig. 2.27). Of greater practical interest is the ellipsoid of revolution, or spheroid. A prolate spheroid is formed by rotating an ellipse about its major axis 2c; then $a = b < c,$ and the resulting solid is cigar-shaped. Rotation about the minor axis 2a results in the disk-shaped oblate spheroid, with $a <   b = c$ . Maxwell calls this the planetary spheroid, which may be easier to remember.
 
-![](/content/images/page_69_image_10.jpg)
+![](images/page_69_image_10.jpg)
 
 Fig. 2.27 Ellipsoids.
 
@@ -1061,19 +1061,19 @@ Bozorth’s values are numerically correct in SI.
 
 Better values for the demagnetizing factors of rods and disks (and other shapes, such as rectangular prisms) can be determined by experiment, or by calculation. The calculations generally assume a material of constant susceptibility χ, which is in fact the differential susceptibility dM/dH measured at a point on the magnetization curve. Three specific values of χ are of special significance: $\chi = -1$ , corresponding to a superconductor in the fullyshielded state; $\chi \approx 0.$ , corresponding to a weakly magnetic material such as a para- or diamagnet, or to a fully-saturated ferro- or ferrimagnet; and $\chi = \infty$ , corresponding to very soft magnetic material. The condition $\chi = -1$ requires that $B = 0$ everywhere in the samples. The condition $\chi = 0$ requires that the magnetization M be constant throughout the sample, with $H_{\mathrm{d}}$ variable. Note that $\chi = dM / dH = 0$ does not require $M = 0$ . The condition $\chi = \infty$ requires that the demagnetizing field be constant throughout the samples, exactly equal and opposite to the applied field, with magnetization M varying from point to point. Demagnetizing factors can be calculated for other values of χ, both positive and negative, but the assumption of constant and uniform χ makes them of limited usefulness.
 
-![](/content/images/page_72_chart_2.jpg)
+![](images/page_72_chart_2.jpg)
 
 Fig. 2.28 Demagnetizing factors for various samples. [R. M. Bozorth, Ferromagnmetism, Van Nostrand (1952); reprinted IEEE (1993) pp. 846 –847]. Values plotted are $N_{\mathrm{cgs}} / 4\pi ,$ which are numerically equal to $N_{\mathrm{SI}}$
 
 The values for $\chi = \infty$ should apply for soft magnetic materials far from saturation, and values for $\chi = 0$ to materials at or approaching magnetic saturation. In practice, demagnetizing field corrections are most important at low fields, where values of permeability and remanence are determined. Demagnetizing corrections are relatively unimportant (although not small) as the sample approaches saturation. Values of the coercive field are generally not much affected by demagnetizing effects, since they are determined when the magnetization is at or near zero. Permanent magnet materials, in which the values of susceptibility are low and uncertain, are normally measured in closed magnetic circuits where the demagnetizing fields are kept small.
 
-![](/content/images/page_73_chart_2.jpg)
+![](images/page_73_chart_2.jpg)
 
 Fig. 2.28 Continued.
 
 A paper by D.-X. Chen, J. A. Brug, and R. B. Goldfarb [IEEE Trans. Mag., 37 (1991) p. 3601] reviews the history of demagnetizing factor calculations and derives new values of N<sub>f</sub> and $N_{\mathrm{m}}$ for rod samples. A later paper [D.-X. Chen, E. Pardo, and A. Sanchez, J. Magn. Mag. Matls., 306 (2006) p. 135] gives improved values for rod samples, and adds some calculated values of $N_{\mathrm{m}}$ for disk samples. Similar results for rectangular prisms are given by the same authors [IEEE Trans. Mag., 41 (2005) p. 2077]. All three of these papers include results for a range of values of susceptibility as well as for sample shape.
 
-![](/content/images/page_74_chart_2.jpg)
+![](images/page_74_chart_2.jpg)
 
 Fig. 2.29 Calculated SI magnetometric demagnetizing factors for rod samples magnetized parallel to the rod axis. Central dashed line is for a prolate ellipsoid. Dotted curves are for $\chi = \infty ;$ solid curves for $\chi = 0$ . Upper dotted and solid curves are magnetometric factors $N_{m};$ lower curves are fluxmetric factors $N_{\mathrm{f}}$ Data in Figs. 2.29 and 2.30 from D.-X. Chen, E. Pardo, and A. Sanchez, J. Magn. Mag. Mater., 306 (2006) p. 125.
 
@@ -1083,7 +1083,7 @@ Figure 2.30 gives some results for the magnetometric demagnetizing factor $N_{\m
 
 There are some relevant experimental measurements. Figure 2.31 shows data points from vibrating-sample (VSM) measurements on a series of permalloy disks, together with the calculated curves for $\chi = \infty$ and $\chi = 0$ from Fig. 2.30. The experimental points generally fall between the two calculated curves. Note that it is not difficult to prepare samples with values of m greater than the highest value for which calculations (other than for ellipsoids) have been made; this is especially true if thin-film samples are measured.
 
-![](/content/images/page_75_chart_2.jpg)
+![](images/page_75_chart_2.jpg)
 
 Fig. 2.30 Calculated SI magnetometric demagnetizing factors for disk samples magnetized along a diameter. Dashed line is for an oblate (planetary) ellipsoid. Dotted line is $N_{\mathrm{m}}$ for $\chi = \infty ;$ solid line is for $\chi = 0$
 
@@ -1091,7 +1091,7 @@ The theoretical papers give demagnetizing factors for values of χ between 0 and
 
 In the case of nonellipsoidal samples, it is no longer necessarily true that the sum of the three orthogonal demagnetizing factors is a constant, so Equations 2.18 are not exactly correct.
 
-![](/content/images/page_75_chart_7.jpg)
+![](images/page_75_chart_7.jpg)
 
 Fig. 2.31 Magnetometric demagnetizing factors for disk samples. Data points measured on 80 permalloy disk samples using a vibrating-sample magnetometer [C. D. Graham and B. E. Lorenz, IEEE Trans. Mag., 43 (2007) p. 2743]. Dotted and solid lines are copied from Fig. 2.30, for $\chi = \infty$ and $\chi = 0$
 
@@ -1123,11 +1123,11 @@ These conditions govern the angles at which the B and H lines meet the air—bod
 
 Free poles may exist not only at the surface of a body, but also in the interior. For example, on a gross scale, if a bar has a winding like that shown in Fig. 2.32a, south poles will be produced at each end and a north pole in the center, for a current i in the direction indicated. On a somewhat finer scale, free poles exist inside a cylindrical bar magnet, as very approximately indicated in Fig. 2.32b. The condition for the existence of interior poles is nonuniform magnetization. An ellipsoidal body can be uniformly magnetized, and it has free poles only on the surface, unless it contains domains. A body of any other shape, such as a cylindrical bar, cannot be uniformly magnetized except at saturation, because the demagnetizing field is not uniform, and so the body always has interior as well as surface poles. Nonuniformity of magnetization means that there is a net outward flux of M from a small volume element, i.e., the divergence of M is greater than zero. But if there is a net outward flux of M, there must be free poles in the volume element to supply this flux. Such a volume element is delineated by dashed lines in Fig. 2.32b, in which lines of M have also been drawn, going from south to north poles. (For clarity, the lines of M connecting surface poles on the ends have been omitted.) If $\rho_{\mathrm{v}}$ is the volume pole density (pole strength per unit volume), then
 
-![](/content/images/page_77_image_2.jpg)
+![](images/page_77_image_2.jpg)
 
 (a)
 
-![](/content/images/page_77_image_4.jpg)
+![](images/page_77_image_4.jpg)
 
 Fig. 2.32 Internal poles in a magnetized body.
 
@@ -1171,11 +1171,11 @@ $$
 
 where $H_{\mathrm{d}} = N_{\mathrm{d}}M$ and $N_{d}$ is the demagnetizing factor. As discussed above, unless the sample is in the shape of an ellipsoid, there is no single demagnetizing factor $N_{d}$ that applies for all parts of the sample at all levels of magnetization. A workable procedure is to select a value of $N_{f}$ or $N_{\mathrm{m}}$ from Figs. 2.28 –2.31 that is appropriate for the dimensions of the sample, the measurement technique, and the low-field permeability or susceptibility of the sample. It is important to remember that the demagnetizing field is always directed opposite to the direction of magnetization in the sample. If the experiment produces values of M, the correction is straightforward: at each value of M, the demagnetizing field is calculated from Equation 2.17, and the demagnetizing field is subtracted from the applied field (Equation 2.33) to obtain the true field acting on the sample. The corrections are made at fixed values of M, and move the measured M values parallel to the H axis. Since the demagnetizing field is proportional to the magnetization, $H_{\mathrm{d}}$ can be represented by the line OD in Fig. 2.33, and the demagnetizing correction can be visualized by rotating the line OD counterclockwise about the origin O until it coincides with the y-axis, and simultaneously moving each of the experimental values of M parallel to the H-axis, keeping the distance between the line OD and the value of M fixed. This is sometimes called the shearing correction.
 
-![](/content/images/page_78_image_7.jpg)
+![](images/page_78_image_7.jpg)
 
 (a)
 
-![](/content/images/page_78_image_9.jpg)
+![](images/page_78_image_9.jpg)
 
 (b)
 
@@ -1217,7 +1217,7 @@ TABLE 2.2 Magnetization of Iron Rod
 | 53.9 | 14,860 | 14,810 | 1,180 | 29.6 | 24.3 |
 | 80.7 | 18,220 | 18,140 | 1,450 | 36.3 | 44.4 |
 
-![](/content/images/page_80_chart_2.jpg)
+![](images/page_80_chart_2.jpg)
 
 Fig. 2.34 Measured and corrected magnetization curves of cold-worked iron, from the data of Table 2.2.
 
@@ -1295,7 +1295,7 @@ $$
 
 where A is the specimen or search-coil area. (The two are assumed equal here to simplify the equations, i.e., the air-flux correction is omitted.) If the specimen is suddenly removed from the search coil, the flux through the coil becomes
 
-![](/content/images/page_82_image_13.jpg)
+![](images/page_82_image_13.jpg)
 
 Fig. 2.35 Arrangement for measuring a rod sample in a magnetizing solenoid. Two procedures are possible: (1) solenoid current is varied continuously and fluxmeter output is recorded continuously; (2) at a series of constant solenoid current values the sample (not the search coil) is moved to a position of effectively zero field, and the fluxmeter reading is recorded. This is the extraction method. Procedure 1 measures B vs H; procedure 2 measures $M(4\pi - N)$ (cgs) or $\mu_0M(1 - N)$ (SI).
 
@@ -1321,17 +1321,17 @@ The extraction method does not allow continuous recording of H and M in a simple
 
 This instrument is credited to S. Foner [Rev. Sci. Instrum., 30 (1959) pp. 548 – 557] and is sometimes referred to as a Foner magnetometer. The idea was also published by G. W. Van Oosterhout [Appl. Sci. Res., B6 (1956) p. 101], and by P. J. Flanders [IEEE Special Publication T-91, Conference on Magnetism and Magnetic Materials, Boston (1956) pp. 315– 317]. It is based on the flux change in a coil when a magnetized sample is vibrated near it. The sample, commonly a small disk, is attached to the end of a nonmagnetic rod, the other end of which is fixed to a loudspeaker cone (Fig. 2.37) or to some other kind of mechanical vibrator. The oscillating magnetic field of the moving sample induces an alternating emf in the detection coils, whose magnitude is proportional to the magnetic moment of the sample. The (small) alternating emf is amplified, usually with a lock-in amplifier which is sensitive only to signals at the vibration frequency. The lock-in amplifier must be provided with a reference signal at the frequency of vibration, which can come from an optical, magnetic, or capacitive sensor coupled to the driving system. The detection-coil arrangement shown in Fig. 2.37 is only one of several possible ones described by Foner, all of which involve balanced pairs of coils that cancel signals due to variation in the applied field. The coil arrangement of Fig. 2.37 is very commonly used. The apparatus is calibrated with a specimen of known magnetic moment, which must be of the same size and shape as the sample to be measured, and should also be of similar permeability.
 
-![](/content/images/page_83_image_12.jpg)
+![](images/page_83_image_12.jpg)
 
 Fig. 2.36 Extraction method using two coils, in the air gap of an electromagnet.
 
-![](/content/images/page_84_image_2.jpg)
+![](images/page_84_image_2.jpg)
 
 Fig. 2.37 Vibrating sample magnetometer or VSM (schematic).
 
 The driving system may be mechanical, through a cam or crank and a small synchronous motor, or in a recent commercial instrument, with a linear motor. In this case the vibration frequency is generally below 40 Hz, and the vibration amplitude is a few millimeters. The amplitude is fixed by the geometry of the mechanical system or by the drive signal to the linear motor. Alternatively, the driving system may be based on a loudspeaker, as in Fig. 2.37, in which case the frequency is generally about 100 Hz, and the amplitude is near 0.1 mm. In this case, the amplitude may vary, depending on the mass of the sample and its interaction with the magnetic field, so there must be some provision for monitoring and/or controlling the amplitude as well as the frequency of vibration. One method is to attach a small permanent magnet to the sample rod, outside the varying field region, with a second set of sensing coils. Then the signal from these coils can be used in a feedback loop to maintain a constant amplitude of vibration. Alternatively, a portion of the signal from the permanent magnet can be balanced against the signal from the unknown sample, making the method a null method.
 
-![](/content/images/page_85_image_3.jpg)
+![](images/page_85_image_3.jpg)
 
 Fig. 2.38 VSM working in a superconducting solenoid. The oscillating sample motion is provided by a linear motor. Courtesy of Quantum Design, Inc.
 
@@ -1351,21 +1351,21 @@ Sensitivities even higher than the VSM can be achieved by mounting the sample at
 
 Open-circuit measurements made with an electromagnet may show errors due to the image effect. Figure 2.40a shows the exterior field of a short magnetized specimen. If this
 
-![](/content/images/page_87_image_2.jpg)
+![](images/page_87_image_2.jpg)
 
 Fig. 2.39 Alternating-gradient magnetometer or AGM (schematic).
 
-![](/content/images/page_87_image_4.jpg)
+![](images/page_87_image_4.jpg)
 
 (a)
 
-![](/content/images/page_87_image_6.jpg)
+![](images/page_87_image_6.jpg)
 
 (b)
 
 Fig. 2.40 Image effect. (a) field due to magnetized sample in empty space; (b) field due to magnetized sample placed between two soft iron pole pieces.
 
-![](/content/images/page_88_image_2.jpg)
+![](images/page_88_image_2.jpg)
 
 Fig. 2.41 Magnetization curve showing image effect.
 
@@ -1391,7 +1391,7 @@ Any kind of work involving weak fields, such as the measurement of low-field pro
 
 A permeameter is a device for testing straight bars or rods in a closed magnetic circuit. To understand this method requires a general knowledge of the magnetic circuit, which we will now consider. The concept of a magnetic circuit is a very useful one, not merely with respect to materials testing, but also in the design of electric motors and generators and devices containing permanent magnets.
 
-![](/content/images/page_90_image_0.jpg)
+![](images/page_90_image_0.jpg)
 
 Fig. 2.42 Magnetic circuits. (a) closed, (b) open.
 
@@ -1519,7 +1519,7 @@ In a permeameter a closed magnetic circuit is formed by attaching a yoke, or yok
 
 Many types of permeameters have been made and used, distinguished by the size and shape of the sample, the relative arrangement of specimen, yoke, and magnetizing winding, and by the means of sensing the field. As an example, we may consider the Fahy Simplex permeameter shown in Fig. 2.43. The specimen, usually in the form of a flat bar, is clamped between two soft iron blocks, A and A', and a heavy U-shaped yoke. The yoke is made of silicon steel (iron containing 2 or 3% Si), a common high-permeability material, laminated to reduce eddy currents. Its cross section is made large relative to that of the specimen, so that its reluctance will be low. The lower the reluctance, the greater will be the effect of a given number of ampere-turns on the yoke in producing a field through the specimen.
 
-![](/content/images/page_94_image_2.jpg)
+![](images/page_94_image_2.jpg)
 
 Fig. 2.43 Fahy Simplex permeameter (sketch).
 
@@ -1539,7 +1539,7 @@ $$
 B A _ {\mathrm{i}} = 4 \pi M A _ {\mathrm{s}} + H A _ {\mathrm{i}} (\mathrm{cgs}) \quad \text {or} \quad B A _ {\mathrm{i}} = \mu_ {0} M A _ {\mathrm{s}} + \mu_ {0} H A _ {\mathrm{i}} (\mathrm{SI})\tag{2.57}
 $$
 
-![](/content/images/page_95_image_6.jpg)
+![](images/page_95_image_6.jpg)
 
 Fig. 2.44 Measurement of permanent magnet sample (schematic).
 
@@ -1579,11 +1579,11 @@ where m is the magnetic moment and v the volume of the body. Thus the body, if f
 
 The orientation of a para- or diamagnetic rod in a field depends on the shape of the field. If the field is uniform, both rods will be parallel to the field. If the field is axially symmetrical, with the field lines concave to the axis, as in Fig. 2.46, the paramagnetic rod will lie parallel to the field (Greek para = beside, along) and the diamagnetic rod at right angles (dia = through, across). These terms were originated by Faraday. A field of this shape always exists between the tapered pole pieces of an electromagnet or between flat pole pieces if they are widely separated.
 
-![](/content/images/page_97_image_8.jpg)
+![](images/page_97_image_8.jpg)
 
 Fig. 2.45 Magnetized body in a nonuniform field.
 
-![](/content/images/page_98_image_2.jpg)
+![](images/page_98_image_2.jpg)
 
 Fig. 2.46 Orientations of para- and diamagnetic rods in the field of an electromagnet.
 
@@ -1615,7 +1615,7 @@ $$
 F _ {\mathrm{x}} = (\chi - \chi_ {0}) v H _ {\mathrm{y}} \frac {d H _ {\mathrm{y}}}{d x}.\tag{2.63}
 $$
 
-![](/content/images/page_99_image_2.jpg)
+![](images/page_99_image_2.jpg)
 
 Fig. 2.47 Curie method for measurement of susceptibility.
 
@@ -1629,7 +1629,7 @@ where g is the acceleration due to gravity. The Curie method is difficult to use
 
 The specimen in the Gouy method is in the form of a long rod (Fig. 2.48). It is suspended so that one end is near the center of the gap between parallel magnet pole pieces, where the field $H_{y}$ is uniform and strong. The other end extends to a region where the field $H_{\mathrm{y0}}$ is relatively weak. The field gradient $dH_{\mathrm{y}} / \mathrm{dx}$ therefore produces a downward force on the specimen, if the net susceptibility $(\chi - \chi_0)$ of specimen and displaced medium is positive. The force on a small length dx of the rod, of volume dv and cross-sectional area a, is
 
-![](/content/images/page_99_image_8.jpg)
+![](images/page_99_image_8.jpg)
 
 Fig. 2.48 Gouy method for measurement of susceptibility.
 
@@ -1659,7 +1659,7 @@ As will become apparent in later chapters, susceptibility measurements made just
 
 The liquids in general use for cooling cryostats are liquid helium (normal boiling point = 4.2K), liquid hydrogen (20.4K), and liquid nitrogen (77.3K). Liquid hydrogen is not often used because of its flammability.
 
-![](/content/images/page_101_image_2.jpg)
+![](images/page_101_image_2.jpg)
 
 Fig. 2.49 Noninductive, or bifilar, winding.
 
@@ -1767,7 +1767,7 @@ $$
 \begin{array}{r l} \mu (\mathrm{spin}) & = \frac {e h}{4 \pi m} (\mathrm{SI}) \\ & = \frac {(1 . 6 0 \times 1 0 ^ {- 1 9} \mathrm{C}) (6 . 6 2 \times 1 0 ^ {- 3 4} \mathrm{Js})}{4 \pi (9 . 1 1 \times 1 0 ^ {- 3 1} \mathrm{kg})} (\mathrm{SI}) \\ & = 9. 2 7 \times 1 0 ^ {- 2 4} \mathrm{J/TorAm} ^ {2}. \end{array}\tag{3.5}
 $$
 
-![](/content/images/page_105_image_2.jpg)
+![](images/page_105_image_2.jpg)
 
 Fig. 3.1 Visualization of electron spin.
 
@@ -1831,9 +1831,9 @@ We consider a unit volume of material containing n atoms, each having a magnetic
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>1</sup>Pierre Curie (1859–1906) was a French physicist. He and his wife, Marie (Sklodowska) Curie (1867–1934), later became famous for their research on radioactivity.</span></small>
 
-![](/content/images/page_108_image_2.jpg)
+![](images/page_108_image_2.jpg)
 
-![](/content/images/page_108_image_3.jpg)
+![](images/page_108_image_3.jpg)
 
 Fig. 3.2 Effect of field on orbital moment.
 
@@ -1891,7 +1891,7 @@ $$
 
 which is valid only for $a \leq 1. \mathrm{~L}(a)$ as a function of a is plotted in Fig. 3.3. At large a, L(a) tends to 1; and for a less than about 0.5, it is practically a straight line with a slope of $\frac{1}{3}$ as seen in Equation 3.14.
 
-![](/content/images/page_109_chart_11.jpg)
+![](images/page_109_chart_11.jpg)
 
 Fig. 3.3 Langevin function.
 
@@ -2005,7 +2005,7 @@ $$
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>2</sup>Pierre Weiss (1865–1940), French physicist deserves to be called the “Father of Modern Magnetism” because almost the whole theory of ferromagnetism is due to him, and his ideas also permeate the theory of ferrimagnetism. Most of his work was done at the University of Strasbourg.</span></small>
 
-![](/content/images/page_113_image_2.jpg)
+![](images/page_113_image_2.jpg)
 
 Fig. 3.4 Variation of mass susceptibility with absolute temperature for para- and diamagnetics.
 
@@ -2023,15 +2023,15 @@ It is important to note that the molecular field is in no sense a real field; it
 
 Early in this section it was stated that the effect of an applied field on the atomic or molecular “magnets” was to turn them toward the direction of the field. This statement requires qualification, because the effect of the field is not just a simple rotation, like that of a compass needle exposed to a field not along its axis. Instead, there is a precession of the atomic moments about the applied field, because each atom possesses a certain amount of angular momentum as well as a magnetic moment. This behavior is analogous to that of a spinning top. If the top in Fig. 3.6a is not spinning, it will simply fall over because of the torque exerted by the force of gravity F about its point of support A. But if the top is spinning about its axis, it has a certain angular momentum about that axis; the resultant of the gravitational torque and the angular momentum is a precession of the axis of spin about the vertical, with no change in the angle of inclination $\theta$. In an atom, each electron has angular momentum by virtue of its spin and its orbital motion, and these momenta combine vectorially to give the atom as a whole a definite angular momentum. We might then roughly visualize a magnetic atom as a spinning sphere, as in Fig. 3.6b, with its magnetic moment vector and angular momentum vector both directed along the axis of spin. A magnetic field H exerts a torque on the atom because of the atom’s magnetic moment, and the resultant of this torque and the angular momentum is a precession about H. If the atom were isolated, the only effect of an increase in H would be an increase in the rate of precession, but no change in $\theta$. However, in a specimen containing many atoms, all subjected to thermal agitation, there is an exchange of energy among atoms. When a field is applied, this exchange of energy disturbs the precessional motion enough so that the value of $\theta$ for each atom decreases slightly, until the distribution of $\theta$ values becomes appropriate to the existing values of field and temperature.
 
-![](/content/images/page_114_chart_2.jpg)
+![](images/page_114_chart_2.jpg)
 
 Fig. 3.5 Reciprocal mass susceptibilities of one diamagnetic and two paramagnetic compounds. Note change of vertical scale at the origin.
 
-![](/content/images/page_114_image_5.jpg)
+![](images/page_114_image_5.jpg)
 
 (a)
 
-![](/content/images/page_114_image_7.jpg)
+![](images/page_114_image_7.jpg)
 
 (b)
 
@@ -2045,15 +2045,15 @@ The central postulate of quantum mechanics is that the energy of a system is not
 
 The rules governing space quantization are usually expressed in terms of angular momentum rather than magnetic moment. We must therefore consider the relation between the two, first for orbital and then for spin moments. The orbital magnetic moment for an electron in the first Bohr orbit is, from Equation 3.4,
 
-![](/content/images/page_115_image_7.jpg)
+![](images/page_115_image_7.jpg)
 
 (a)
 
-![](/content/images/page_115_image_9.jpg)
+![](images/page_115_image_9.jpg)
 
 (b)
 
-![](/content/images/page_115_image_11.jpg)
+![](images/page_115_image_11.jpg)
 
 (c)
 
@@ -2131,7 +2131,7 @@ The value of J for an atom may be an integer or a half-integer, and the possible
 
 1. $J = \frac{1}{2}.$ This corresponds to pure spin, with no orbital contribution $(L = 0.$ $J = \bar{S} = \frac{1}{2})$ , so that $g = 2$ . Since the permissible values of $M_{J}$ decrease from +J to $-J$ in steps of unity, these values are simply $+\frac{1}{2}$ and $- \frac { 1 } { 2 }$ for this case. The corresponding resolved moments $\mu_{H}$ are then $\mu_{B}$ and $-\mu_{\mathrm{B}}$ , parallel and antiparallel to the field, as illustrated in Fig. 3.7b.
 
-![](/content/images/page_117_image_16.jpg)
+![](images/page_117_image_16.jpg)
 
 Fig. 3.8 Relationship between effective moment and its component in the field direction.
 
@@ -2229,7 +2229,7 @@ $$
 \frac {M}{M _ {0}} = \tanh \left(a ^ {\prime}\right)\tag{3.36}
 $$
 
-![](/content/images/page_121_image_2.jpg)
+![](images/page_121_image_2.jpg)
 
 Fig. 3.9 Vector relations for $J = \frac{1}{2}.$
 
@@ -2291,7 +2291,7 @@ $$
 \begin{array}{r l} \mu_ {\mathrm{eff}} & = g \sqrt {J (J + 1)} \mu_ {\mathrm{B}} \\ & = 2 \sqrt {\left(\frac {3}{2}\right) \left(\frac {5}{2}\right)} \mu_ {\mathrm{B}} \\ & = \sqrt {1 5} \mu_ {\mathrm{B}} = 3. 8 7 \mu_ {\mathrm{B}}. \end{array}\tag{3.44}
 $$
 
-![](/content/images/page_123_chart_2.jpg)
+![](images/page_123_chart_2.jpg)
 
 Fig. 3.10 Magnetic moment of potassium chromium alum as a function of H/T. Data from W. E. Henry, Phys. Rev., 88 (1952) p. 550.
 
@@ -2405,13 +2405,13 @@ The sum of these three effects, all of them small, is the observed susceptibilit
 
 When a solid solution is formed between paramagnetic or diamagnetic metals, or between a para- and a diamagnetic, the variation of the susceptibility with composition is, in general, unpredictable. One effect is clear, however: If a para- and a diamagnetic form a continuous series of solid solutions, the susceptibility must pass through zero at some intermediate composition. A substance having this composition will be completely unaffected by an applied magnetic field and forms an exception to the general statement that all substances are magnetic. However, this zero value of the susceptibility will be retained only at one temperature, because the susceptibility of the paramagnetic constituent will generally change with temperature. An example of such a material occurs in the Cu–Ni system. The phase diagram is shown in Fig. 3.11a, where the dashed line indicates the Curie temperatures of the ferromagnetic, Ni-rich alloys. Below about 65% Ni, the alloys become paramagnetic at room temperature. Figure 3.11b shows the room temperature susceptibility of the Cu-rich alloys; it passes through zero at 3.7 wt% Ni. Below room temperature this alloy becomes slightly diamagnetic but, at any temperature between room temperature and 2K, its susceptibility is less than one-tenth that of pure copper. It is therefore a suitable material for specimen holders, and other parts of equipment designed for delicate magnetic measurements, which must have a susceptibility as near zero as possible.
 
-![](/content/images/page_128_chart_2.jpg)
+![](images/page_128_chart_2.jpg)
 
 Fig. 3.11 (a) Phase diagram of the Cu – Ni system. (b) Mass susceptibility of Cu– Ni alloys at room temperature.
 
 Although the terms “weak” and “strong” paramagnetism have been used in this section, it must be remembered that they are only relative and the susceptibility of any paramagnetic is minute in comparison with that of a ferromagnetic. This means that a small amount of a ferromagnetic impurity in a para- or diamagnetic can mask the true behavior of the material. If the impurity is present in solid solution, the observed M, H curve will be linear from the origin, but the slope, and hence the susceptibility, will depend on the concentration of the impurity. If the impurity is present as a ferromagnetic second phase, the M, H curve will be curved initially as the second phase becomes increasingly saturated. Figure 3.12 shows this effect. A specimen of copper containing 0.1 wt% iron gave curve A, which can be regarded as the sum of curves B and C. There is enough iron present in solid solution to change the normally diamagnetic “copper” to a paramagnetic, and B is the M, H curve of this solid solution. The rest of the iron is present as a ferromagnetic second phase, consisting of particles of an iron-rich iron–copper solid solution. C is the magnetization curve of this phase, which is saturated at a field of about 6 kOe. The susceptibility of the solid solution is given by the slope of the straight-line portion of A, which has the same slope as B. The applied field at which the second-phase particles saturate can depend markedly on the shape and orientation of these particles. The demagnetizing field associated with each particle will be much larger if it is spherical than if it is, for example, in the shape of a rod parallel to the applied field.
 
-![](/content/images/page_129_chart_2.jpg)
+![](images/page_129_chart_2.jpg)
 
 Fig. 3.12 Magnetization curve of copper containing 0.1 wt% iron (curve A). See text for meaning of curves B and C.
 
@@ -2475,7 +2475,7 @@ A single crystal of pure iron, properly oriented, can be brought to near saturat
 
 No real progress in understanding ferromagnetism was made until Pierre Weiss in 1906 advanced his hypothesis of the molecular field [P. Weiss, Compt. Rend. 143 (1906) p. 1136 – 1139]. We have seen in the previous chapter how this hypothesis leads to the Curie – Weiss law, $\chi = C / (T - \theta)$ , which many paramagnetic materials obey. We saw also that $\theta$ is directly related to the molecular field $H_{\mathrm{m}}$ because $\theta = \rho \gamma C$ and $H_{\mathrm{m}} = \gamma M,$ where g is the molecular field coefficient. If $\theta$ is positive, so is g, which means that $H_{\mathrm{m}}$ and M are in the same direction or that the molecular field aids the applied field in magnetizing the substance.
 
-![](/content/images/page_132_chart_2.jpg)
+![](images/page_132_chart_2.jpg)
 
 Fig. 4.1 Magnetization curves of iron, cobalt, and nickel at room temperature (H-axis schematic). The SI values for saturation magnetization in A/m are $10^{3}$ times the cgs values in emu/cm³
 
@@ -2485,19 +2485,19 @@ Weiss answered this objection by making a second assumption: a ferromagnet in th
 
 The Weiss theory therefore contains two essential postulates: (1) spontaneous magnetization; and (2) division into domains. Later developments have shown that both of these postulates are correct. It is a tribute to Weiss’s creative imagination that a century of subsequent research has served, in a sense, only to elaborate these two basic ideas.
 
-![](/content/images/page_133_image_2.jpg)
+![](images/page_133_image_2.jpg)
 
 (a) M=0
 
-![](/content/images/page_133_image_4.jpg)
+![](images/page_133_image_4.jpg)
 
 (b) M> 0
 
-![](/content/images/page_133_image_6.jpg)
+![](images/page_133_image_6.jpg)
 
 (c) $M=M_{s}$ cos θ
 
-![](/content/images/page_133_image_8.jpg)
+![](images/page_133_image_8.jpg)
 
 (d) $M=M_{s}$
 
@@ -2513,7 +2513,7 @@ $$
 
 Line 2 in Fig. 4.3 is a plot of this equation, with the slope of the line equal to 1/γ. The magnetization which the molecular field will produce in the material is given by the intersection of the two curves. There are actually two intersections, one at the origin and one at the point P. However, the one at the origin represents an unstable state. If M is zero and the slightest applied field, the Earth’s field for example, acts even momentarily on the material, it will be magnetized to the point A, say. But if $M = A$ , then line 2 states that $H_{\mathrm{m}}$ is B. But a field of this strength would produce a magnetization of C. Thus M would go through the values 0, A, C, E, . . . , and arrive at P. We know that P is a point of stability, because the same argument will show that a magnetization greater than P will spontaneously revert to P, in the absence of an applied field. The substance has therefore become spontaneously magnetized to the level of P, which is the value of $M_{s}$ for the temperature in question. It is, in short, ferromagnetic. We may therefore regard a ferromagnet as a paramagnet subject to a very large molecular field. The size of this field will be calculated later.
 
-![](/content/images/page_133_chart_16.jpg)
+![](images/page_133_chart_16.jpg)
 
 Fig. 4.3 Spontaneous magnetization by the molecular field.
 
@@ -2541,7 +2541,7 @@ $$
 \begin{array}{c} \frac {k T _ {\mathrm{c}}}{\mu \gamma M _ {0}} = \frac {1}{3} \\ T _ {\mathrm{c}} = \frac {\mu \gamma M _ {0}}{3 k}. \end{array}\tag{4.5}
 $$
 
-![](/content/images/page_135_chart_2.jpg)
+![](images/page_135_chart_2.jpg)
 
 Fig. 4.4 Effect of temperature on the value of spontaneous magnetization. Curve 1 is the Langevin function.
 
@@ -2595,11 +2595,11 @@ when the magnetization is expressed in terms of σ.
 
 Experimental data on the variation of the saturation magnetization $\sigma_{s}$ of Fe, Co, and Ni with temperature are shown in Fig. 4.5. The temperature scales shown in Fig. 4.6 give the Curie points and the temperatures of phase changes and recrystallization for the three metals. The recrystallization temperatures are the approximate minimum temperatures at which heavily cold-worked specimens will recrystallize; thus iron and cobalt can be recrystallized while still ferromagnetic, but nickel cannot. The three curves of Fig. 4.5 have similar shapes and, when the data are replotted in the form of $\sigma_{\mathrm{s}} / \sigma_{0}$ $T / T_{\mathrm{c}}$ as in Fig. 4.7, the points conform rather closely to a single curve. Thus Weiss prediction of a law of corresponding states is verified. However, the shape of the curve of $\sigma_{\mathrm{s}} / \sigma_{0}$ vs $T / T_{\mathrm{c}}$ predicted by the Weiss –Langevin theory does not agree with experiment. We can see this by finding graphically the points of intersection of the curve of Equation 4.7 and the lines of Equation 4.12 for various values of $T / T_{\mathrm{c}}$ . The result is shown by the curve labeled “classical, $J=\infty$ ” in Fig. 4.7. This disagreement is not surprising, inasmuch as we have already seen in Chapter 3 that the classical Langevin theory, which was the only theory available for Weiss to test in this manner, does not conform to experiment.
 
-![](/content/images/page_136_chart_14.jpg)
+![](images/page_136_chart_14.jpg)
 
 Fig. 4.5 Saturation magnetization of iron, cobalt, and nickel as a function of temperature.
 
-![](/content/images/page_137_chart_2.jpg)
+![](images/page_137_chart_2.jpg)
 
 Fig. 4.6 Curie points $(T_{\mathrm{c}})$ , recrystallization temperatures [R], and phase changes in Fe, Co, and Ni. BCC = body-centered cubic; FCC = face-centered cubic; HCP = hexagonal close packed. Ni is FCC at all temperatures.
 
@@ -2615,7 +2615,7 @@ $$
 \frac {\sigma}{\sigma_ {0}} = \left(\frac {k T}{\mu_ {\mathrm{H}} \gamma \rho \sigma_ {0}}\right) a ^ {\prime}.\tag{4.14}
 $$
 
-![](/content/images/page_138_chart_2.jpg)
+![](images/page_138_chart_2.jpg)
 
 Fig. 4.7 Relative saturation magnetization of iron, cobalt, and nickel as a function of relative temperature. Calculated curves are shown for three values of J.
 
@@ -2699,7 +2699,7 @@ $$
 \chi = \frac {\sigma}{H} = \frac {\mu_ {\mathrm{H}} \sigma_ {0} (J + 1) / 3 k J}{T - [ \mu_ {\mathrm{H}} \gamma \rho \sigma_ {0} (J + 1) / 3 k J ]},\tag{4.24}
 $$
 
-![](/content/images/page_140_chart_9.jpg)
+![](images/page_140_chart_9.jpg)
 
 Fig. 4.8 Effects of temperature and applied field on magnetization. Curve 1 is the Brillouin function for $J = \frac{1}{2}$
 
@@ -2723,7 +2723,7 @@ Figure 4.9 summarizes the results of molecular-field theory. The temperature $\t
 
 1. The curve of 1/χ vs T is a straight line at high temperatures but becomes concave upward near the Curie point. The extrapolation of the straight-line portion cuts the temperature axis at $\theta_{\mathrm{p}}$ which is called the paramagnetic Curie point. It is therefore equal to the $\theta$ of the Curie – Weiss law.
 
-![](/content/images/page_142_image_2.jpg)
+![](images/page_142_image_2.jpg)
 
 T(°K)
 
@@ -2733,7 +2733,7 @@ Fig. 4.9 Magnetization and susceptibility curves below and above the Curie tempe
 
 It is usual to refer to the Curie point as $T_{c}$ (or u) except when dealing with phenomena in the immediate neighborhood of this “point.” It is then necessary to distinguish between the two Curie points $\theta_{\mathrm{f}}$ and $\theta_{\mathrm{p}}$ The difference between the two is generally 10 – 30K. This behavior shows that the transition from the ferromagnetic to the paramagnetic state is not sharp, but blurred. The fuzziness of the transition is attributed to spin clusters. These are small groups of atoms in which the spins remain parallel to one another over a small temperature range above $\theta_{p};$ as such they constitute a kind of magnetic short-range order. These clusters of local spin order exist within a matrix of the spin disorder which constitutes a true paramagnetic material, and they gradually disappear as the temperature is raised. Conversely, below $\theta_{\mathrm{f}}$ there is a long-range order of spins even in the absence of an applied field; this is pre-cisely what spontaneous magnetization means.
 
-![](/content/images/page_142_image_8.jpg)
+![](images/page_142_image_8.jpg)
 
 Fig. 4.10 Magnetic behavior near the Curie point.
 
@@ -2769,27 +2769,27 @@ Certain aspects of the $\mu_{H}$ values in the ferromagnetic region should be no
 
 3. The $\mu_{H}$ values in the ferromagnetic region are of the same order of magnitude as the $\mu_{H}$ values for paramagnetic substances generally. The huge difference between a ferromagnet and a paramagnet is therefore due to the degree of alignment achieved and not to any large difference in the size of the moment per atom.
 
-![](/content/images/page_144_image_8.jpg)
+![](images/page_144_image_8.jpg)
 
 (a)
 
-![](/content/images/page_144_image_10.jpg)
+![](images/page_144_image_10.jpg)
 
 (b)
 
-![](/content/images/page_144_image_12.jpg)
+![](images/page_144_image_12.jpg)
 
 (c)
 
-![](/content/images/page_144_image_14.jpg)
+![](images/page_144_image_14.jpg)
 
 (d)
 
-![](/content/images/page_144_image_16.jpg)
+![](images/page_144_image_16.jpg)
 
 (e)
 
-![](/content/images/page_144_image_18.jpg)
+![](images/page_144_image_18.jpg)
 
 Fig. 4.11 Possible spin arrangements for coupled and uncoupled spins.
 
@@ -2819,11 +2819,11 @@ The Weiss theory of the molecular field says nothing about the physical origin o
 
 In seeking for a physical origin of the molecular field, we might at first wonder if it could be entirely magnetic. Figure 4.12a, for example, shows a set of atoms, represented by small circles, each having a net magnetic moment. The directions of these moments, considered as classically free to point in any direction, are indicated by the arrows. Each atom, considered as a magnetic dipole, produces an external field like that of Fig. 1.6, and the sum of the fields of all the dipoles at the point P would be a field from left to right, tending to increase the alignment of the moment on an atom placed at that point. The calculation of this field at P would involve a summation over all the dipoles in the specimen. The calculation becomes easier if we replace the set of dipoles with a continuous medium of average magnetization M, as in Fig. 4.12b and ask: What is the field at P in the center of a spherical hole in the material? This field, called the Lorentz field, is due to the north and south poles produced on the sides of the hole and is exactly equal in magnitude to the demagnetizing field of a solid magnetized sphere in empty space. We have already calculated this field in Section 2.6 and found it to be $4\pi /3M$ (cgs) or 1/3M (SI). For saturated iron at room temperature this is equal to $4\pi/3$ (1714) or about 7200 Oe (cgs) or 575 kA/m (SI). So purely magnetostatic forces are too small by about a factor of 1000 to account for the molecular field.
 
-![](/content/images/page_146_image_2.jpg)
+![](images/page_146_image_2.jpg)
 
 (a)
 
-![](/content/images/page_146_image_4.jpg)
+![](images/page_146_image_4.jpg)
 
 (b)
 
@@ -2845,7 +2845,7 @@ According to the Weiss theory, ferromagnetism is caused by a powerful “molecul
 
 Nevertheless, knowledge that exchange forces are responsible for ferromagnetism and, as we shall see later, for antiferro- and ferrimagnetism, has led to many conclusions of great value. For example, it allows us to rationalize the appearance of ferromagnetism in some metals and not in others. The curve of Fig. 4.13, usually called the Bethe –Slater curve, shows the postulated variation of the exchange integral with the ratio $r_{\mathrm{a}} / r_{3d},$ where $r_{\mathrm{a}}$ is the radius of an atom and $r_{3d}$ the radius of its 3d shell of electrons. (It is the spin alignment of some of the 3d electrons which is the immediate cause of ferromagnetism in Fe, Co, and Ni.) The atom diameter is $2r_{a}$ and this is also the distance apart of the atom centers, since the atoms of a solid are regarded as being in contact with one another. If two atoms of the same kind are brought closer and closer together but without any change in the radius $r_{3d}$ of their 3d shells, the ratio $r_{\mathrm{a}} / r_{3d}$ will decrease. When this ratio is large, $J_{ex}$ is small and positive. As the ratio decreases and the 3d electrons approach one another more closely, the positive exchange interaction, favoring parallel spins, becomes stronger and then decreases to zero. A further decrease in the interatomic distance brings the 3d electrons so close together that their spins must become antiparallel (negative $J_{ex}$ . This condition is called antiferromagnetism.
 
-![](/content/images/page_148_image_2.jpg)
+![](images/page_148_image_2.jpg)
 
 Fig. 4.13 Bethe–Slater curve (schematic).
 
@@ -2899,7 +2899,7 @@ TABLE 4.4 Electron Distributions in Free Atoms
 
 <table><tr><td rowspan="2">Number of Electrons in Shell</td><td colspan="3"></td><td colspan="7">Transition Elements</td><td colspan="2"></td></tr><tr><td>K</td><td>Ca</td><td>Sc</td><td>Ti</td><td>V</td><td>Cr</td><td>Mn</td><td>Fe</td><td>Co</td><td>Ni</td><td>Cu</td><td>Zn</td></tr><tr><td>3d</td><td>0</td><td>0</td><td>1</td><td>2</td><td>3</td><td>5</td><td>5</td><td>6</td><td>7</td><td>8</td><td>10</td><td>10</td></tr><tr><td>4s</td><td>1</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>2</td></tr><tr><td>3d + 4s</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr></table>
 
-![](/content/images/page_151_image_2.jpg)
+![](images/page_151_image_2.jpg)
 
 Fig. 4.14 Splitting of electron energy levels as the interatomic distance decreases.
 
@@ -2907,13 +2907,13 @@ There are a great many energy levels in a band, even for a small bit of crystal.
 
 An important and difficult problem of the band theory is to calculate the “shape” of energy bands, i.e., the form of the N(E) vs E curve for the band. The result of one such calculation, for the 3d band of nickel, is shown in Fig. 4.15. More recent calculations for nickel and other metals are given in the text by Chikazumi. All 3d band calculations show that the variation of N(E) with E is quite irregular. However, the exact shape of the band does not affect the general arguments to be advanced later.
 
-![](/content/images/page_152_image_2.jpg)
+![](images/page_152_image_2.jpg)
 
 Fig. 4.15 One calculation of the density of levels as a function of energy in the 3d band of nickel.
 
 Since the 3d and 4s bands overlap in energy (Fig. 4.14), it is convenient to draw the corresponding density curves side by side, as in Fig. 4.16. Here the density of 3d levels increases outward to the left, and that of 4s levels outward to the right; the letters A, B, C, and D refer to the same energies as in Fig. 4.14; and a simplified form, of schematic significance only, has been adopted for the shape of the 3d band. Note that the density of 3d levels is far greater than that of 4s levels, because there are five 3d levels per atom, with a capacity of 10 electrons, whereas there is only one 4s level, with a capacity of two electrons, as noted in Table 4.3. The area under each N(E) vs E curve is equal to the total number of levels in the band.
 
-![](/content/images/page_152_image_6.jpg)
+![](images/page_152_image_6.jpg)
 
 Fig. 4.16 Density of levels in the 3d and 4s bands (schematic).
 
@@ -2925,11 +2925,11 @@ Filled energy levels cannot contribute a magnetic moment, because the two electr
 
 The ferromagnetism of Fe, Co, and Ni is due to spin unbalance in the 3d band. The 4s electrons are assumed to make no contribution. The density of levels in the 4s band is low, which means that the levels themselves are widely spaced. Since the 3d band can hold five electrons with spin up and five with spin down, the maximum unbalance, i.e., the saturation magnetization, is achieved when one half-band is full of five electrons. Suppose we let
 
-![](/content/images/page_153_chart_7.jpg)
+![](images/page_153_chart_7.jpg)
 
 (a)
 
-![](/content/images/page_153_chart_9.jpg)
+![](images/page_153_chart_9.jpg)
 
 (b)
 
@@ -2955,7 +2955,7 @@ The magnetic moments per atom predicted by this equation are compared with exper
 
 Figure 4.18 shows fairly good agreement between theory and experiment for Fe, Co, and Ni, and, as we shall see in the next section, for certain alloys. However, the theory predicts that manganese and the next lighter elements would be more magnetic than iron, whereas they are, in fact, not ferromagnetic at all. In iron we have assumed 5.00 electrons with spin up and 2.40 with spin down, leading to a spin unbalance of 2.60. Since the observed spin unbalance in iron is some 20% less than this predicted value, and in manganese actually zero, it appears that the exchange force cannot keep one half-band full of electrons if the other half-band is less than about half full.
 
-![](/content/images/page_154_chart_10.jpg)
+![](images/page_154_chart_10.jpg)
 
 Fig. 4.18 Observed and calculated dependence of the saturation magnetization on the number n of (3d and 4s) electrons per atom.
 
@@ -2983,9 +2983,9 @@ Note that all of the above criteria are the result of hindsight. They are a blen
 
 The band theory affords a ready explanation of the Pauli paramagnetism (weak spin paramagnetism) mentioned in Section 3.8. Electrons in a partially filled band of a metal occupy the available levels in accordance with the Fermi –Dirac distribution law. At 0K this distribution is such that all levels up to the Fermi level are full and all higher levels completely empty, as shown in Fig. 4.19a, where the heavy lines indicate the density of occupied levels and the light lines the density of available levels. At any higher temperature, as in Fig. 4.19b, thermal energy excites some electrons into higher levels; the density of occupied levels above the former Fermi level therefore increases from zero to some finite value, and the density of occupied levels just below the former Fermi level decreases.
 
-![](/content/images/page_156_image_2.jpg)
+![](images/page_156_image_2.jpg)
 
-![](/content/images/page_156_image_3.jpg)
+![](images/page_156_image_3.jpg)
 
 (b)
 
@@ -3009,7 +3009,7 @@ Certain distinctions can be made at the beginning. In terms of binary alloys, th
 
 These two kinds of behavior are illustrated in Fig. 4.20. Element A is assumed to be ferromagnetic, and B, together with the B-rich solid solution β, is assumed to be paramagnetic. When B is added to A to form the a solid solution, both $\sigma_{s}$ and $T_{\mathrm{c}}$ are expected to decrease, but the shape of the curve of $\sigma_{\mathrm{s}}$ (or $T_{\mathrm{c}}$) vs composition is unpredictable. In the two-phase $(\alpha + \beta)$ region, the a phase is saturated and does not change its composition, but the amount of a decreases as B is added. Therefore $\sigma_{s}$ decreases linearly to zero at the edge of the two-phase field, and $T_{c}$ remains constant.
 
-![](/content/images/page_157_chart_8.jpg)
+![](images/page_157_chart_8.jpg)
 
 (b)
 
@@ -3017,17 +3017,17 @@ Fig. 4.20 (a) Hypothetical phase diagram of A–B alloys. Element A is ferromagn
 
 Iron-cobalt alloys illustrate these effects. Figure 4.21a shows the phase diagram; there is a very wide range of solid solubility at room temperature, extending to about 75% Co. The 50% Co alloy undergoes long-range ordering, and $\alpha^{\prime}$ is the ordered form of a. The Curie temperature, shown by dotted lines, follows the boundaries of the $(\alpha + \gamma)$ region from about 15 to 73% Co, a range over which these boundaries are almost coincident; $T_{c}$ is then constant, but not shown on the diagram, over the two-phase region from 73 to
 
-![](/content/images/page_158_chart_4.jpg)
+![](images/page_158_chart_4.jpg)
 
 (a)
 
-![](/content/images/page_158_chart_6.jpg)
+![](images/page_158_chart_6.jpg)
 
 (b)
 
 Fig. 4.21 (a) Fe–Co binary phase diagram. (b) Variation of $\sigma_{s}$ at room temperature with composition.
 
-![](/content/images/page_159_chart_2.jpg)
+![](images/page_159_chart_2.jpg)
 
 Fig. 4.22 Slater –Pauling curve: dependence of saturation magnetization of alloys on the number of (3d + 4s) electrons per atom. [S. Chikazumi, Physics of Ferromagnetism, Oxford University Press, (1997).]
 
@@ -3109,11 +3109,11 @@ Although the application of Equation 4.34 to these determinations might seem eas
 
 Measurements of $\sigma_{s}$ can be helpful in determining phase diagrams. Measurement of the solid solubility of B in A is illustrated in Fig. 4.23, in which, as before, a is assumed to be ferromagnetic and β paramagnetic. If the alloys are very slowly cooled to room temperature $T_{1}$ , so that they are in equilibrium at that temperature, then $\sigma_{s}$ will vary with composition along the curve abe. But if the alloys are brought to equilibrium at $T_{2}$ and then quenched to room temperature, $\sigma_{s}$ will vary along abcd. The intersections of the straight line portions with the curve abc, which shows the variation of $\sigma_{s}$ with composition in the $\alpha$ region, gives the solid solubilities, namely, x and y% B at temperatures $T_{1}$ and $T_{2}$ respectively. Although magnetic analysis can be of considerable value in the study of some alloy systems, it should be supplemented with the more common techniques of microscopic examination and X-ray diffraction.
 
-![](/content/images/page_164_chart_6.jpg)
+![](images/page_164_chart_6.jpg)
 
 Fig. 4.23 Variation of saturation magnetization $\sigma_{s}$ with composition in alloys equilibrated at temperatures $T_{1}$ and $T_{2}$
 
-![](/content/images/page_165_chart_2.jpg)
+![](images/page_165_chart_2.jpg)
 
 Fig. 4.24 Variation of $\sigma_{s}$ with temperature in an alloy of two ferromagnetic phases.
 
@@ -3143,7 +3143,7 @@ The way in which the susceptibility of an antiferromagnetic varies with temperat
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280">1Louis Néel (1904–2000) was a French physicist and former student under Weiss at Strasbourg. He founded, after World War II, a flourishing center of magnetic research at the University of Grenoble. He was awarded a Nobel prize in 1970.</span></small>
 
-![](/content/images/page_167_image_2.jpg)
+![](images/page_167_image_2.jpg)
 
 Fig. 5.1 Temperature dependence of susceptibility χ and inverse susceptibility $1 / \chi$ for an antiferromagnetic material (schematic). AF = antiferromagnetic, P = paramagnetic.
 
@@ -3196,7 +3196,7 @@ Below the critical temperature $T_{\mathrm{N}}$ this tendency toward an antipara
 
 We now see that an antiferromagnetic at 0K consists of two interpenetrating and identical sublattices of magnetic ions, each spontaneously magnetized to saturation in zero applied field, but in opposite directions, just as the single lattice of a ferromagnetic is spontaneously magnetized. Evidently, an antiferromagnetic has no net spontaneous moment and can acquire a moment only when a strong field is applied to it. We note also that the Néel temperature $T_{N}$ plays the same role as the Curie temperature $T_{c};$ each divides the temperature scale into a magnetically ordered region below and a disordered (paramagnetic) region above. The several analogies to ferromagnetism are apparent and the name “antiferromagnetism” is entirely appropriate.
 
-![](/content/images/page_168_image_9.jpg)
+![](images/page_168_image_9.jpg)
 
 Fig. 5.2 Antiferromagnetic arrangement of A and B sublattices.
 
@@ -3264,7 +3264,7 @@ $$
 
 Note that, when a field is applied above $T_{\mathrm{N}}$ each sublattice becomes magnetized in the same direction as the field, but each sublattice then sets up a molecular field, in the opposite direction to the applied field, tending to reduce both $M_{A}$ and $M_{\mathrm{B}}$ . The result is that the susceptibility x is smaller, and 1/χ larger, than that of an ideal paramagnetic in which the molecular field is zero. The two are compared graphically in Fig. 5.3, which also shows how x varies with T in a substance with a large positive molecular field, such as a ferromagnetic above its Curie point.
 
-![](/content/images/page_170_image_8.jpg)
+![](images/page_170_image_8.jpg)
 
 Fig. 5.3 Dependence of the susceptibility χ on the molecular field $H_{\mathrm{m}}$ for a fixed value of the Curie constant C.
 
@@ -3318,7 +3318,7 @@ with a similar expression for the B sublattice. This equation can be solved grap
 
 Although the net spontaneous magnetization is zero below $T_{\mathrm{N}}$ an applied field can produce a small magnetization. The resulting susceptibility is found to depend on the angle which the applied field makes with the axis of antiparallelism marked D in
 
-![](/content/images/page_172_image_2.jpg)
+![](images/page_172_image_2.jpg)
 
 Fig. 5.4 Spontaneous magnetizations of the A and B sublattices at temperatures below $T_{\mathrm{N}}$ (schematic).
 
@@ -3326,9 +3326,9 @@ Fig. 5.2, an axis which usually coincides with an important crystallographic dir
 
 Field at Right Angles to Spin Axis. The effect of the applied field H is to turn each sublattice magnetization away from the spin axis by a small angle a, as shown in Fig. 5.5a, where the vectors representing the magnetizations of the two sublattices are drawn from one point. This rotation immediately creates a magnetization s in the direction of the field and sets up an unbalanced molecular field $H_{\mathrm{m}}$ in the opposite direction. The spins will rotate until $H_{\mathrm{m}}$ equals H, or
 
-![](/content/images/page_172_image_6.jpg)
+![](images/page_172_image_6.jpg)
 
-![](/content/images/page_172_image_7.jpg)
+![](images/page_172_image_7.jpg)
 
 (b)
 
@@ -3370,7 +3370,7 @@ $$
 \Delta \sigma_ {\mathrm{A}} = \Delta a ^ {\prime} [ \sigma_ {0 \mathrm{A}} B ^ {\prime} (J, a _ {0} ^ {\prime}) ],\tag{5.21}
 $$
 
-![](/content/images/page_174_chart_2.jpg)
+![](images/page_174_chart_2.jpg)
 
 Fig. 5.6 Magnetization changes when the field is applied parallel to the spin axis.
 
@@ -3416,7 +3416,7 @@ $$
 \begin{array}{c} \sigma_ {\parallel} = \chi_ {\parallel} H \cos \theta , \\ \sigma_ {\perp} = \chi_ {\perp} H \sin \theta . \end{array}\tag{5.26}
 $$
 
-![](/content/images/page_175_chart_9.jpg)
+![](images/page_175_chart_9.jpg)
 
 Fig. 5.7 Calculated temperature variation of the susceptibility of an antiferromagnet near and below the Néel temperature $T_{\mathrm{N}}$ The curve of $\chi_{\parallel}$ is calculated for $J = 1$
 
@@ -3464,13 +3464,13 @@ $$
 
 where there are now two molecular field constants; $\gamma_{AB}$ defines the strength of the AB interaction, and $\gamma_{AA}$ usually assumed equal to $\gamma_{BB}$ , defines the strength of the AA interaction. The constant $\gamma_{\mathrm{AA}} (= \gamma_{\mathrm{BB}})$ can be positive, negative, or zero. When $\gamma_{AA}$ is not zero, the ratio $\theta /T_{\mathrm{N}}$ can take on larger values than unity; the ratio $\gamma_{AA}/\gamma_{AB}$ can then be computed from the observed value of $\theta / T_{\mathrm{N}}$ . Negative values of u, which mean that $\chi = C / (\mathrm{T} - \theta)$ above $T_{\mathrm{N}}$ observed for some chlorides like $\mathrm{FeCl}_{2}$ , imply that $\gamma_{AA}$ is negative.
 
-![](/content/images/page_177_chart_2.jpg)
+![](images/page_177_chart_2.jpg)
 
 Fig. 5.8 Temperature variation of the susceptibility of MnO powder. [H. Bizette, C. F. Squire, and B. Tai, Compt. Rend., 207 (1938) p. 449.]
 
 The other predictions of the theory are reasonably well satisfied by experiment. Table 5.1 shows that $\chi_{\mathrm{p}}(0) / \chi_{\mathrm{p}}(T_{\mathrm{N}})$ is nearly always close to the theoretical value of 0.67. Typical $\chi, T$ curves for powders are shown in Figs 5.8 and 5.9 and for a single crystal in Fig. 5.9; these curves are seen to agree quite closely with the theoretical curves of Fig. 5.7. (The fact that the susceptibility of MnO below $T_{\mathrm{N}}$ depends on the size of the field used to measure it is due to crystal anisotropy, which is discussed in Section 7.9.)
 
-![](/content/images/page_177_chart_5.jpg)
+![](images/page_177_chart_5.jpg)
 
 Fig. 5.9 Temperature variation of the molar susceptibility of $\mathrm{MnF_{2}}$ The central curve (below $T_{N}$ is for a powder sample, and the other two curves are for a single crystal. [H. Bizette and B. Tai, Compt. Rend., 238 (1954) p. 1575.]
 
@@ -3492,7 +3492,7 @@ $$
 
 where n is an integer (0, 1, 2, . . .) called the order of reflection, d is the spacing of atomic planes in the crystal, and $\theta$ is the angle between the incident beam and the atomic planes involved (Fig. 5.10). When neutrons, or X rays, encounter an atom, they are scattered in all directions, and what we call a diffracted beam is simply a set of scattered beams which are in phase, so that they reinforce one another. The Bragg law states the condition that rays scattered in the direction shown in the sketch, making an angle $\theta$ with the atomic planes equal to the angle of incidence, will be in phase with one another. In all other directions of space the phase relations between the scattered beams are such that they cancel one another. In experimental work, the angle $2\theta$, rather than $\theta$, is usually measured; it is the angle between the diffracted beam and the incident or the transmitted beam.
 
-![](/content/images/page_179_image_2.jpg)
+![](images/page_179_image_2.jpg)
 
 Fig. 5.10 Diffraction geometry.
 
@@ -3502,19 +3502,19 @@ Electron diffraction is a fairly common means of investigating crystals, and the
 
 When an antiferromagnet is cooled below $T_{\mathrm{N}}$ what was previously a random arrangement of spins becomes an ordered arrangement, with one set of spins antiparallel to the other. This change is very similar, especially from a diffraction point of view, to the chemical ordering which takes place in certain solid solutions when cooled below a critical temperature. Consider X-ray diffraction from the (100) planes of such a solid solution, consisting of elements C and D in equal atomic proportions and assumed to have a body-centered cubic structure. These planes are marked X and Z in Fig. 5.11a, which applies to the disordered state. If the incoming X rays make an angle $\theta$ such that the path difference abc between scattered rays 1 and 3 equals one whole wavelength, then rays 1 and 3 will be in phase and reinforce each other. But if $abc = \lambda$ , the path difference def between rays 1 and 2 is λ/2 , so that these rays are exactly out of phase. Moreover, the amplitudes of 1 and 2 are exactly equal, because planes X and Y are statistically identical when the solution is disordered. Scattered rays 1 and 2 therefore cancel each other, as indicated in the sketch of the scattered wave form, and so do 3 and 4, 5, and 6, etc. There is no 100 reflection from the disordered solution. There is, however, a 200 reflection; this is obtained by increasing the angle $\theta$ until def = λ so that rays 1 and 2, scattered from the (200) planes X and Y, are in phase. In Fig. 5.11b there is perfect order: C atoms occupy only cube corners and D atoms only cube centers. For first-order (n = 1) reflection from (100) planes, scattered rays 1 and 2 are again exactly out of phase. But now their amplitudes differ, because planes X and Y now contain chemically different atoms, with different numbers of electrons per atom and hence different X-ray scattering powers. Therefore, rays 1 and 2 do not cancel but combine to form the wave indicated by the dashed line in the sketch. The ordered solid solution thus produces a 100 reflection. If we examined other reflections, from planes of different Miller indices hkl, we would find other examples of lines which are present in the diffraction pattern of ordered solutions and absent from the pattern of disordered ones. These extra lines are called superlattice lines, and their presence constitutes direct evidence of order.
 
-![](/content/images/page_180_image_2.jpg)
+![](images/page_180_image_2.jpg)
 
-![](/content/images/page_180_image_3.jpg)
+![](images/page_180_image_3.jpg)
 
-![](/content/images/page_180_image_4.jpg)
+![](images/page_180_image_4.jpg)
 
-![](/content/images/page_180_image_5.jpg)
+![](images/page_180_image_5.jpg)
 
-![](/content/images/page_180_image_6.jpg)
+![](images/page_180_image_6.jpg)
 
 (a)
 
-![](/content/images/page_180_image_8.jpg)
+![](images/page_180_image_8.jpg)
 
 (b)
 
@@ -3536,11 +3536,11 @@ Neutron diffraction experiments were carried out on this compound with an instru
 
 The result is a plot of diffracted intensity vs $2\theta$ which is shown for $\mathrm{MnF_{2}}$ in Fig. 5.14, for temperatures above and below the Néel temperature of 67K. The chief difference between the two patterns is the presence of the strong 100 superlattice line below $T_{N}$ . This tells us immediately that the spins on the cell-corner ions are antiparallel to those on the cell-center ions. On the other hand, there is no 001 line; the spin axis is therefore normal to these planes and parallel to the c-axis of the unit cell, as shown in Fig. 5.15. Detailed analysis of the intensities of the other lines in the pattern confirms this conclusion. The intensity of the 100 line from $\mathrm{MnF_{2}}$ depends on the degree of spin order, and it increases as the temperature decreases from $T_{\mathrm{N}}$ to 0K. From such measurements one can determine the shape of the sublattice s, T curve, shown schematically in Fig. 5.4. Such information cannot be obtained from magnetic measurements.
 
-![](/content/images/page_181_image_8.jpg)
+![](images/page_181_image_8.jpg)
 
 Fig. 5.12 Structure of MnF<sub>2</sub>.
 
-![](/content/images/page_182_image_2.jpg)
+![](images/page_182_image_2.jpg)
 
 Fig. 5.13 Neutron diffractometer (schematic).
 
@@ -3548,19 +3548,19 @@ It is not always possible to determine the orientation of the spin axis solely f
 
 MnO has the face-centered cubic NaCl structure, which is like a three-dimensional checkerboard (Fig. 5.16a). In Fig. 5.16b, only the magnetic ions are shown, and the spin structure as deduced by neutron diffraction. The spin axis is parallel to (111) planes and lies in the [110] direction in these planes; alternate (111) planes, shown by dashed lines in the drawing, have opposite spin. The antiferromagnetic state of MnO has one feature not found in $\mathrm{MnF_{2}}$ : The magnetic unit cell differs from the chemical (also called the nuclear) unit cell. Although a unit cell may be chosen in many ways, the choice must meet certain requirements. One is that the “entity” (chemical species, spin direction, etc.) at one corner of the cell be the same as that at all other corners. The unit cell in Fig. 5.16a is the chemical unit cell and has a manganese ion at each corner; it is also the magnetic unit cell above $T_{\mathrm{N}}$ because the spin directions are then random and the manganese ions are, in a magnetic sense, statistically identical. But when magnetic ordering sets in, the spin direction at one corner of the chemical unit cell is opposite to that at the three nearest corners. It is then necessary to choose a magnetic unit cell twice as large along each cube edge, as shown in Fig. 5.16b.
 
-![](/content/images/page_182_chart_7.jpg)
+![](images/page_182_chart_7.jpg)
 
 Fig. 5.14 Neutron diffraction patterns of a powder sample of $\mathrm{MnF_{2}}$ in the paramagnetic state (300K) and in the antiferromagnetic state (23K). [R. A. Erickson, Phys. Rev., 90 (1953) p. 779.]
 
-![](/content/images/page_183_image_0.jpg)
+![](images/page_183_image_0.jpg)
 
-![](/content/images/page_183_image_3.jpg)
+![](images/page_183_image_3.jpg)
 
 Fig. 5.15 Projection of the MnF<sub>2</sub> unit cell on a (010) face. Only the Mn ions are shown.
 
 Neutron diffraction has disclosed spin structures in which the spins in alternate layers are not antiparallel but inclined at some angle other than $180^{\circ}$. $\mathrm{MnAu}_{2}$ is an example and Fig. 5.17 shows its chemical unit cell. It is body-centered tetragonal, and Au atoms are arranged at a distance of about c/3 above and below each Mn atom, along the c-axis. The spins of the Mn ions in each (002) plane are parallel to one another and to the (002) plane itself, but the spins rotate through an angle φ of $51^{\circ}$ about the c-axis from one (002) plane to the next. Such an arrangement of spins is called a spiral or helical structure.
 
-![](/content/images/page_183_image_7.jpg)
+![](images/page_183_image_7.jpg)
 
 (a)
 
@@ -3568,7 +3568,7 @@ Neutron diffraction has disclosed spin structures in which the spins in alternat
 
 Fig. 5.16 Structure of MnO. (a) Chemical unit cell of Mn and O ions. (b) Chemical and magnetic units cells, Mn ions only.
 
-![](/content/images/page_184_image_2.jpg)
+![](images/page_184_image_2.jpg)
 
 Fig. 5.17 Structure of Mn $\mathrm{Au}_{2}$
 
@@ -3576,7 +3576,7 @@ Evidently we must revise our earlier definition of antiferromagnetism and make i
 
 Slight deviations from ideal antiferromagnetism can also exist. In some substances the spins of the two sublattices are not quite antiparallel but slightly tilted or “canted” out of alignment, as indicated in Fig. 5.18. The result is a small net magnetization $\sigma_{s}$ in one direction. From one point of view such substances are ferromagnetic; they are composed of domains, each spontaneously magnetized to a magnitude $\sigma_{s}$ , and they show hysteresis. But they do not saturate, and in strong fields they exhibit a susceptibility x appropriate to their basic antiferromagnetism. Such substances have a magnetization curve like that of curve A of Fig. 3.12, which can be described by
 
-![](/content/images/page_184_image_7.jpg)
+![](images/page_184_image_7.jpg)
 
 Fig. 5.18 Canted spins.
 
@@ -3588,11 +3588,11 @@ where the first term reaches its maximum value $\sigma_{s}$ only in a finite fie
 
 The exchange interaction in antiferromagnetic ionic solids takes place by the mechanism of indirect exchange, also called superexchange, already alluded to briefly near the end of Section 4.7. In these structures, the positive metal ions, which carry the magnetic moment, are too far apart for direct exchange forces to be of much consequence. Instead, they act indirectly through the neighboring anions (negative ions). Consider, for example, two $\mathrm{Mn}^{2+}$ ions being brought up to an $\mathrm{O}^{2-}$ ion from a large distance, as in Fig. 5.19a. The directions of the moments on these two ions are at first unrelated. The oxygen ion has no net moment, because it has a neon-like structure of filled shells. But imagine that the outer electrons of the oxygen ion constitute two superimposed orbits, one with a net spin up, the other with a net spin down, as pictured in Fig. 5.19a. When a manganese ion with an up spin is brought close to the oxygen ion, the up-spin part of the oxygen ion will be displaced as in Fig. 5.19b, because parallel spins repel one another. If now another manganese ion is brought up from the right, it is forced to have a down spin when it comes close to the up-spin side of the “unbalanced” oxygen ion. The strength of the antiparallel coupling between metal ions M depends on the bond angle AOB and is generally greatest when this angle is $180^{\circ}$ (M – O – M collinear).
 
-![](/content/images/page_185_image_6.jpg)
+![](images/page_185_image_6.jpg)
 
 (a)
 
-![](/content/images/page_185_image_8.jpg)
+![](images/page_185_image_8.jpg)
 
 (b)
 
@@ -3658,9 +3658,9 @@ The magnetic ferrites fall mainly into two groups with different crystal structu
 
 1. Cubic. These have the general formula $\mathrm{MO}\cdot\mathrm{Fe}_{2}\mathrm{O}_{3}$ , where M is a divalent metal ion, like Mn, Ni, Fe, Co, or Mg. Cobalt ferrite $\mathrm{CoO}\cdot\mathrm{Fe}_{2}\mathrm{O}_{3}$ is magnetically hard, but all the other cubic ferrites are magnetically soft. As magnetic materials, these ferrites are both old and new, inasmuch as magnetite $\mathrm{Fe}_{3}\mathrm{O}_{4} (= \mathrm{FeO} \cdot \mathrm{Fe}_{2}\mathrm{O}_{3})$ , which might be called iron ferrite, is the oldest magnetic material known to man, the “lodestone” of the ancients.
 
-![](/content/images/page_190_chart_2.jpg)
+![](images/page_190_chart_2.jpg)
 
-![](/content/images/page_190_chart_3.jpg)
+![](images/page_190_chart_3.jpg)
 
 Fig. 6.1 Temperature dependence of magnetic properties of a typical ferrimagnet $(\mathrm{NiO}\cdot\mathrm{Fe}_{2}\mathrm{O}_{3})$ Left-hand figure shows the fractional saturation magnetization per unit mass $\sigma_{\mathrm{s}} / \sigma_{0}$ in the ferrimagnetic region and the right-hand figure shows the reciprocal susceptibility (per mole) in the paramagnetic region. The dashed curve in the left-hand figure is the corresponding data for metallic iron.
 
@@ -3694,7 +3694,7 @@ Not all of the available sites are actually occupied by metal ions. Only one-eig
 
 The normal and inverse structures are to be regarded as extreme cases, because X-ray and neutron diffraction show that intermediate structures can exist. Thus manganese ferrite is almost, but not perfectly, normal; instead of all the $\mathrm{Mn}^{2+}$ ions being on A sites, a fraction 0.8 is on A sites and 0.2 on B sites. Similarly, magnesium ferrite is not quite inverse; a fraction 0.9 of the $\mathrm{Mg}^{2+}$ ions is on B sites and 0.1 on A sites. The distribution of the divalent ions on A and B sites in some ferrites can be altered by heat treatment; it may depend, for example, on whether the material is quenched from a high temperature or slowly cooled.
 
-![](/content/images/page_193_image_0.jpg)
+![](images/page_193_image_0.jpg)
 
 Fig. 6.2 Crystal structure of a cubic ferrite.
 
@@ -3727,7 +3727,7 @@ The discrepancies between theory and experiment, evident in Fig. 6.3, are genera
 
 1. Orbital moments may not be completely quenched; i.e., there may be an orbital moment, not allowed for in the theory, besides the spin moment. This is thought to be particularly true of the $\mathrm{Co}^{2+}$ ion.
 
-![](/content/images/page_195_chart_6.jpg)
+![](images/page_195_chart_6.jpg)
 
 Fig. 6.3 Saturation magnetization at 0K of some simple ferrites.
 
@@ -3739,7 +3739,7 @@ A surprising fact about mixed ferrites containing zinc is that the addition of t
 
 Table 6.4 summarizes magnetic and other data on various pure ferrites and compares them with similar data on metallic iron. Although the magnetic moment per molecule of many ferrites is rather large (several Bohr magnetons), iron has a much larger magnetization on the basis of unit mass or unit volume.
 
-![](/content/images/page_196_chart_6.jpg)
+![](images/page_196_chart_6.jpg)
 
 Fig. 6.4 Effect on the saturation moment (at 0K) of adding Zn ferrite to Mn, Co, and Ni ferrite.
 
@@ -3759,7 +3759,7 @@ Figure 6.5a shows the interactions (exchange forces) that would have to be consi
 
 Let there be n identical magnetic ions per unit volume, with a fraction l located on A sites and a fraction $v(= 1 - \lambda)$ on B sites. Let $\mu_{A}$ be the average moment of an A ion in the direction of the field at temperature T. (Even though the A and B ions are identical, $\mu_{A}$ is not equal to $\mu_{B}$ , because these ions, being on different sites, are exposed to different molecular fields.) Then the magnetization of the A sublattice is $M_{\mathrm{A}} = \lambda n\mu_{\mathrm{A}}$
 
-![](/content/images/page_198_image_2.jpg)
+![](images/page_198_image_2.jpg)
 
 Fig. 6.5 Exchange interactions between ions in an inverse cubic ferrite.
 
@@ -3847,13 +3847,13 @@ This is the equation of a straight line, shown dashed in Fig. 6.6, to which the 
 
 Equation 6.10 is in good agreement with experiment, except near the Curie point. Figure 6.7 shows the data for Mg ferrite. The temperature $\theta_{\mathrm{f}}$ (or $T_{\mathrm{c}}$) at which the susceptibility becomes infinite and spontaneous magnetization appears is called the ferrimagnetic Curie point; in the example shown, it was determined from measurements made in the ferrimagnetic region. This disagreement between theory and experiment in the region of the Curie “point” recalls the similar disagreement in ferromagnetism (Fig. 4.10) and is presumably due to the same cause: short-range spin order (spin clusters) at temperatures above $\theta_{\mathrm{f}}$
 
-![](/content/images/page_199_image_13.jpg)
+![](images/page_199_image_13.jpg)
 
 Temperature (K)
 
 Fig. 6.6 Theoretical variation of reciprocal susceptibility with temperature for a ferrimagnetic above the Curie point.
 
-![](/content/images/page_200_chart_2.jpg)
+![](images/page_200_chart_2.jpg)
 
 Fig. 6.7 Reciprocal susceptibility vs. temperature for Mn ferrite. Here $\chi_{M}$ refers to a half molecule of ferrite, i.e., to one mol of $\mathrm{Fe}^{3+}$
 
@@ -3895,11 +3895,11 @@ These two equations cannot be solved separately by the simple graphical method o
 
 If the values of the constants $\gamma_{\mathrm{AB}},\alpha ,\beta ,$ and l have been calculated for a particular substance from an analysis of its paramagnetic behavior, then the $\sigma_{\mathrm{s}},T$ curve of that substance below $T_{c}$ can be calculated, and the result is in fairly good agreement with experiment. However, it is necessary to follow a rather arbitrary procedure. In an inverse ferrite $\mathrm{MO}\cdot\mathrm{Fe}_{2}\mathrm{O}_{3}$ , the B sites are actually occupied by $\mathbf{M}^{2+}$ and $\mathrm{Fe}^{3+}$ ions with different moments. In the calculation it is necessary, to conform to the assumptions of the molecular-field theory, to replace these two kinds of ions on B sites with a single fictitious kind of ion having a moment intermediate between that of $\mathrm{M}^{2+}$ and $\mathrm{Fe}^{3+}$
 
-![](/content/images/page_201_image_11.jpg)
+![](images/page_201_image_11.jpg)
 
 Fig. 6.8 Spontaneous magnetizations of the A and B sublattices, and the resultant saturation magnetization $\sigma_{s}$ , for a typical cubic ferrimagnet (schematic).
 
-![](/content/images/page_202_image_2.jpg)
+![](images/page_202_image_2.jpg)
 
 Fig. 6.9 Unusual $\sigma_{s}$ vs T curves for cubit ferrimagnets.
 
@@ -3909,11 +3909,11 @@ In Fig. 6.9, the sublattice magnetization curves are both plotted on the positiv
 
 It is not accurate to say that $\sigma_{s}$ becomes negative above the compensation point, because that would imply diamagnetism. If a rod of the material is placed parallel to a saturating field directed from left to right, then, at any temperature below $T_{\mathrm{c}}$ the magnetization $\sigma_{s}$ will be directed from left to right. The $\sigma_{s}$ T curve should thus be plotted as in Fig. 6.10a rather than as in Fig. 6.9b. It is the remanent magnetization $\sigma_{\mathrm{r}}$ which changes sign with change in temperature. Let the rod be saturated at temperature $T_{1}$ and the field then removed; its remanent magnetization at this temperature $\sigma_{\mathrm{r}}(T_1)$ is then represented by point a in Fig. 6.10b. The effect of the demagnetizing field of the rod has been neglected in this illustration. If the rod is now heated, still in zero field, from $T_{1}$ to $T_{2}$ its remanent magnetization will decrease, become zero, and then reverse direction, ending up at point b in the diagram. This sign reversal of the remanence can be convincingly demonstrated in the following way. Hang the rod, in the remanent state at $T_{1}$ , by a torsion-free suspension, so that it can freely rotate in a horizontal plane, in a weak field. The field should be too weak to alter the magnetic state of the rod appreciably but strong enough to align it. When the rod is then heated through the compensation point, it will rotate through $180^{\circ}$ . Only a ferrimagnetic of this peculiar kind will behave in this way; this experiment is thus, in a sense, a crucial test of the theory of ferrimagnetism.
 
-![](/content/images/page_202_image_7.jpg)
+![](images/page_202_image_7.jpg)
 
 Fig. 6.10 Behavior of a ferrimagnet with a compensation point.
 
-![](/content/images/page_203_chart_2.jpg)
+![](images/page_203_chart_2.jpg)
 
 Fig. 6.11 Saturation magnetization vs temperature for several cubic ferrimagnets. [Data for Figs 6.11 and 6.13 from J. Smit and H. P. J. Wijn, Ferrites, Wiley (1959).]
 
@@ -3933,7 +3933,7 @@ The hexagonal unit cell of barium ferrite contains two formula units, or an amou
 
 The key to an understanding of this large complex cell lies in the relation between the hexagonal-close-packed and the face-centered-cubic structures. Both are built up by stacking identical layers of atoms one on top of another in a particular sequence. Within each layer the atoms are located at the corners of a network of adjoining equilateral triangles, as shown at the top of Fig. 6.12. If the layers are stacked in the sequence ABABAB. . . i.e., with the third layer directly over the first, the resulting structure is hexagonal closepacked. If the stacking sequence is ABCABC. . . , so that the sequence does not repeat until the fourth layer, the result is face-centered cubic. The cubic ferrites with the spinel structure may be thought of in this way, i.e., as being composed of layers of oxygen ions stacked in the ABCABC sequence, with the $\mathrm{M}^{2+}$ and $\mathrm{Fe}^{3+}$ ions in the interstices. The moments of the magnetic ions are normal to the plane of the oxygen layers, in a direction of the form <111>.
 
-![](/content/images/page_204_image_7.jpg)
+![](images/page_204_image_7.jpg)
 
 Fig. 6.12 The barium ferrite structure.
 
@@ -3941,7 +3941,7 @@ In the barium ferrite unit cell, shown schematically in Fig. 6.12, there are 10 
 
 The only magnetic ions in barium ferrite are the $\mathrm{Fe}^{3+}$ ions, each with a moment of $5\mu_{\mathrm{B}}$ These are located in three crystallographically different kinds of sites: tetrahedral, octahedral, and hexahedral. The hexahedral site is surrounded by five equidistant oxygen ions, arranged at the corners of a bipyramid with a triangular base. One of these sites occurs in each barium-containing layer. The $\mathrm{Fe}^{3+}$ ions have their moments normal to the plane of the oxygen layers, and thus parallel or antiparallel to the +c axis of the hexagonal cell, which is the <0001> direction. Of the 24 $\mathrm{Fe}^{3+}$ ions per cell, four are in tetrahedral sites, 18 in octahedral, and two in hexahedral. By starting with the known spin directions of the $\mathrm{Fe}^{3+}$ ions in the cubic sections of the cell and by applying the known principles governing the superexchange interaction, one can proceed from ion to ion throughout the cell and predict the direction of its spin moment, that is, whether it is [0001] or $[000\bar{1}]$ In this way one arrives at a predicted value, per cell, of 16 ions with spins in one direction and eight with spins in the other. The predicted magnetic moment per cell is therefore (16 - 8)(5) = 40 $\mu_{\mathrm{B}}$ per cell or $20\mu_{\mathrm{B}}$ per molecule of $\mathrm{BaO}\cdot 6\mathrm{Fe}_{2}\mathrm{O}_{3}$ . This quantity corresponds to 100 emu /g or $\mathrm{Am}^2 /\mathrm{kg}$ , and agrees exactly with the measured value of the saturation magnetization at 0K. The variation of $\sigma_{s}$ with temperature is shown in Fig. 6.13. At 208C it has fallen to 72 emu/g or $\mathrm{Am}^2 /\mathrm{kg}$ $(M_{\mathrm{s}} = 380\mathrm{emu / cm}^{3})$ and the Curie temperature is $450^{\circ}\mathrm{C}$
 
-![](/content/images/page_205_chart_5.jpg)
+![](images/page_205_chart_5.jpg)
 
 Fig. 6.13 Temperature variation of saturation magnetization of barium ferrite.
 
@@ -4011,7 +4011,7 @@ The five kinds of magnetism can be divided into three broad categories:
 
 3. Curie –Weiss paramagnetism, ferromagnetism, antiferromagnetism, and ferrimagnetism, characterized by interacting atomic moments.
 
-![](/content/images/page_208_image_9.jpg)
+![](images/page_208_image_9.jpg)
 
 Fig. 6.14 Kinds of magnetism.
 
@@ -4063,17 +4063,17 @@ Suppose a single crystal with cubic structure is cut in the form of a disk paral
 
 For iron these measurements show that saturation can be achieved with quite low fields, of the order of a few tens of oersteds at most, in the <100> direction, which is accordingly called the “easy direction” of magnetization. This tells us something about domains in iron in the demagnetized state. As will become clear later, a domain wall separating two domains in a crystal can be moved by a small applied field. If we assume that domains in demagnetized iron are spontaneously magnetized to saturation in directions of the form <100>, then a possible domain structure for a demagnetized crystal disk cut parallel
 
-![](/content/images/page_211_image_11.jpg)
+![](images/page_211_image_11.jpg)
 
 Fig. 7.1 The three principal crystallographic directions in the $(1\bar{1}1)$ plane of a cubic material.
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>1</sup>Planes of a form are planes related by symmetry, such as the six faces of a cube: (100), (010), (001), $(\bar{1}00)$, $(0\bar{1}0)$, and $(00\bar{1})$. By convention, minus signs are placed above the index number. The indices of any one, enclosed in braces {100}, stand for the whole set. The indices of particular directions are enclosed in square brackets, such as the six cube-edge directions: [100], [010], [001], $[\bar{1}00]$, $[0\bar{1}0]$, and $[00\bar{1}]$. These are directions of a form, and the whole set is designated by the indices of any one, enclosed in angular brackets <100>.</span></small>
 
-![](/content/images/page_212_chart_2.jpg)
+![](images/page_212_chart_2.jpg)
 
 (a)
 
-![](/content/images/page_212_chart_4.jpg)
+![](images/page_212_chart_4.jpg)
 
 (b)
 
@@ -4081,7 +4081,7 @@ Fig. 7.2 Magnetization curves for single crystals of iron (a) and nickel (b).
 
 to (001) would be that shown in Fig. 7.3a. It has four kinds of domains, magnetized parallel to four of the six possible easy directions, namely, [010], [100], $[0\bar{1}0]$, and $[\bar{1}00]$. Actually, an iron crystal disk of diameter, say, 1 cm, would contain tens or hundreds of domains, rather than the four shown in Fig. 7.3. However, it would still be true that all these domains would be of only four kinds, namely those with $M_{\mathrm{s}}$ vectors in the [010], [100], $[0\bar{1}0]$, and $[\bar{1}00]$ directions. If a field H is now applied in the [010] direction, the [010] domain will grow in volume by the mechanism of domain-wall motion, as indicated in Fig. 7.3b. It does so because the magnetic potential energy of the crystal is thereby lowered; Equation 1.5 shows that the energy of a [010] domain in the field is $-M_{\mathrm{s}}H$ per unit volume, that of a $[0\bar{1}0]$ domain is $+M_{\mathrm{s}}H,$ and that of a [100] or $[\bar{1}00]$ domain is zero. Continued application of the field eliminates all but the favored domain, and the crystal is now saturated (Fig. 7.3c). This has been accomplished simply by applying the low field required for domain wall motion. Since experiment shows that only a low field is needed to saturate iron in a <100> direction, we conclude that our postulated domain structure is basically correct and, more generally, that the direction of easy magnetization of a crystal is the direction of spontaneous domain magnetization in the demagnetized state. In nickel, Fig. 7.2b shows that the direction of easy magnetization is of the form <111>, the body diagonal of the unit cell. The direction <111> is also the direction of easy magnetization in all the cubic ferrites, except cobalt ferrite or mixed ferrites containing a large amount of cobalt. The latter have <100> as an easy direction.
 
-![](/content/images/page_213_image_2.jpg)
+![](images/page_213_image_2.jpg)
 
 Fig. 7.3 Domain structures in a single-crystal disk of iron (schematic). The field H is applied in the [010] direction.
 
@@ -4089,19 +4089,19 @@ Note that, on the scale of a few domains, as in Fig. 7.3b, a partially magnetize
 
 Figure 7.2a shows that fairly high fields, of the order of several hundred oersteds or tens of kiloamps per meter, are needed to saturate iron in a <110> direction. For this orientation of the field, the domain structure changes as in Fig. 7.4. Domain wall motion, in a low field, occurs until there are only two domains left (Fig. 7.4c), each with the same potential energy. The only way in which the magnetization can increase further is by rotation of the M<sub>s</sub> vector of each domain until it is parallel with the applied field. This process is called domain rotation. The domain itself, which is a group of atoms, does not rotate. It is the net magnetic moment of each atom which rotates. Domain rotation occurs only in fairly high fields, because the field is then acting against the force of crystal anisotropy, which is usually fairly strong. Crystal anisotropy may therefore be regarded as a force which tends to hold the magnetization in certain equivalent crystallographic directions in a crystal. When the rotation process is complete (Fig. 7.4d), the domain wall in Fig. 7.4c disappears, and the crystal is saturated.
 
-![](/content/images/page_214_image_2.jpg)
+![](images/page_214_image_2.jpg)
 
 (a) M = 0
 
-![](/content/images/page_214_image_4.jpg)
+![](images/page_214_image_4.jpg)
 
 (b) M > 0
 
-![](/content/images/page_214_image_6.jpg)
+![](images/page_214_image_6.jpg)
 
 (c) M = Ms cos 45°
 
-![](/content/images/page_214_image_8.jpg)
+![](images/page_214_image_8.jpg)
 
 (d) M = Ms
 
@@ -4142,7 +4142,7 @@ An alternative notation for anisotropy constants [see Robert C. O’Handley, Mod
 
 Magnetization curves of cobalt, which has a hexagonal close-packed structure at room temperature, are shown in Fig. 7.5. The hexagonal c axis is the direction of easy magnetization, and, within the accuracy of the measurements, all directions in the basal plane are found to be equally hard. Under these circumstances the anisotropy energy E depends on only a single angle, the angle $\theta$ between the $M_{s}$ vector and the c axis, and the anisotropy can be described as uniaxial. Therefore,
 
-![](/content/images/page_215_chart_9.jpg)
+![](images/page_215_chart_9.jpg)
 
 Fig. 7.5 Magnetization curves for a single crystal of cobalt.
 
@@ -4164,11 +4164,11 @@ If $K_{1}$ and $K_{2}$ have opposite signs, the situation can be more complicate
 
 If $K_{1}$ is negative and $K_{2}$ is positive, the limit of easy plane behavior is $K_{2} < -\frac{1}{2} K_{1}$ . In the range $K_{2} = -\frac{1}{2} K_{1}$ to $K_{2} = \infty$ (with $K_{1}$ negative), the minimum value of E is at an angle between 0 and 908, so there is an easy cone of magnetization. The value of u, which is the half-angle of the cone, drops sharply from $90^{\circ}$ to near $0^{\circ}$ as $K_{2}$ increases relative to $|K_{1}|$ , as indicated in Fig. 7.7. The value of $\theta$ is given by $\theta = \arcsin (\sqrt{(|K_1| / 2K_2)})$ . The easy cone configuration is unusual, but not unknown.
 
-![](/content/images/page_216_image_10.jpg)
+![](images/page_216_image_10.jpg)
 
 Fig. 7.6 Domain structure of a uniaxial crystal.
 
-![](/content/images/page_217_image_2.jpg)
+![](images/page_217_image_2.jpg)
 
 Fig. 7.7 Easy directions and planes in hexagonal crystals for all possible values of $K_{1}$ and $K_{2}$
 
@@ -4180,7 +4180,7 @@ The orbit-lattice coupling is also strong. This follows from the fact that orbit
 
 There is also a coupling between the spin and the orbital motion of each electron. When an external field tries to reorient the spin of an electron, the orbit of that electron also tends to be reoriented. But the orbit is strongly coupled to the lattice and therefore resists the attempt to rotate the spin axis. The energy required to rotate the spin system of a domain away from the easy direction, which we call the anisotropy energy, is just the energy required to overcome the spin–orbit coupling. This coupling is relatively weak, because fields of a few hundred oersteds or a few tens of kilamps per meter are usually strong enough to rotate the spins. Inasmuch as the “lattice” consists of a number of atomic nuclei arranged in space, each with its surrounding cloud of orbital electrons, we can also speak of a spin–lattice coupling and conclude that it too is weak. These several relationships are summarized in Fig. 7.8.
 
-![](/content/images/page_218_image_2.jpg)
+![](images/page_218_image_2.jpg)
 
 Fig. 7.8 Spin – lattice – orbit interactions.
 
@@ -4226,13 +4226,13 @@ $$
 
 The torque L is in dyne-cm/cm³ if E is in $\mathrm{erg/cm^{3}}$ , or in N $\mathrm{m/m^{3}}$ if E is in $\mathrm{J/m^{3}}$ Figure 7.10 shows how E and L vary with angle. For positive $K_{1}$ , the 0 and $180^{\circ}$ positions are energy minima, and $\theta = 90^{\circ}$ , which is a direction of difficult magnetization, is a position of instability. The slope of the torque curve at $L = 0$ is negative for the positions of stability $(\theta = 0$ and $180^{\circ}$) and positive for the unstable position $(\theta = 90^{\circ})$ . At a stable position, a clockwise (positive) rotation of the sample produces a negative (counterclockwise) torque, and vice versa. At an unstable position, a clockwise rotation of the sample produces a positive (clockwise) torque. The value of $K_{1}$ can found simply from the maximum amplitude of the torque curve $(= \pm K_{1})$ , or from the values of the slope at the zero crossings $(= \pm 2K_{1})$ , or by fitting the entire curve to Equation 7.6 with the value of $K_{1}$ as a fitting parameter.
 
-![](/content/images/page_219_image_11.jpg)
+![](images/page_219_image_11.jpg)
 
 Fig. 7.9 Uniaxial disk sample in a saturating magnetic field produced by an electromagnet. $c =$ easy axis.
 
-![](/content/images/page_220_chart_2.jpg)
+![](images/page_220_chart_2.jpg)
 
-![](/content/images/page_220_image_3.jpg)
+![](images/page_220_image_3.jpg)
 
 Fig. 7.10 Variation with $\theta$ of the anisotropy energy E and the torque $L(= -dE / d\theta)$ for a uniaxial crystal. $\theta$ is the angle between $M_{s}$ and the easy axis.
 
@@ -4244,17 +4244,17 @@ $$
 
 So if we measure L, and we know $M_{\mathrm{s}}$ and H, we can find sin f and therefore φ from sin $\phi =$ $(L_{\mathrm{meas}} / M_{\mathrm{s}}H)$ . And knowing $\phi,$ we can correct the measured value of ψ for each measured
 
-![](/content/images/page_221_image_2.jpg)
+![](images/page_221_image_2.jpg)
 
 Fig. 7.11 As Fig. 7.9, for the case where $M_{s}$ is not aligned with the field H.
 
 L to a value of $\theta$. Figure 7.12 shows a plot of torque L vs c, for uniaxial anisotropy with $M_{\mathrm{s}}H = 2K_{1}$ (dashed line). The corrected curve (solid line) corresponds to $M_{\mathrm{s}}H \gg K_{1}$ . The correction does not affect the maximum torque, but it clearly does affect the slopes at zero torque, and the general shape of the curve.
 
-![](/content/images/page_221_chart_5.jpg)
+![](images/page_221_chart_5.jpg)
 
 Fig. 7.12 Variation of torque with angle c between easy axis c and field H for a uniaxial crystal. The dashed curve is for $H = 2K_{1} / M_{\mathrm{s}};$ solid curve for $H \gg 2K_{1} / M_{s}$
 
-![](/content/images/page_222_image_0.jpg)
+![](images/page_222_image_0.jpg)
 
 Note that the demagnetizing field does not directly influence the torque curve, because the demagnetizing field is always directed opposite to the magnetization, and therefore exerts no torque on the magnetization or on the sample. However, the demagnetizing field is present, and the proper value of H to use in the preceding equations is the true or corrected field.
 
@@ -4272,7 +4272,7 @@ $$
 E = K _ {0} + \frac {K _ {1}}{4} \sin^ {2} 2 \theta .\tag{7.9}
 $$
 
-![](/content/images/page_222_chart_9.jpg)
+![](images/page_222_chart_9.jpg)
 
 Fig. 7.13 Variation of torque L with angle $\theta$ in the {001} plane of a cubic crystal for $K_{1} > 0$
 
@@ -4298,13 +4298,13 @@ $$
 
 This form of the equation shows immediately the various components of the torque: the term in sin $2\theta$ is the uniaxial component (like Equation 7.6), the term in sin 4u is the biaxial component (like Equation 7.14), etc. Figure 7.15 shows the torque curve obtained on a {110} disk cut from a crystal of 3.85% silicon iron (iron containing 3.85 wt% silicon in solid solution). The points are experimental, and the curve is a plot of Equation 7.12 with values of the constants chosen to give the best fit. There are many published experiments on single crystals of iron with 3 – 4 wt% silicon. This is because these alloys are much easier to prepare in single-crystal form than pure iron, for reasons given in Section 13.4, while they remain like iron in having <100> easy directions. Similar Fe–Si alloys are widely used in the magnetic cores of electrical machines.
 
-![](/content/images/page_223_image_10.jpg)
+![](images/page_223_image_10.jpg)
 
 Fig. 7.14 Polar plot of crystal anisotropy E as a function of direction in the (001) plane of a cubic crystal. $K_{1}$ is positive and taken as $5K_{0}$
 
-![](/content/images/page_224_chart_2.jpg)
+![](images/page_224_chart_2.jpg)
 
-![](/content/images/page_224_image_3.jpg)
+![](images/page_224_image_3.jpg)
 
 Fig. 7.15 Measured torque of a f011g disk of an Fe + 3.85 wt% Si alloy. The fitted curve is drawn for $K_{1}=2.87\times10^{5}\mathrm{erg/cm^{3}}$ and $K_{2}=1\times10^{5}\mathrm{erg/cm^{3}}$ . [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
@@ -4340,7 +4340,7 @@ The instrument for making torque measurements is called a torque magnetometer. D
 
 Early designs made use of a torsion fiber, or a spiral clock spring, to measure the torque, as suggested by Fig. 7.16. In this case, the deflections (the twist in the torsion fiber) are large enough to be read by eye, but there is no simple way to record the data automatically. A further difficulty is that over substantial portions of the torque curve, centered around the unstable hard axes, there may be no stable angular position of the sample. The condition for stability is that the net torque on the sample (the sum of the anisotropy torque and the torsion fiber torque) is zero and has negative slope. As noted above, negative slope means that a positive (clockwise) rotation of the sample produces a negative (counterclockwise) torque, and vice versa. Therefore the condition for stability is that the stiffness of the torsion fiber, given by the (negative) slope of the torque vs angle curve, must be greater than the positive slope of the torque curve in the hardest direction. In making this comparison, the absolute value of the torque must be used; that is, the torque per unit volume times the volume of the sample.
 
-![](/content/images/page_226_image_2.jpg)
+![](images/page_226_image_2.jpg)
 
 Fig. 7.16 Basic mechanical torque magnetometer (schematic).
 
@@ -4354,7 +4354,7 @@ For automatic recording of torque curves, two basic possibilities exist.
 
 2. Active Sensing. The sample can be hung from a very sensitive torsion fiber, and fitted with a feedback mechanism to supply the balancing torque. Figure 7.17 shows a common arrangement. The top of the sample rod carries a coil of fine wire, which is placed in the field of a small permanent magnet. This is exactly the configuration of a D’Arsonval analog meter; if the coil carries a current, it experiences a torque proportional to the current. A sensing circuit, usually based on a light beam, mirror, and photocell or photodiode as in the figure, provides a feedback signal that drives a current through the coil to balance the anisotropy torque. If the system response is fast enough (which is not difficult), the sample can be held at any angle to the field. The value of the current through the coil is proportional to the torque on the sample. This design can be made very sensitive for the measurement of small anisotropies in small samples. Generally some low-friction method of keeping the sample centered in the air gap of the magnet is required; for example, a jewel bearing, an airbearing, or a second torsion fiber.
 
-![](/content/images/page_227_image_5.jpg)
+![](images/page_227_image_5.jpg)
 
 Fig. 7.17 Automatic recording torque magnetometer.
 
@@ -4452,7 +4452,7 @@ This is not a very common method. However, it is instructive to see how magnetiz
 
 The simplest case is that of a crystal magnetized in one of its easy directions, e.g. an iron crystal magnetized in one of the <100> directions, as illustrated in Fig. 7.3, or a uniaxial crystal (Fig. 7.6), magnetized parallel to its easy axis. Here the whole process, from the demagnetized state to saturation, occurs by wall motion only, at an (assumed) negligibly small field. The magnetization curve, shown in Fig. 7.18, is simply a vertical line, and the hysteresis loop encloses zero area.
 
-![](/content/images/page_231_image_11.jpg)
+![](images/page_231_image_11.jpg)
 
 Fig. 7.18 Idealized hysteresis loop of a crystal measured parallel to an easy axis.
 
@@ -4488,9 +4488,9 @@ $$
 
 [010]
 
-![](/content/images/page_232_image_13.jpg)
+![](images/page_232_image_13.jpg)
 
-![](/content/images/page_232_image_14.jpg)
+![](images/page_232_image_14.jpg)
 
 Fig. 7.19 Magnetization of an iron crystal in a [011] direction.
 
@@ -4522,7 +4522,7 @@ $$
 
 For a crystal like iron, this is less than the field required for saturation in the [110] direction, in agreement with the experimental results shown in Fig. 7.2a.
 
-![](/content/images/page_233_image_12.jpg)
+![](images/page_233_image_12.jpg)
 
 Fig. 7.20 Magnetization of an iron crystal in a [111] direction.
 
@@ -4580,7 +4580,7 @@ For iron, nickel, and cobalt crystals the general features of the experimental m
 
 Up to this point we have examined the magnetization curve of a single crystal only when the field is applied parallel to an axis of symmetry in the crystal. If the field is in some arbitrary direction, the magnetization process becomes more complicated. The demagnetizing field $H_{\mathrm{d}}$ must then be considered and a distinction made between the applied field $H_{\mathrm{a}}$ and the true field H, equal to the vector sum of $H_{\mathrm{a}}$ and $H_{\mathrm{d}},$ inside the specimen. H and M are no longer always parallel, and neither is necessarily parallel to $H_{a}$ For the case of an iron crystal, see H. Lawton and K. H. Stewart [Proc. R. Soc., 193 (1948) p. 72], and for a cobalt crystal see Y. Barnier, R. Pauthenet, and G. Rimet [Cobalt, 15 (1962) p. 1] or [J. Phys. Soc. Japan, 17 (suppl. B1) (1962) p. 309].
 
-![](/content/images/page_235_chart_2.jpg)
+![](images/page_235_chart_2.jpg)
 
 Fig. 7.21 Calculated magnetization curves for cobalt single crystal with field perpendicular to the easy axis.
 
@@ -4588,7 +4588,7 @@ Fig. 7.21 Calculated magnetization curves for cobalt single crystal with field p
 
 This method of determining anisotropy constants from magnetization curves is based directly on the definition of the anisotropy energy E, namely, the energy stored in a crystal when it is magnetized to saturation in a noneasy direction. If we can determine W, the work done on the crystal to bring it to saturation, we can equate E and W and so determine the anisotropy constants.
 
-![](/content/images/page_235_chart_7.jpg)
+![](images/page_235_chart_7.jpg)
 
 Fig. 7.22 Calculated and measured magnetization curves for Fe–Si crystals. [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
@@ -4636,7 +4636,7 @@ $$
 W = \int_ {0} ^ {B} H d B \frac {\mathrm{J}}{\mathrm{m} ^ {3}}
 $$
 
-![](/content/images/page_237_image_2.jpg)
+![](images/page_237_image_2.jpg)
 
 Fig. 7.23 Work done in magnetization.
 
@@ -4766,17 +4766,17 @@ TABLE 7.4 Anisotropy Constants
 | YCo<sub>5</sub> | 550 |
 | MnBi | 89 27 |
 
-![](/content/images/page_241_chart_2.jpg)
+![](images/page_241_chart_2.jpg)
 
 (a)
 
-![](/content/images/page_241_chart_4.jpg)
+![](images/page_241_chart_4.jpg)
 
 (b)
 
 Fig. 7.24 Temperature dependence of anisotropy constants. (a) Iron [K. Honda, H. Masumoto, and S. Kaya, Sci. Rep. Tohoku Univ., 17 (1928) p. 111]. (b) Nickel [G. Aubert, J. Appl. Phys., 39 (1968) p. 504].
 
-![](/content/images/page_242_chart_2.jpg)
+![](images/page_242_chart_2.jpg)
 
 Fig. 7.25 Temperature dependence of anisotropy constants of cobalt [Y. Barnier, R. Pauthenet, and G. Rimet, Cobalt, 15 (1962) p. 1].
 
@@ -4818,7 +4818,7 @@ While it is thus possible to predict the torque curve of a polycrystalline disk 
 
 The only sure way of determining the kind and degree of preferred orientation is by X-ray diffraction or some other direct crystallographic technique. On the other hand, even though torque curves are ambiguous, in that more than one kind of texture corresponds to a given curve, torque curves may nevertheless be very useful in any work aimed at the development of magnetically useful textures. A torque curve requires much less time than an X-ray texture determination, and it does indicate the magnetically easy direction in the sheet. When torque and X-ray measurements are carried out together, the effect of processing variables on texture, and thus on magnetic properties, can be evaluated more quickly than with either technique alone.
 
-![](/content/images/page_244_chart_6.jpg)
+![](images/page_244_chart_6.jpg)
 
 Fig. 7.26 Effect of mixed textures on torque curves.
 
@@ -4830,17 +4830,17 @@ We digress now from the main subject of strongly magnetic substances to consider
 
 2. Spin Flopping. When a substance of mass susceptibility $\chi_{\mathrm{m}}$ and density ρ is magnetized by a field H, its magnetization M is xrH and its potential energy in the field is $(-\chi\rho H^{2})$ , from Equation 1.5. In an antiferromagnetic below the Néel temperature, $\chi_{\perp}$ is greater than $\chi_{\parallel}$ , which means that the state with spins at right angles to H is of lower energy than that in which spins are parallel and antiparallel to H. Thus when H is parallel to the spin directions and the D-axis, as in Fig. 7.27a, there is a tendency for the spin directions to rotate into orientation (b). Counteracting this is the binding of the spin directions to the D-axis by the crystal anisotropy forces. As the field increases, a critical value will be reached when these forces are overcome;
 
-![](/content/images/page_245_image_7.jpg)
+![](images/page_245_image_7.jpg)
 
 Fig. 7.27 Spin flopping and metamagnetism.
 
 the spins then “flop over” from orientation (a) to (b), causing a sudden increase in magnetization; further increase in field then rotates the spins slightly from the perpendicular orientation, and M increases with H at a rate governed by the value of $\chi_{\perp}$ Figure 7.28a shows an example of this behavior in single crystals of $\mathrm{MnF_{2}}$ at
 
-![](/content/images/page_246_chart_3.jpg)
+![](images/page_246_chart_3.jpg)
 
 (a)
 
-![](/content/images/page_246_chart_5.jpg)
+![](images/page_246_chart_5.jpg)
 
 (b)
 
@@ -4856,7 +4856,7 @@ Consider a polycrystalline specimen having no preferred orientation of its grain
 
 In order to treat shape anisotropy quantitatively, we need an expression for the magnetostatic energy $E_{\mathrm{ms}}$ of a permanently magnetized body in zero applied field. If a body is magnetized by an applied field to some level A (Fig. 7.29) and the applied field is then removed, the magnetization will decrease to C under the action of the demagnetizing field $H_{\mathrm{d}}$ Here O C is the demagnetizing-field line, with a slope of $-1 / N_{\mathrm{d}}$ , where $N_{d}$ is the demagnetizing coefficient. The specimen then contains stored energy $E_{ms}$ equal to the area of the shaded triangle OCD, according to Equation 7.40. This energy is that associated with the demagnetizing field of the specimen, and is variously called the magnetostatic energy, the self-energy, or the energy of a magnet in its own field. From Equation 7.43, this energy is
 
-![](/content/images/page_247_image_7.jpg)
+![](images/page_247_image_7.jpg)
 
 Fig. 7.29 Magnetostatic energy of a magnetized body in zero applied field.
 
@@ -4894,7 +4894,7 @@ The reasoning leading to Equation 7.59 is more physically meaningful when one re
 
 To return to shape anisotropy, we now consider a specimen in the shape of a prolate spheroid (rod) with semi-major axis c and semi-minor axes a of equal length (Fig. 7.30). Let it be magnetized to a value M at an angle $\theta$ to c. Then, taking components of M parallel and perpendicular to c, we have
 
-![](/content/images/page_249_image_2.jpg)
+![](images/page_249_image_2.jpg)
 
 Fig. 7.30 Prolate ellipsoid.
 
@@ -4926,7 +4926,7 @@ Magnetization of a planetary or oblate spheroid (disk) is difficult along the sh
 
 As Equation 7.62 shows, the “strength” of shape anisotropy depends both on the axial ratio c/a of the specimen, which determines $(N_{\mathrm{a}} - N_{\mathrm{c}})$ , and on the magnitude of the magnetization M. To illustrate the sort of numbers involved, we put $M = 1422\mathrm{emu / cm}^3$ or $1.422 \times 10^{6} \mathrm{~A} \mathrm{~m}^{2} / \mathrm{m}^{3}$ , which is the room-temperature saturation magnetization of uniaxial cobalt, and calculate the value of the shape-anisotropy constant $K_{s}$ as a function of c/a for a prolate spheroid of polycrystalline cobalt with no preferred orientation. E. C. Stoner and E. P. Wohlfarth in [Phil. Trans. R. Soc, A-240 (1948) p. 599] give values of $(N_{a} - N_{c})$ as a function of c/a for both prolate and oblate spheroids. Figure 7.31 shows the results. At an axial ratio of about 3.5, $K_{s}$ is about $45\times10^{5}\mathrm{erg/cm^{3}}$ or $4.5 \times 10^{6} \mathrm{~J} / \mathrm{m}^{3}$ , which is equal to the value of the first crystal-anisotropy constant $K_{1}$ of cobalt. In other words, neglecting $K_{2}$ we can say that a prolate spheroid of saturated cobalt, with axial ratio 3.5 and without any crystal anisotropy, would show the same uniaxial anisotropy as a spherical cobalt crystal with its normal crystal anisotropy.
 
-![](/content/images/page_250_chart_2.jpg)
+![](images/page_250_chart_2.jpg)
 
 Fig. 7.31 Shape anisotropy constant vs axial ratio of a prolate spheroid. Numerical values calculated for cobalt $(M_{\mathrm{s}} = 1422 \mathrm{emu} \mathrm{cm}^{3})$
 
@@ -4942,7 +4942,7 @@ $$
 \begin{array}{l} E _ {\mathrm{A}} = K _ {\mathrm{A}} \sin^ {2} \theta , \\ E _ {\mathrm{B}} = K _ {\mathrm{B}} \sin^ {2} (9 0 ^ {\circ} - \theta). \end{array}
 $$
 
-![](/content/images/page_251_image_2.jpg)
+![](images/page_251_image_2.jpg)
 
 Fig. 7.32 Mixed anisotropy.
 
@@ -5022,7 +5022,7 @@ When technical saturation is reached at any given temperature, in the sense that
 
 The longitudinal, forced-magnetostriction strain l shown in Fig. 8.1 is a consequence of a small volume change, of the order of $\Delta V / V = 10^{-10}$ per oersted, occurring at fields beyond saturation and called volume magnetostriction. It causes an equal expansion or contraction in all directions. Forced magnetostriction is a very small effect and has no bearing on the behavior of practical magnetic materials in ordinary fields.
 
-![](/content/images/page_254_chart_9.jpg)
+![](images/page_254_chart_9.jpg)
 
 Fig. 8.1 Dependence of magnetostriction on magnetic field (schematic). Note that the field scale is logarithmic.
 
@@ -5038,7 +5038,7 @@ Thin film samples present special challenges in the measurement of magnetostrict
 
 When an iron single crystal is magnetized to saturation in a [100] direction, the length of the crystal in the [100] direction is found to increase. From this we infer that the unit cell of ferromagnetic iron is not exactly cubic, but slightly tetragonal. (A tetragonal cell has three axes at right angles; two are equal to each other, and the third is longer or shorter than the other two.) This conclusion follows from what we already know about the changes occurring in an iron crystal during magnetization in a [100] direction. These changes consist entirely of domain wall motion and were described with reference to Fig. 7.3. If the saturated crystal is longer in the direction of its magnetization than the demagnetized crystal, then the single domain which comprises the saturated crystal must be made up of unit cells which are slightly elongated in the direction of the magnetization vector.
 
-![](/content/images/page_256_image_2.jpg)
+![](images/page_256_image_2.jpg)
 
 Fig. 8.2 Magnetostriction of an iron crystal in the [100] direction.
 
@@ -5112,11 +5112,11 @@ $$
 \begin{array}{r l} \frac {\Delta l}{l} & = \lambda_ {\mathrm{si}} (\delta = \delta) - \lambda_ {\mathrm{si}} (\delta = 0) \\ & = \frac {3}{2} \lambda_ {1 0 0} (\cos^ {2} \delta - \frac {1}{3}) - \lambda_ {1 0 0} \\ & = - \frac {3}{2} \lambda_ {1 0 0} \sin^ {2} \delta . \end{array}\tag{8.9}
 $$
 
-![](/content/images/page_259_chart_9.jpg)
+![](images/page_259_chart_9.jpg)
 
 (a)
 
-![](/content/images/page_259_chart_11.jpg)
+![](images/page_259_chart_11.jpg)
 
 (b)
 
@@ -5128,11 +5128,11 @@ These results show that magnetostriction constants can be determined, without an
 
 Figure 8.5 shows experimental curves for magnetostriction in various directions in an iron crystal. The behavior is complex. When the field is parallel to [100], the strain in that direction is a simple expansion, as noted earlier. When the field is parallel to [111], $180^{\circ}$ wall motion occurs until the crystal contains only three sets of domains—[100], [010], and [001]—with $M_{\mathrm{s}}$ in each set equally inclined at $55^{\circ}$ to the field; during this process the dimensions of the crystal do not change. Further increase of field causes $M_{\mathrm{s}}$ vectors to rotate toward [111], and this rotation causes a contraction along [111].
 
-![](/content/images/page_260_image_5.jpg)
+![](images/page_260_image_5.jpg)
 
 Fig. 8.4 Magnetostriction measurement on a single crystal using a strain gage.
 
-![](/content/images/page_261_chart_2.jpg)
+![](images/page_261_chart_2.jpg)
 
 Fig. 8.5 Magnetostriction as a function of magnetization in single crystal iron rods. Each rod had a different crystallographic axis. [ W. L. Webster, Proc. R. Soc., A109 (1925) p. 570.]
 
@@ -5142,7 +5142,7 @@ A nickel crystal contracts in all three principal directions when magnetized, as
 
 Note that, in Fig. 8.5, magnetostriction is plotted against magnetization, while in Fig. 8.6 magnetostriction is plotted against magnetic field H. These qualitative descriptions of the variation of l with H (or M ) below saturation can be made quantitative without much difficulty, although certain rather arbitrary assumptions have to be made about the sequence of $180^{\circ}$ and $90^{\circ}$ wall motion.
 
-![](/content/images/page_262_chart_2.jpg)
+![](images/page_262_chart_2.jpg)
 
 Fig. 8.6 Magnetostriction as a function of field and crystal direction for nickel single crystal. Samples were planetary (oblate) spheroids. Solid lines, {011} disk; dashed lines, [001] disk. [Y. Masiyama, Sci. Rep. Tohoku Univ., 17 (1928) p. 947.]
 
@@ -5156,7 +5156,7 @@ where $\lambda_{\theta}$ is the saturation magnetostriction at an angle $\theta$
 
 Table 8.1 lists $\lambda_{\mathrm{si}}$ values for some cubic metals and ferrites. (The variation with composition of $\lambda_{\mathrm{si}}$ for alloys will be described later.) In general, the magnetostriction of the ferrites is of about the same order of magnitude as that of the metals, with the notable exception of cobalt ferrite. Here the spontaneous distortion of the crystal unit cell, from cubic to tetragonal, is so large that it can be detected by X-ray diffraction. This ferrite also has an unusually large value of crystal anisotropy (Table 7.4).
 
-![](/content/images/page_263_image_2.jpg)
+![](images/page_263_image_2.jpg)
 
 Fig. 8.7 Isotropic magnetostriction.
 
@@ -5186,7 +5186,7 @@ TABLE 8.1 Magnetostriction Constants of Cubic Substances (Units of $10^{-6}$
 
 <sup>a</sup>Experimental values for polycrystalline specimens.
 
-![](/content/images/page_264_image_2.jpg)
+![](images/page_264_image_2.jpg)
 
 Fig. 8.8 Hexagonal and orthogonal axes in a hexagonal crystal.
 
@@ -5210,23 +5210,23 @@ General Magnetostriction constants usually decrease in absolute magnitude as the
 
 Before leaving the topic of single crystals it is important to realize that any demagnetized crystal that contains $90^{\circ}$ walls is never completely stress free at room temperature. The various domains simply do not fit together exactly. Figure 8.11a depicts a single crystal of iron, for example, at a temperature above the Curie point; the dashed lines indicate where domain walls will form below $T_{\mathrm{c}}$ As the crystal cools below $T_{c}$ , it spontaneously
 
-![](/content/images/page_265_chart_2.jpg)
+![](images/page_265_chart_2.jpg)
 
 Fig. 8.9 Magnetostriction of a cobalt single crystal as a function of field. The strain l is measured parallel to the field H, and $\theta$ is the angle between them and the hexagonal axis. [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
-![](/content/images/page_265_chart_4.jpg)
+![](images/page_265_chart_4.jpg)
 
 Fig. 8.10 Temperature dependence of magnetostriction constants of iron. [T. Okamoto and E. Tatsumoto, J. Phys. Soc. Japan, 14 (1959) p. 1588.]
 
-![](/content/images/page_265_image_6.jpg)
+![](images/page_265_image_6.jpg)
 
 (a)
 
-![](/content/images/page_265_image_8.jpg)
+![](images/page_265_image_8.jpg)
 
 (b)
 
-![](/content/images/page_265_image_10.jpg)
+![](images/page_265_image_10.jpg)
 
 (c)
 
@@ -5252,7 +5252,7 @@ $$
 \overline {{\lambda_ {\mathrm{si}}}} = \frac {1}{2 \pi} \int_ {\theta = 0} ^ {\pi / 2} \int_ {\phi = 0} ^ {\pi / 2} \lambda_ {\mathrm{si}} \sin \phi \mathrm{d} \phi \mathrm{d} \theta .\tag{8.13}
 $$
 
-![](/content/images/page_266_image_10.jpg)
+![](images/page_266_image_10.jpg)
 
 Fig. 8.12 Definitions of angles $\theta$ and φ.
 
@@ -5284,17 +5284,17 @@ where $\lambda_{\mathrm{p}}$ has been substituted for $\lambda_{\mathrm{si}}$ . 
 
 Figure 8.13 shows typical l, H curves for polycrystalline iron, cobalt and nickel. The shapes of such curves, as reported by different investigators, can vary widely, usually because of differences in preferred orientation. Unfortunately, however, the measurement of magnetostriction is hardly ever accompanied by a determination of the kind and degree of preferred orientation.
 
-![](/content/images/page_268_chart_2.jpg)
+![](images/page_268_chart_2.jpg)
 
 Fig. 8.13 Magnetostriction of polycrystalline iron, cobalt, and nickel. [E. W. Lee, Rep. Progr. Phys. 18 (1955) p. 184.]
 
 Magnetostriction is usually measured, and the results presented, as strain vs field. Since magnetostriction results directly from changes in magnetization, it would be more appropriate from a fundamental viewpoint to plot magnetostrictive strain vs magnetization, although this makes the experimental work more complicated. Figure 8.14 shows plots of strain vs field and strain vs magnetization, for a sample of $\mathrm{FeCo} + 2\% \mathrm{V}$ at room temperature. The sample has been heat treated so that its coercive field is very small.
 
-![](/content/images/page_268_chart_5.jpg)
+![](images/page_268_chart_5.jpg)
 
 (a)
 
-![](/content/images/page_268_chart_7.jpg)
+![](images/page_268_chart_7.jpg)
 
 (b)
 
@@ -5308,7 +5308,7 @@ The relation between magnetostriction and spin-orbit coupling can be crudely pic
 
 The strains pictured are enormous, of the order of 0.3. Actually, we know that the magnetostrictive strain produced in a domain or a crystal, when its direction of magnetization is changed, is usually very small, of the order of $10^{-5}$ . This means that the reorientation of electron clouds takes place only to a very small extent. This conclusion is in turn supported by the fact that orbital magnetic moments are almost entirely quenched, i.e., not susceptible to rotation by an applied field, in most materials, as shown by measurements of the g or $g'$ factors (Section 3.7 and Table 4.1).
 
-![](/content/images/page_269_image_7.jpg)
+![](images/page_269_image_7.jpg)
 
 Fig. 8.15 Mechanism of magnetostriction (schematic).
 
@@ -5328,7 +5328,7 @@ Because it is difficult to calculate $(\Delta l / l)_{\mathrm{f}}$ with accuracy
 
 Although the magnetostrictive strain is small in most magnetic materials, the existence of magnetostriction means that an applied mechanical stress can alter the domain structure and create a new source of magnetic anisotropy. These effects can have a substantial effect on the low-field magnetic properties, such as permeability and remanence. Figure 8.16 shows the marked effects of applied stress on the magnetization behavior of polycrystalline nickel. At a field H of 10 Oe (800 A/m), a compressive stress of 10,000 lb /in² (70 MPa) almost doubles the permeability μ, while the same amount of tensile stress reduces μ to about onetenth of the zero-stress value and makes the M, H curve practically linear. Nickel is not unique in this respect. Materials are known in which the low-field permeability is changed by a factor of 100 by an applied stress of the order of 10,000 lb/in<sup>2</sup>.
 
-![](/content/images/page_271_chart_2.jpg)
+![](images/page_271_chart_2.jpg)
 
 Fig. 8.16 Effect of applied tensile (+) and compressive (-) stress on the magnetization curve of polycrystalline nickel; 10,000 lb /in²  69 MPa. [D. K. Bagchi, unpublished.]
 
@@ -5338,15 +5338,15 @@ The magnetostriction of polycrystalline iron is positive at low fields, then zer
 
 The experimental results of Figs 8.15 –8.18 show that there is a close connection between the magnetostriction l of a material and its magnetic behavior under stress. As a result, the effect of stress on magnetization is sometimes called the inverse magnetostrictive effect, but more commonly is referred to simply as a magnetomechanical effect. It is entirely distinct from the magnetomechanical factor of Section 3.7. These results could have been anticipated by a general argument based on Le Chatelier’s principle. If, for example, a material has positive l, it will elongate when magnetized; applied tensile stress, which tends to elongate it, will therefore increase the magnetization, and applied compressive stress will decrease it. These conclusions are valid whether or not a field is acting, as long as M is not zero. Thus, in Fig. 8.19, if a field $H_{1}$ produces a magnetization of A at zero stress, then application of a stress $+\sigma_{1}$ will raise the magnetization to B at constant field. The magnetization in the remanent state at zero stress is C, and the same stress $+\sigma_{1}$ will increase this to D. But a stress applied to a demagnetized specimen will not produce any magnetization, as shown by the intersection of the full-line and dashed curves at the origin. (The symbol s is used here and in the following paragraphs for applied mechanical stress, not, as previously, for magnetization per unit mass.)
 
-![](/content/images/page_272_chart_2.jpg)
+![](images/page_272_chart_2.jpg)
 
 Fig. 8.17 Effect of applied tensile stress on the magnetization curve of 68 permalloy. [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
-![](/content/images/page_272_chart_5.jpg)
+![](images/page_272_chart_5.jpg)
 
 Fig. 8.18 Effects of applied tensile (+) and compressive (-) stress on the magnetization curve of iron; 8000 lb . $\cdot \mathrm{in}^2\approx 55\mathrm{MPa}$
 
-![](/content/images/page_273_image_2.jpg)
+![](images/page_273_image_2.jpg)
 
 Fig. 8.19 Effect of tension on the magnetization of a material with positive magnetostriction (schematic).
 
@@ -5390,7 +5390,7 @@ $$
 E _ {\mathrm{me}} = \frac {3}{2} \lambda_ {\mathrm{si}} \sigma \sin^ {2} \theta .\tag{8.22}
 $$
 
-![](/content/images/page_274_image_12.jpg)
+![](images/page_274_image_12.jpg)
 
 Fig. 8.20 Unit cube of material with isotropic magnetostriction.
 
@@ -5400,19 +5400,19 @@ We are now in a position to understand why it is so easy to magnetize a material
 
 (a)
 
-![](/content/images/page_275_image_5.jpg)
+![](images/page_275_image_5.jpg)
 
 (b)
 
-![](/content/images/page_275_image_7.jpg)
+![](images/page_275_image_7.jpg)
 
 (c)
 
-![](/content/images/page_275_image_9.jpg)
+![](images/page_275_image_9.jpg)
 
 (d)
 
-![](/content/images/page_275_image_11.jpg)
+![](images/page_275_image_11.jpg)
 
 Fig. 8.21 Magnetization of a material with positive magnetostriction under tensile stress (schematic).
 
@@ -5448,19 +5448,19 @@ TABLE 8.2 Summary of Some Uniaxial Anisotropies
 
 (a)
 
-![](/content/images/page_277_image_3.jpg)
+![](images/page_277_image_3.jpg)
 
 (b)
 
-![](/content/images/page_277_image_5.jpg)
+![](images/page_277_image_5.jpg)
 
 (c)
 
-![](/content/images/page_277_image_7.jpg)
+![](images/page_277_image_7.jpg)
 
 (d)
 
-![](/content/images/page_277_image_9.jpg)
+![](images/page_277_image_9.jpg)
 
 Fig. 8.22 Magnetization of a material with positive magnetostriction under compressive stress (schematic).
 
@@ -5484,7 +5484,7 @@ Stress not only alters the character of a magnetization curve, but it can produc
 
 This behavior can be understood in terms of the preferred domain orientation set up in the demagnetized state by the applied stress before the magnetostriction measurement is begun. Thus, for nickel under compression, $\lambda_{\mathrm{si}}\sigma$ is positive, and sufficient compression will produce the domain arrangement shown in Fig. 8.21c. This specimen can be brought to saturation entirely by $180^{\circ}$ wall motion, which produces no magnetostrictive change in length. Similarly, a high tensile stress will result in the domain arrangement of Fig. 8.22c; saturation now requires $90^{\circ}$ domain rotation over the total volume of the specimen; the result is a numerically larger magnetostriction than that observed when the structure of Fig. 8.22a is saturated, because, in Fig. 8.22a, domain rotation is required in only a part of the total volume.
 
-![](/content/images/page_278_chart_8.jpg)
+![](images/page_278_chart_8.jpg)
 
 Fig. 8.23 Saturation magnetization of nickel under tension and compression. [H. Kirchner, Ann. Phys., 27 (1936) p. 49.]
 
@@ -5514,7 +5514,7 @@ $$
 
 Equation 8.28 is very useful, because it permits a calculation of the saturation magnetostriction for any initial state, providing we know the distribution of domain vectors in that state. For example, the ideal demagnetized state of a polycrystal has domains randomly oriented in space, and the average value of $\cos^2\theta$ is then 1/3 . If this is substituted into Equation 8.28, $\lambda_{s}$ becomes equal to $\lambda_{\mathrm{si}}$ as it should. On the other hand, demagnetized nickel under high compressive stress has all domain vectors parallel to the specimen axis. The value of $\langle \cos^2\theta \rangle$ 1 is 1, and the observed $\lambda_{s}$ is zero, in accordance with Fig. 8.23. Under high tensile stress all vectors are at right angles to the axis, $\langle \cos^2\theta \rangle_1 = 0.$ and the observed $\lambda_{s}$ is 3/2 of the normal, stress-free value $(\lambda_{\mathrm{si}})$ , again in accordance with experiment.
 
-![](/content/images/page_279_image_12.jpg)
+![](images/page_279_image_12.jpg)
 
 Fig. 8.24 Partial magnetization.
 
@@ -5544,9 +5544,9 @@ When a material is subjected to an alternating magnetic field, the variation of 
 
 Conversely, if a partially magnetized body is mechanically vibrated, its magnetization will vary in magnitude about some mean value because of the inverse magnetostrictive effect, and this alternating magnetization will induce an alternating emf in a coil wound around the body.
 
-![](/content/images/page_281_chart_2.jpg)
+![](images/page_281_chart_2.jpg)
 
-![](/content/images/page_281_chart_3.jpg)
+![](images/page_281_chart_3.jpg)
 
 Fig. 8.25 Hysteresis in the magnetization and magnetostriction of nickel. [L. W. McKeehan, J. Franklin Inst., 202 (1926) p. 737.]
 
@@ -5590,7 +5590,7 @@ $$
 
 We have seen in Section 8.6 that $\varepsilon_{\mathrm{me}}$ depends on the magnitude of the applied stress and on the strength of whatever other anisotropy, such as crystal anisotropy, is present. Figure 8.26 shows three kinds of stress – strain curves, with the differences between them greatly exaggerated. One is for a saturated specimen, and the other two are for demagnetized specimens: (a) one with some strong other anisotropy; and (b) one with weak anisotropy. In (b) the maximum magnetoelastic strain is soon developed, and the curve rapidly becomes parallel to the curve for the saturated specimen. In (a) this occurs only at a higher stress, because of the stronger opposing anisotropy. We see therefore that the DE effect is actually rather complicated, in that E depends, not only on the degree of magnetization, but also on the stress (or strain) and the strength of the other anisotropy present. If DE is measured from a conventional stress – strain curve, the stress level will be reasonably high, and the measured $\Delta E / E$ will be small, typically a few percent. But if DE is measured from the resonant frequency of a small-amplitude vibration, the stress level will be very low, and the value of $\Delta E / E$ may be very large, up to several hundred percent.
 
-![](/content/images/page_283_image_2.jpg)
+![](images/page_283_image_2.jpg)
 
 Fig. 8.26 Elastic and magnetoelastic contributions to the stress – strain curve.
 
@@ -5654,11 +5654,11 @@ $$
 
 where $A = (nJS^{2} / a)$ is called the exchange stiffness or the exchange constant. Here n is the number of atoms per unit cell, and a is the lattice parameter. The exchange stiffness A has units of J/m or erg/cm, and may be regarded as a macroscopic equivalent of the exchange energy J. The quantity $d\phi/dx$ represents the rate at which the direction of local magnetization rotates with position in the wall. The series expansion of cos $\phi$ is
 
-![](/content/images/page_287_image_10.jpg)
+![](images/page_287_image_10.jpg)
 
 Fig. 9.1 Hypothetical $180^{\circ}$ domain wall of zero thickness.
 
-![](/content/images/page_288_image_2.jpg)
+![](images/page_288_image_2.jpg)
 
 Fig. 9.2 Structure of a $180^{\circ}$ domain wall.
 
@@ -5782,7 +5782,7 @@ $$
 \sigma_ {\mathrm{wall}} = \sigma_ {\mathrm{ex}} + \sigma_ {K} = \int_ {- \infty} ^ {\infty} \left[ A \left(\frac {d \phi}{d x}\right) ^ {2} + g (\phi) \right] d x.\tag{9.5}
 $$
 
-![](/content/images/page_291_chart_2.jpg)
+![](images/page_291_chart_2.jpg)
 
 Fig. 9.3 Variation of magnetization direction through a $180^{\circ}$ domain wall. Dashed line shows definition of wall width.
 
@@ -5818,7 +5818,7 @@ $$
 
 However, a complication arises when we attempt to calculate the domain wall thickness and energy of a $180^{\circ}$ wall in this case. There is an easy direction halfway through the wall, where $\phi = \pi /2$ , as indicated in Fig. 9.4. We might expect the $180^{\circ}$ wall to separate into two $90^{\circ}$ walls, with a new domain between them. This does not in fact occur, because of magnetostriction. If the original domains, separated by the $180^{\circ}$ wall, were magnetized along [100] and $[\bar{1}00]$ directions in a {001} plane, they would be elongated along the [100] easy axis. The new domain would be magnetized and elongated along a [010] direction. The misfit would create local elastic strains, which would increase the energy associated with the wall. The magnitude of the energy increase will depend primarily on the magnetostriction constants and the elastic constants of the material, and to some extent on the surrounding domain configuration. (B. A. Lilley Phil. Mag., 41 (1950) p. 792] has made this calculation under some simplifying assumptions, and has calculated domain wall energies and thicknesses for various additional cases, including cubic $K_{u}<0$
 
-![](/content/images/page_292_image_2.jpg)
+![](images/page_292_image_2.jpg)
 
 Fig. 9.4 Splitting of a $180^{\circ}$ wall into two $90^{\circ}$ walls.
 
@@ -5872,9 +5872,9 @@ Two types of $90^{\circ}$ wall are possible, and they have different structures.
 
 The energy of a domain wall also depends on the orientation of the wall in the crystal. This point is discussed briefly in Section 9.4.
 
-![](/content/images/page_293_image_12.jpg)
+![](images/page_293_image_12.jpg)
 
-![](/content/images/page_293_image_13.jpg)
+![](images/page_293_image_13.jpg)
 
 (b)
 
@@ -5892,11 +5892,11 @@ The structure of domain walls in ferrimagnetic materials has apparently not been
 
 When the thickness of a sample becomes comparable to the thickness of the domain wall, the energy associated with the free poles that arise where a Bloch wall meets the surface (Fig. 9.6) becomes significant. This can lead to a change in wall structure, with the magnetization rotating in the plane of the sample rather than in the plane of the wall (Fig. 9.7). This creates free poles on the wall, since the normal component of magnetization in the wall is no longer constant, but nevertheless gives a lower overall energy. This kind of wall is called a Néel wall, and the term Bloch wall is now reserved for the normal wall structure in Fig. 9.6. There are also calculations and evidence to show that the spin variation in a Bloch wall is modified where the wall meets the surface of the sample. This topic is considered further in Section 11.11.
 
-![](/content/images/page_294_image_8.jpg)
+![](images/page_294_image_8.jpg)
 
 Fig. 9.6 Bloch wall. Note free poles appearing where the wall intersects the surfaces.
 
-![](/content/images/page_295_image_2.jpg)
+![](images/page_295_image_2.jpg)
 
 Fig. 9.7 Néel wall in thin sample. Free poles appear along the surface of the wall, but not at the sample surface.
 
@@ -5912,15 +5912,15 @@ Domains are normally so small that one must use some kind of microscope to see t
 
 The first successful observation of domains made use of the Bitter or powder method. This involves the application of a liquid suspension of extremely fine (colloidal) particles of ferrimagnetic magnetite $(Fe_{3}O_{4})$ to the polished surface of the specimen. Imagine a $180^{\circ}$ wall intersecting the surface, as in Fig. 9.8a, where the spins in the wall are represented simply by the one in the center, normal to the surface. A north pole is therefore formed as shown, and this is the origin of an H field gradient above the surface as indicated. The fine particles of magnetite are attracted to this region of nonuniform field, depositing as a band along the edge of the domain wall, normal to the plane of the drawing. If the surface is then examined with a metallurgical (reflecting) microscope under the usual conditions of “bright-field” illumination, as in Fig. 9.8b, the domain wall will show up as a dark line on a light background; the domains on either side of the wall reflect the vertically incident light back into the microscope and so appear light, while the particles on top of the wall scatter the light to the side and appear dark. Better contrast is observed under “dark-field” illumination (Fig. 9.8c), where the incident light strikes the specimen at an angle. The domain wall appears as a light line on a dark background, because only light reflected from the particles along the wall is scattered into the microscope objective. In either case, the arrangement of lines (domain walls) seen under the microscope is commonly called a powder pattern or Bitter pattern.
 
-![](/content/images/page_296_image_2.jpg)
+![](images/page_296_image_2.jpg)
 
 (a)
 
-![](/content/images/page_296_image_4.jpg)
+![](images/page_296_image_4.jpg)
 
 (b)
 
-![](/content/images/page_296_image_6.jpg)
+![](images/page_296_image_6.jpg)
 
 (c)
 
@@ -5934,11 +5934,11 @@ Careful specimen preparation is extremely important. The surface of a metallic s
 
 0.1 mm
 
-![](/content/images/page_297_image_4.jpg)
+![](images/page_297_image_4.jpg)
 
 (b)
 
-![](/content/images/page_297_image_5.jpg)
+![](images/page_297_image_5.jpg)
 
 Fig. 9.9 Powder patterns on a single crystal of $\mathrm{Fe} + 3.8\% \mathrm{Si}$ using dark-field illumination. (a) after mechanical polishing, (b) after electropolishing. The area viewed is about $0.5 \times 0.45$ mm.
 
@@ -5952,15 +5952,15 @@ When greater detail is desired, static Bitter patterns may be examined at the mu
 
 An important step in interpreting an observed domain structure is to determine the directions in which the various domains are magnetized. This can be done by observing the behavior of the colloid particles at accidental or deliberate scratches, or other irregularities, on the specimen surface. Figure 9.10 shows the principle involved. When $M_{\mathrm{s}}$ in a particular domain is parallel to the surface and at right angles to a scratch, as in Fig. 9.10a, the flux lines tend to bow out into the air at the scratch, and this nonuniformity of field attracts the powder particles. This effect does not occur when $M_{\mathrm{s}}$ is parallel to the scratch, as in Fig. 9.10b, and few powder particles are attracted. Thus scratches crossing a domain structure like that of Fig. 9.10c will appear dark when they are at right angles to $M_{\mathrm{s}}$ and light when they are parallel. It remains then to determine the sense of the $M_{s}$ vector in each domain; this is done by applying a field parallel to the $M_{s}$ -axis of a certain domain, and noting whether that domain grows in volume or shrinks. If it grows, then $M_{\mathrm{s}}$ must be parallel, rather than antiparallel, to the applied field.
 
-![](/content/images/page_298_image_2.jpg)
+![](images/page_298_image_2.jpg)
 
 (a)
 
-![](/content/images/page_298_chart_4.jpg)
+![](images/page_298_chart_4.jpg)
 
 (b)
 
-![](/content/images/page_298_image_6.jpg)
+![](images/page_298_image_6.jpg)
 
 (c)
 
@@ -5974,7 +5974,7 @@ The Bitter method has several limitations: (1) If the anisotropy constant K of t
 
 This instrument can disclose domain walls in specimens thin enough to transmit electrons, generally about 1000 Å (100 nm) or less. Since a moving electric charge is acted on by a force when it is in a magnetic field, the electrons passing through the specimen will be deviated by an amount and in a direction determined by the magnitude and direction of the local $M_{\mathrm{s}}$ vector. In a domain wall this vector has different orientations at different positions within the wall; the result is that the wall shows up as a line, either dark or light, on the image of the specimen. The microscope must be slightly under- or overfocused in order to make the wall visible. This technique is often called Lorentz microscopy, because the force F on the electron is known as the Lorentz force. This force, on an electron of charge 2e, is given by $-e / c(\mathbf{v} \times \mathbf{B})$ , where v is the electron velocity, B the induction, and c the velocity of light (cgs units). The greater part of B at any point in the specimen is made up of the local value of $M_{\mathrm{s}}$ the balance being due to the vector sum of any applied or demagnetizing H fields present.
 
-![](/content/images/page_299_image_2.jpg)
+![](images/page_299_image_2.jpg)
 
 Fig. 9.11 Domain photographs of an iron foil by transmission electron microscopy, $5600\times$ .[J.T. Michalak and R. C. Glenn, J. Appl. Phys., 32 (1961) p. 1261.]
 
@@ -5992,7 +5992,7 @@ The Lorentz microscopy described here is known the Fresnel mode. Other modes are
 
 Two magneto-optic effects can distinguish one domain from another, either as a difference in color or in the degree of light and dark.
 
-![](/content/images/page_300_image_2.jpg)
+![](images/page_300_image_2.jpg)
 
 Fig. 9.12 Principle of domain observation by the Kerr effect.
 
@@ -6002,7 +6002,7 @@ Because of the small angle of rotation of the plane of polarization, the contras
 
 Note that the term “Kerr effect” is also applied to an electro-optic effect. If certain organic liquids are placed in a transparent container, called a Kerr cell, and subjected to an electric field, plane polarized light passing through the cell will be rotated by an amount depending on the applied voltage.
 
-![](/content/images/page_301_image_2.jpg)
+![](images/page_301_image_2.jpg)
 
 Fig. 9.13 Domains in a film of 81 permalloy observed using the Kerr effect.
 
@@ -6016,15 +6016,15 @@ The scanning tunneling microscope (STM) was introduced in 1986. It makes use of 
 
 A number of variations on this basic idea quickly followed. One of these uses a tip coated with a thin layer of magnetic material, which experiences a measurable force when it enters the field gradient where a domain wall meets the sample surface. This is the magnetic force microscope, or MFM. The force acting on the tip can be measured optically, by the deflection of the cantilever holding the tip, or from the change in amplitude of
 
-![](/content/images/page_302_image_2.jpg)
+![](images/page_302_image_2.jpg)
 
 Fig. 9.14 Scanning probe microscope.
 
-![](/content/images/page_302_image_4.jpg)
+![](images/page_302_image_4.jpg)
 
 (a)
 
-![](/content/images/page_302_chart_6.jpg)
+![](images/page_302_chart_6.jpg)
 
 (b)
 
@@ -6046,15 +6046,15 @@ We turn now from the observation of domains to an examination of the reasons for
 
 Consider a large single crystal of a material with uniaxial anisotropy. Suppose it is entirely one domain, spontaneously magnetized parallel to the easy axis, as in Fig. 9.16a. Then free poles form on the ends, and these poles are the source of a large H field. The magnetostatic energy of this crystal is $1 / 8\pi \int H^{2}$ dv (cgs) or $1 / 2\int H^{2}$ dv (SI), evaluated over all space. This considerable energy can be reduced by almost a factor of 2 if the crystal splits into two domains magnetized in opposite directions as in Fig. 9.16b, because this brings north and south poles closer to one another, thus decreasing the spatial extent of the H field. If the crystal splits into four domains as in Fig. 9.16c, the magnetostatic energy again decreases, to about one-fourth of its original value, and so on. But this division into smaller and smaller domains cannot continue indefinitely, because each wall formed in the crystal has a wall energy per unit area, which adds energy to the system. Eventually an equilibrium domain size will be reached.
 
-![](/content/images/page_304_image_2.jpg)
+![](images/page_304_image_2.jpg)
 
 (a)
 
-![](/content/images/page_304_image_4.jpg)
+![](images/page_304_image_4.jpg)
 
 (b)
 
-![](/content/images/page_304_image_6.jpg)
+![](images/page_304_image_6.jpg)
 
 (c)
 
@@ -6118,11 +6118,11 @@ where the values appropriate to cobalt have been inserted. Thus the creation of 
 
 A still larger reduction in magnetostatic energy will result if the unlike poles on each end of the crystal are “mixed” more intimately. This can be done if the domain walls become curved rather than flat, although still parallel to the easy axis, as in Fig. 9.17a. A section of such a crystal parallel to the easy axis will show straight lines separating the domains, and a section normal to the easy axis will show curved lines. Curvature of the walls increases the wall area, and this type of domain structure is therefore found mainly in very thin crystals. In thick crystals, wall curvature involves too much extra wall energy, and another method of reducing magnetostatic energy is favored, as in Fig. 9.17b. Here spike-shaped domains of reversed magnetization are formed at the surface. This has the desired effect of producing a fine mixture of opposite poles on the end surfaces without adding too much wall energy, because the spike domains are short. However, there is a discontinuity in the normal component of $M_{\mathrm{s}}$ on the walls of the spike domains, and free north poles must form there in accordance with Equation 2.29. These interior poles are the source of an H field and therefore contribute to the magnetostatic energy. The number and size of the spike domains will be such as to balance the reduction in main magnetostatic energy due to the surface poles against the increase in wall energy and in magnetostatic energy due to interior poles, assuming that there is no barrier to the formation of additional domains.
 
-![](/content/images/page_305_image_13.jpg)
+![](images/page_305_image_13.jpg)
 
 (a)
 
-![](/content/images/page_305_image_15.jpg)
+![](images/page_305_image_15.jpg)
 
 (b)
 
@@ -6134,15 +6134,15 @@ The domain structure of cubic crystals tends to be more complicated, because the
 
 The avoidance of free poles is also the guiding principle controlling the orientation of domain walls. For example, a $180^{\circ}$ wall must be parallel to the $M_{\mathrm{s}}$ vectors in the adjacent domains; if not, as in the spike domains of Fig. 9.17b, free poles will form on the wall, creating magnetostatic energy. For the same reason, a $90^{\circ}$ wall, such as those bounding the closure domains of Fig. 9.18, must lie at $45^{\circ}$ to the adjoining $M_{\mathrm{s}}$ vectors.
 
-![](/content/images/page_306_image_6.jpg)
+![](images/page_306_image_6.jpg)
 
 (a)
 
-![](/content/images/page_306_image_8.jpg)
+![](images/page_306_image_8.jpg)
 
 (b)
 
-![](/content/images/page_306_image_10.jpg)
+![](images/page_306_image_10.jpg)
 
 Fig. 9.18 Closure domains in a cubic crystal with <100> easy axes.
 
@@ -6152,7 +6152,7 @@ Simple domain arrangements, giving rise to a set of parallel $180^{\circ}$ walls
 
 The complex tree pattern is instructive, when one considers that well below the surface the domain structure of this crystal is extremely simple. This observation is generally true. Many of the complex domain arrangements seen on some crystal surfaces would not exist if that surface had not been exposed by cutting; they are closure domains which form when the cut is made, in order to reduce magnetostatic energy. Surface domain structures can therefore be very different from the basic domain structure of the interior. On the other hand, domains in very thin specimens, such as films and foils, normally extend completely through the specimen thickness. The domain structure revealed by surface examination, by the Bitter or Kerr techniques, is therefore the same as the interior structure in this case.
 
-![](/content/images/page_307_image_5.jpg)
+![](images/page_307_image_5.jpg)
 
 Fig. 9.19 Interpretation of the fir tree pattern. Lines on the sides of the crystal are parallel to {100} planes.
 
@@ -6160,25 +6160,25 @@ The simplest kinds of domain structure are seen in properly prepared single crys
 
 The most nearly perfect metal single crystals available are whiskers. These are fine filaments, generally a few millimeters in length and several tens of micrometers thick, grown by the reduction of metal bromide vapor by hydrogen at about $800^{\circ}$C. Whiskers first attracted scientific interest because of their extremely high mechanical strength. Later it was realized that they offered excellent opportunities for magnetic domain studies. Iron whiskers, for example, often grow with a <100> axis and with sides parallel to {100} planes. Moreover, these sides are optically flat, which means that no specimen preparation is needed before the magnetic suspension is added to form a Bitter pattern. Figure 9.20 shows the domain structure observed on a {100} <100> iron whisker and the wall motion that occurs in an applied field. The sketch at the top shows the domain structure through the volume of the whisker, and the Bitter patterns are of the top face. The arrows below
 
-![](/content/images/page_308_image_4.jpg)
+![](images/page_308_image_4.jpg)
 
 H=0
 
-![](/content/images/page_308_image_6.jpg)
+![](images/page_308_image_6.jpg)
 
 - H
 
-![](/content/images/page_308_image_8.jpg)
+![](images/page_308_image_8.jpg)
 
 4 H
 
 Fig. 9.20 Reversible wall motion in an iron whisker. Bitter patterns under dark-field illumination.
 
-![](/content/images/page_309_image_2.jpg)
+![](images/page_309_image_2.jpg)
 
 H=0
 
-![](/content/images/page_309_image_4.jpg)
+![](images/page_309_image_4.jpg)
 
 Fig. 9.20 Continued.
 
@@ -6186,15 +6186,15 @@ each pattern indicate the direction and magnitude of the applied field, which ha
 
 Closely analogous to whiskers are metal “platelets,” which are grown by the same methods and are also single crystals. Here the growth habit is edgewise rather than axial; the result is a platelet hundreds of micrometers in its lateral dimensions and from less than 0.1 μm (1000 Å) to over 10 μm in thickness. The platelet surfaces and edges are crystal planes and directions of low indices, such as {100} and <100>. These platelets are structurally more nearly perfect than the usual thin films formed by evaporation of a metal in vacuum onto a substrate. Figure 9.21 shows an exceptionally simple domain structure in a demagnetized Ni –Co alloy platelet. The crystal structure is face-centered cubic, with <100> easy directions (positive $K_{1})$ . When a field of 3.6 Oe is applied to the right, the domain walls move reversibly to the positions shown in Fig. 9.21b. Here the corners of the platelet have pinned the ends of the $90^{\circ}$ walls, forcing the latter to bend. The normal components of $M_{\mathrm{s}}$ are no longer continuous across these walls, so they are now the sites of free poles. With further increase in field, to 4.1 Oe, the domain structure snaps irreversibly to Fig. 9.21c. The reason that the $180^{\circ}$ walls are so thin, or invisible, in these photographs is that the crystal anisotropy is low in this alloy; the walls are accordingly very broad, produce only a weak field gradient above the surface, and attract little or no colloid. The 908 walls are thinner and attract more colloid.
 
-![](/content/images/page_310_image_2.jpg)
+![](images/page_310_image_2.jpg)
 
 (a)
 
-![](/content/images/page_310_image_4.jpg)
+![](images/page_310_image_4.jpg)
 
 (b)
 
-![](/content/images/page_310_image_6.jpg)
+![](images/page_310_image_6.jpg)
 
 (c)
 
@@ -6202,7 +6202,7 @@ Fig. 9.21 Wall motion in a Ni–Co alloy platelet 165 mm across. Bitter patterns
 
 The domain structure observed on the surface of a polycrystalline specimen is usually quite complex, because (a) the grain surfaces are rarely even approximately parallel to crystal planes of low indices like {100} or {111}, except in certain specimens having a high degree of preferred orientation, and (b) the grain boundaries tend to interrupt the continuity of magnetization from grain to grain. Because the easy directions of magnetization have different orientations in two adjoining grains, the grain boundary between them is also a domain boundary, although not of the usual kind since it cannot move or adjust its orientation. The normal component of $M_{\mathrm{s}}$ is rarely continuous across a grain boundary, which therefore becomes a source of free poles and magnetostatic energy. Although domains are not continuous across a grain boundary, domain walls often are, and Fig. 9.22 shows an example of this. Spike domains often form at grain boundaries to reduce the free pole density there, just as they do at the surface of some single crystals (Fig. 9.17b).
 
-![](/content/images/page_311_image_2.jpg)
+![](images/page_311_image_2.jpg)
 
 Fig. 9.22 Domains in a polycrystalline sample of $\mathrm{Fe} + 3\% \mathrm{Si}$
 
@@ -6236,7 +6236,7 @@ Up to this point our attention has been focused on static domain structures. We 
 
 The Barkhausen effect was originally thought to be due to sudden rotations of the $M_{\mathrm{s}}$ vector from one orientation to another in various small volumes of the specimen. It is now known to be due mainly to domain walls making sudden jumps from one position to another. Either way, the Barkhausen effect is evidence for the existence of domains, and it was the first evidence in support of Weiss’ hypothesis of 13 years earlier.
 
-![](/content/images/page_313_image_5.jpg)
+![](images/page_313_image_5.jpg)
 
 Fig. 9.23 Barkhausen effect.
 
@@ -6250,15 +6250,15 @@ Two other points of interest in this experiment are:
 
 2. When a magnetized rod-shaped crystal is heated above the Curie point and cooled again, it becomes demagnetized, in order to reduce its demagnetizing field and the associated magnetostatic energy. But when this picture-frame crystal was cooled from the Curie point, it was observed to be saturated, clockwise or counterclockwise, each leg a single domain. Because it forms a closed magnetic circuit, this crystal can have no demagnetizing field. Therefore, its state of minimum energy is one of minimum domain wall area. This is the saturated state, with only four short $90^{\circ}$ domain walls at the corners. Since the crystal anisotropy energy is zero, the only other source of energy is some magnetoelastic energy due to domain misfit at the corners.
 
-![](/content/images/page_315_image_2.jpg)
+![](images/page_315_image_2.jpg)
 
 (a)
 
-![](/content/images/page_315_chart_4.jpg)
+![](images/page_315_chart_4.jpg)
 
 (c)
 
-![](/content/images/page_315_chart_6.jpg)
+![](images/page_315_chart_6.jpg)
 
 (b)
 
@@ -6266,7 +6266,7 @@ Fig. 9.24 The picture-frame experiment. [H. J. Willliams and W. Shockley, Phys. 
 
 In previous chapters we noted that magnetization can change as a result both of domain wall motion and domain rotation. The question then arises: in a typical polycrystalline specimen, what proportion of the total change in M is due to wall motion and what rotation? This question has no precise answer, but a rough division is indicated in Fig. 9.25. Wall motion is the main process up to about the “knee” of the magnetization curve. From there to saturation, rotation predominates; in this region work must be done against the anisotropy forces, and a rather large increase in H is required to produce a relatively small increase in M. This division of the magnetization curve is rather arbitrary, because wall motion and rotation are not sharply divisible processes. In fact, at any one level of M, wall motion may be occurring in one portion of a specimen and rotation in another. And in certain orientations of a single-crystal specimen relative to the applied field, wall motion and rotation can occur simultaneously in the same part of the specimen. When magnetization occurs entirely by domain rotation, we expect the process to be reversible, with the same B vs H curve followed in both increasing and decreasing fields. Domain wall motion in real materials is irreversible, leading to different curves for increasing and decreasing fields.
 
-![](/content/images/page_316_image_2.jpg)
+![](images/page_316_image_2.jpg)
 
 Fig. 9.25 Magnetization processes.
 
@@ -6278,19 +6278,19 @@ Inclusions may take many forms. They may be particles of a second phase in an al
 
 One reason that an inclusion might impede wall motion is that the wall might tend to cling to the inclusion in order to decrease the area, and hence the energy, of the wall. When a wall arrives at a position bisecting an inclusion, as from Fig. 9.26a to Fig. 9.26b, the wall area decreases by $\pi r^{2}$ (for a spherical inclusion of radius r) and the wall energy decreases by $\pi r^{2}\sigma .$ But in 1944 Néel pointed out that free poles on an inclusion would be a far greater source of energy. A spherical inclusion entirely within a domain, as in Fig. 9.26c, would have free poles on it and an associated magnetostatic energy of
 
-![](/content/images/page_317_image_2.jpg)
+![](images/page_317_image_2.jpg)
 
 (a)
 
-![](/content/images/page_317_image_4.jpg)
+![](images/page_317_image_4.jpg)
 
 (b)
 
-![](/content/images/page_317_image_6.jpg)
+![](images/page_317_image_6.jpg)
 
 (c)
 
-![](/content/images/page_317_image_8.jpg)
+![](images/page_317_image_8.jpg)
 
 (d)
 
@@ -6310,13 +6310,13 @@ when $\sigma$ is taken as 1.5 ergs/cm² . This ratio, being proportional to r, b
 
 Néel also pointed out that the magnetostatic energy of an inclusion isolated within a domain could be decreased if subsidiary spike domains formed on the inclusion, and reduced to zero by closure domains when a wall bisected the inclusion. Thus an inclusion, taken as a cube for simplicity and wholly within a domain, might have spike domains attached to it as in Fig. 9.27b. The total free pole strength in Fig. 9.27a is spread over a larger surface in Fig. 9.27b, and such “dilution” always decreases magnetostatic energy. If the walls bounding the spike domains were all at exactly $45^{\circ}$ to the magnetization of the surrounding domain, there would be no discontinuity in the normal component of $M_{\mathrm{s}}$ and hence no free poles; however, such walls would extend to infinity and add an infinite amount of wall energy to the system. Spikes of finite length and having walls at nearly, but not exactly, $45^{\circ}$ to the adjacent $M_{\mathrm{s}}$ vectors represent a compromise structure. Spike domains on inclusions were first seen in 1947 by Williams, in an iron-silicon crystal. They differed from those predicted by Néel three years earlier in having two spikes, rather than four, on each inclusion; examples are shown in Fig. 9.28.
 
-![](/content/images/page_318_image_2.jpg)
+![](images/page_318_image_2.jpg)
 
 (a)
 
 (b)
 
-![](/content/images/page_318_image_5.jpg)
+![](images/page_318_image_5.jpg)
 
 (c)
 
@@ -6326,23 +6326,23 @@ If a wall bisects an inclusion, magnetostatic energy can be reduced to zero, at 
 
 Observation of moving domain walls in crystals has shown that wall motion is impeded by interaction of the moving wall with the spike domains normally attached to inclusions rather than by interaction with the inclusions themselves. A typical sequence is shown in Fig. 9.29. In response to an upward applied field, the wall in Fig. 9.29a moves to the right, as in Fig. 9.29b, dragging out the closure domains into the form of tubes and creating a new domain just to the right of the inclusion. Further motion of the main wall lengthens the tubular domains, as in Fig. 9.29c. The change from (a) to (b) to (c) is reversible, and the domain arrangement of (a) can be regained if the field is reduced. But if the field is further increased, the tubular domains do not continue to lengthen indefinitely, because their increasing surface area adds too much wall energy to the system. A point is reached when the main wall suddenly snaps off the tubular domains irreversibly and jumps a distance to the right, leaving two spike domains attached to the inclusion, as in Fig. 9.29d. This is a Barkhausen jump. If the field is now reduced to zero and reversed, these changes occur in reverse. If the reversed field is strong enough to drive the wall well to the left of the inclusion, the inclusion will be left with spike domains pointing to the left.
 
-![](/content/images/page_318_image_11.jpg)
+![](images/page_318_image_11.jpg)
 
 Fig. 9.28 Spike domains at inclusions in an Fe + 3% Si crystal.
 
 (b)
 
-![](/content/images/page_319_image_3.jpg)
+![](images/page_319_image_3.jpg)
 
 (a)
 
-![](/content/images/page_319_image_5.jpg)
+![](images/page_319_image_5.jpg)
 
-![](/content/images/page_319_image_6.jpg)
+![](images/page_319_image_6.jpg)
 
 (c)
 
-![](/content/images/page_319_image_8.jpg)
+![](images/page_319_image_8.jpg)
 
 (d)
 
@@ -6366,7 +6366,7 @@ The distinction between residual macrostress and microstress is not sharp. A mor
 
 Residual macro- and microstress are quite often found together. For example, the residual macrostress caused by grinding the opposite faces of a metal strip or plate with an abrasive wheel is shown at the left of Fig. 9.30. Each ground surface is in residual compression in a direction parallel to the surface. This stress rapidly decreases to zero with depth and changes to tension in most of the interior. Residual stresses must form a balanced force system. Regions in residual compression must be balanced by regions in tension. X-ray examination of the material at the surface, or just below (accomplished by etching part of the material away), shows the X-ray lines to be both shifted and broadened. We can then imagine the microstress distribution in one small region to resemble that sketched at the right of Fig. 9.30.
 
-![](/content/images/page_320_image_6.jpg)
+![](images/page_320_image_6.jpg)
 
 Fig. 9.30 Residual stress distribution due to grinding.
 
@@ -6378,11 +6378,11 @@ As noted above, residual microstress is never entirely absent, even in a well-an
 
 2. Magnetostriction. When a ferro- or ferrimagnetic is cooled below the Curie point, spontaneous magnetostriction acts to distort different domains in different directions. Because the domains are not free to deform independently, microstresses are set up. The same argument shows that the stress inside a domain wall differs from the stress in the adjoining domains. Figure 9.31 shows some examples for a material, like iron, in which the magnetostriction is positive in the direction of the spontaneous magnetization. Three domains are shown in Fig. 9.31a, separated by one $90^{\circ}$ and one $180^{\circ}$ wall. Dashed lines indicate the dimensions of the various portions if they were free to deform in the y direction; strains in the x direction are ignored here. The corresponding variation of the y component of stress, $\sigma_{\mathrm{y}}$ with x is shown in Fig. 9.31b, where the zero-stress level refers to the paramagnetic material above the Curie point. Stresses of magnetostrictive origin are rather small, being of the order of $\lambda_{\mathrm{si}}E.$ where E is Young’s modulus (the stresses are generally less than 1000 lb /in² or 7 MPa). They are large enough, however, to cause interactions between domains, or domain walls, and crystal imperfections. (In fact, if one takes the point of view that anything which sets up microstress is a crystal imperfection, then domains and domain walls are crystal imperfections.) The localized distortion within domain walls can be revealed by special methods of X-ray diffraction.
 
-![](/content/images/page_321_image_6.jpg)
+![](images/page_321_image_6.jpg)
 
 (a)
 
-![](/content/images/page_321_image_8.jpg)
+![](images/page_321_image_8.jpg)
 
 (b)
 
@@ -6394,17 +6394,17 @@ Plastic deformation (cold work) has marked effects on many magnetic properties, 
 
 2. Uniform, such as uniaxial tension and compression. These processes produce only micro residual stress, as indicated in Fig. 9.33 for a stretched rod. However, the microstress distribution is irregular, as shown in the sketch at the right: most of the lattice, estimated at some 90%, is in residual compression, balanced by small regions under high tensile stress. Although the details of this stress distribution are hypothetical, as is true of any microstress distribution in the present state of our knowledge, its general form is supported by both X-ray and magnetic evidence. While tensile deformation has the advantage over swaging, for example, of not introducing macrostress, the amount of uniform tensile deformation that can be achieved is limited by the onset of “necking” (local contraction); this limits the amount of uniform deformation, as measured by the reduction in cross-sectional area, to 25% or less in most materials. Reductions of more than double this amount can usually be achieved by swaging or wire drawing before cracking begins.
 
-![](/content/images/page_322_chart_6.jpg)
+![](images/page_322_chart_6.jpg)
 
 (a)
 
-![](/content/images/page_322_chart_8.jpg)
+![](images/page_322_chart_8.jpg)
 
 (b)
 
 Fig. 9.32 Possible distributions of longitudinal residual stresses across the diameter of a cold-drawn metal rod.
 
-![](/content/images/page_323_chart_2.jpg)
+![](images/page_323_chart_2.jpg)
 
 Fig. 9.33 Distribution of longitudinal residual stress across the diameter of a rod after plastic elongation in the y direction.
 
@@ -6422,7 +6422,7 @@ At zero applied field, a domain wall will be in a position which minimizes the e
 
 Hindered wall motion of either kind may be discussed in terms of the variation of a single energy E with wall position x, where E stands for any or all of the various energies mentioned above. We may suppose that E varies with x as in Fig. 9.34a. The gradient of the energy is shown in Fig. 9.34b, along with the line cH representing the pressure of the field on the wall. The value of the constant c depends on the kind of wall and the orientation of the field. For the case of a $180^{\circ}$ wall, $c = 2M_{\mathrm{s}}$ . At $H=0$ , the wall is at position 1, in an energy minimum. As H is increased from zero, the wall moves reversibly to 2; if the field were removed in this range, the wall would return to 1. But point 2 is a point of maximum energy gradient (maximum restoring force); if the field is sufficient to move the wall to 2, it is sufficient to make the wall take an irreversible jump to 3, which is the only point ahead of the wall with an equally strong restoring force. This is a Barkhausen jump. If the field is then reduced to zero, the wall will go back, not to point 1, but to 4, which is the nearest energy minimum. The wall thus exhibits the phenomena of hysteresis and remanence. A reverse field will then drive the wall reversibly from 4 to 5 and by another Barkhausen jump from 5 to 6. If the diagram in 9.34b is rotated $90^{\circ}$ , it takes the form of the elemental hysteresis loop shown in Fig. 9.34c, because wall motion x is equivalent to change in magnetization M, and $dE/dx$ is proportional to H.
 
-![](/content/images/page_324_image_4.jpg)
+![](images/page_324_image_4.jpg)
 
 Fig. 9.34 Reversible and irreversible domain wall motion.
 
@@ -6454,11 +6454,11 @@ $$
 
 (a)
 
-![](/content/images/page_326_image_3.jpg)
+![](images/page_326_image_3.jpg)
 
 (b)
 
-![](/content/images/page_326_chart_5.jpg)
+![](images/page_326_chart_5.jpg)
 
 Fig. 9.35 Rotation of magnetization by a field applied to a single-domain ellipsoid; h is a reduced field $H/H_{\mathrm{K}}$ (see text).
 
@@ -6542,11 +6542,11 @@ The reduced magnetization m as a function of reduced field h for an intermediate
 
 Figure 9.36 shows hysteresis loops calculated for various values of α. In general, these loops consist of reversible and irreversible portions, the latter constituting large single Barkhausen jumps. We see that reversible and irreversible changes in magnetization can occur by domain rotation as well as by domain wall motion. The portion of the total change in m due to irreversible jumps varies from a maximum at $\alpha = 0^{\circ}$ to zero at $\alpha =$ $90^{\circ}$ . The critical value of reduced field $h_{c},$ at which the $M_{\mathrm{s}}$ vector flips from one orientation to another, decreases from 1 at $\alpha = 0^{\circ}$ to a minimum of 0.5 at $\alpha = 45^{\circ}$ and then increases to 1 again as a approaches $90^{\circ}$ . These critical values are equal for any two values of α, such as $20^{\circ}$ and $70^{\circ}$ , symmetrically located about $\alpha = 45^{\circ}$ . On the other hand, the reduced intrinsic coercivity $h_{\mathrm{ci}}$ (the value of h which reduces m to zero) decreases from 1 at $\alpha = 0^{\circ}$ to zero at $\alpha = 90^{\circ}$ . For values of  between 0 and $90^{\circ}$ , cyclic variation of H in a fixed direction has a curious result: $M_{\mathrm{s}}$ makes one complete revolution per cycle, although it does not rotate continuously in the same direction.
 
-![](/content/images/page_328_chart_5.jpg)
+![](images/page_328_chart_5.jpg)
 
 Fig. 9.36 Hysteresis loops for single domain particles with uniaxial anisotropy; a is the angle between the field and the easy axis.
 
-![](/content/images/page_329_chart_2.jpg)
+![](images/page_329_chart_2.jpg)
 
 Fig. 9.37 Hysteresis loop of an assembly of noninteracting, randomly oriented, uniaxial single domain particles.
 
@@ -6598,13 +6598,13 @@ However, a new kind of rotational behavior now occurs: whatever the value of α,
 
 (a)
 
-![](/content/images/page_331_image_9.jpg)
+![](images/page_331_image_9.jpg)
 
-![](/content/images/page_331_image_10.jpg)
+![](images/page_331_image_10.jpg)
 
 (f)
 
-![](/content/images/page_331_chart_12.jpg)
+![](images/page_331_chart_12.jpg)
 
 Fig. 9.38 Hysteresis behavior for planetary (oblate) spheroids.
 
@@ -6662,7 +6662,7 @@ $$
 \begin{array}{r l} \text {hysteresis loss} & = \left(\frac {\pi}{4}\right) (\text {area of} B, H \text {loop}) = \frac {\nu}{3 \pi} H _ {\mathrm{m}} ^ {3} \frac {\mathrm{erg}}{\mathrm{cm} ^ {3}} (\mathrm{cgs}) \\ & = \text {area of} B, H \text {loop} = \frac {4}{3} H _ {\mathrm{m}} ^ {3} \frac {\mathrm{J}}{\mathrm{m} ^ {3}} (\mathrm{SI}). \end{array}\tag{9.53}
 $$
 
-![](/content/images/page_334_image_2.jpg)
+![](images/page_334_image_2.jpg)
 
 Fig. 9.39 Normal induction curve and hysteresis loop in the Rayleigh region. Dashed lines indicate where slopes are numerically equal to $\mu_{i}$
 
@@ -6676,7 +6676,7 @@ Plastic deformation decreases both Rayleigh constants. Figure 9.40 shows three �
 
 The domain size is important because it determines the domain wall area per unit volume. If that is known, then the average distance a wall moves can be calculated from the observed change in magnetization. This distance may be compared to the scale of the structural irregularities in the specimen. As an example of such a calculation we will take the annealed iron specimen whose μ, H curve appears in Fig. 9.40. At $H = 0.1\mathrm{Oe},\mu =$ 617, $B = 62$ gauss, and $M = 5.0 \mathrm{emu} / \mathrm{cm}^{3}$ , or $H = 8\mathrm{A / m},\mu = 775\times 10^{-6}(\mu_{\mathrm{r}} = 617)$ $B = 62 \times 10^{-4} \mathrm{T}$ and $M = 4900\mathrm{A / m}$ . When unit area of a single $180^{\circ}$ wall is moved a distance x by a field parallel to the $M_{s}$ vector in one of the adjacent domains, the magnetization of that region changes in the direction of the field by an amount $2M_{\mathrm{s}}x$ If the spacing of the walls is d, then the number of walls per unit length is 1/d, and
 
-![](/content/images/page_335_chart_2.jpg)
+![](images/page_335_chart_2.jpg)
 
 Fig. 9.40 Permeability μ vs field strength in the Rayleigh region for iron with varying degrees of cold work. Numbers on curves are degree of plastic elongation, in percent. [R. M. Rusak, Ph.D. thesis, University of Notre Dame, South Bend, Indiana.]
 
@@ -6720,17 +6720,17 @@ Two extreme kinds are sketched in Fig. 9.41. Both apply to a material with a str
 
 In many square-loop materials, the loop shape is not a real characteristic of the material but rather an artifact, due to the usual method of measuring the loop. Normally the saturated specimen is exposed to a constantly increasing reverse field. Essentially no change in B is observed until the point A in Fig. 9.42 is reached; then, when the coercivity $H_{\mathrm{c1}}$ is exceeded, a large change in B, practically equal to $2B_{s}$ , is observed as the induction changes along the dashed line. However, feedback circuits can be used which will sense the beginning of this large change in B and quickly reduce the magnitude of the reverse field. Ideally, such a circuit will provide only enough reverse field, at any level of B, to cause B to slowly decrease toward zero. In such a case, an irregular line crossing the H-axis at the “true” coercivity $H_{\mathrm{c2}}$ would be traced out, the irregularities reflecting irregular impediments to wall motion. Re-entrant loops of this kind have been observed in a number of soft magnetic materials. Two interpretations of what occurs at point A are possible:
 
-![](/content/images/page_337_image_9.jpg)
+![](images/page_337_image_9.jpg)
 
 (a)
 
-![](/content/images/page_337_image_11.jpg)
+![](images/page_337_image_11.jpg)
 
 (b)
 
 Fig. 9.41 Hysteresis loops of uniaxial materials: (a) field parallel to easy axis; (b) field perpendicular to easy axis.
 
-![](/content/images/page_338_image_2.jpg)
+![](images/page_338_image_2.jpg)
 
 Fig. 9.42 Re-entrant hysteresis loop.
 
@@ -6744,7 +6744,7 @@ The other extreme kind of loop is shown in Fig. 9.41b. Here the applied field is
 
 Between these extremes of square loops and almost linear loops lie those for specimens with more or less randomly oriented easy axes. Certain parameters of such loops can sometimes be calculated. Consider, for example, a uniaxial material like cobalt in which each grain has a single easy axis and in which the grains are randomly oriented. Then Fig. 9.43 illustrates several states of magnetization. The arrangements of $M_{s}$ vectors in space is represented by a set of vectors drawn from a common origin, each vector representing a group of domains. The ideal demagnetized state is shown at point O. When a positive field is applied, domains magnetized in the minus direction are eliminated first, by $180^{\circ}$ wall motion, leading to the distribution shown at point B. Further increase in field rotates vectors into the state of saturation shown at C. When the field is now removed, the domain vectors fall back to the easy direction in each grain nearest to the +H direction. Because the easy axes are assumed to be randomly distributed, the domain vectors are then uniformly spread over one half of a sphere, as indicated at D. If $M_{\mathrm{s}}$ in any one domain makes an angle $\theta$ with the +H direction, the magnetization of that domain is $M_{\mathrm{s}}$ cos θ, and the retentivity $M_{\mathrm{r}}$ of the specimen as a whole is given by the average of $M_{\mathrm{s}}$ cos $\theta$ over all domains. This average is found by the method of Fig. 3.2b to be
 
-![](/content/images/page_339_image_2.jpg)
+![](images/page_339_image_2.jpg)
 
 Fig. 9.43 Domain arrangements for various states of magnetization. [S. Chikazumi, Physics of Ferromagnetism, Oxford University Press (1997).]
 
@@ -6764,7 +6764,7 @@ Returning to Fig. 9.43, we note that the effect of applying a negative field to 
 
 Although not a hysteresis loop, it is convenient to mention here the ideal or anhysteretic (= without hysteresis) magnetization curve. A point on this curve is obtained by subjecting the specimen to a constant unidirectional field $H_{1}$ together with an alternating field of amplitude large enough to saturate the specimen. The amplitude of the alternating field is then slowly reduced to zero while the constant field remains applied. The magnetization $M_{1}$ or induction $B_{1}$ resulting from this treatment is then measured. Figure 9.44 shows how the final state is arrived at. This process is repeated for a series of values of $H_{1}$ , and the resulting anhysteretic curve, shown by the dashed line, is then plotted.
 
-![](/content/images/page_340_image_2.jpg)
+![](images/page_340_image_2.jpg)
 
 Fig. 9.44 Method for establishing a point on the anhysteretic magnetization curve. Dashed line shows the full curve.
 
@@ -6780,7 +6780,7 @@ These several changes are caused by the increased numbers of dislocations and ot
 
 In the low-field region the effect of cold work is illustrated by Fig. 9.45, which applies to the hydrogen-annealed ingot iron mentioned earlier. The hysteresis curves shown were calculated by Equation 9.52 from values of $\mu_{i}$ and n derived from the μ. H curves of Fig. 9.40. Note that the coercive field $H_{c}$ is the same for both the annealed and prestrained specimens, which is unusual. This agrees with the fact that $m_{\mathrm{i}} / \nu$ was found to be independent of strain in this material. The Rayleigh equations predict that $H_{c},$ for a given value of $H_{\mathrm{m}}$ depends only on the ratio of $\mu_{i}$ to n and not on the individual values of these constants.
 
-![](/content/images/page_341_chart_2.jpg)
+![](images/page_341_chart_2.jpg)
 
 Fig. 9.45 Hysteresis loops for polycrystalline iron, calculated from measured Rayleigh constants.
 
@@ -6796,7 +6796,7 @@ Specimens elongated 35% were then annealed for 1 h at various temperatures up to
 
 Percent reduction in area
 
-![](/content/images/page_342_chart_3.jpg)
+![](images/page_342_chart_3.jpg)
 
 (a)
 
@@ -6822,13 +6822,13 @@ The results in Fig. 9.46 and similar studies are evidence of the close connectio
 
 9.1 Calculate the domain wall energy and thickness in a hypothetical material, which is cubic with $K_{1} = 60\times 10^{6}\mathrm{erg / cm^{3}},K_{2} = 0,M_{\mathrm{s}} = 900\mathrm{emu / cm^{3}},T_{\mathrm{c}} = 480\mathrm{K}$ Also find $L_{\mathrm{C}}$ (from Equation 9.20) for this material. What value of $K_{1}$ would be needed to make the wall thickness equal to 10 atom diameters, which would make the continuum magnetization approximation questionable? Assume an atom diameter of 30 nm.
 
-![](/content/images/page_343_image_8.jpg)
+![](images/page_343_image_8.jpg)
 
 (a)
 
-![](/content/images/page_343_image_10.jpg)
+![](images/page_343_image_10.jpg)
 
-![](/content/images/page_343_image_11.jpg)
+![](images/page_343_image_11.jpg)
 
 9.2 The magnetostatic energy of an inclusion within a domain, as in part (a) of the figure, can be reduced if subsidiary domains attach to it. In a material with uniaxial anisotropy, the domains might appear as in part (b). The overall length of the structure is kd, where d is the edge of the cube-shaped inclusion. We can approximate this domain arrangement by an ellipsoid of revolution, as in part (c). The ellipsoid has length kd, and a cross-sectional area at its midpoint equal to half to area of the face of the cube. The three axes of the ellipse are then $2d / \sqrt{2\pi}, 2d / \sqrt{2\pi},$ and kd. If S is the surface area of the and V is the volume of the ellipsoid, and N is its axial
 
@@ -6902,25 +6902,25 @@ A note on experimental techniques: magnetic annealing of sheet samples is usuall
 
 WEIGHT PER CENT NICKEL
 
-![](/content/images/page_347_chart_3.jpg)
+![](images/page_347_chart_3.jpg)
 
 Fig. 10.1 Equilibrium phase diagram of Fe – Ni alloys. [E. J. Swartzendruber, V. P. Itkin, and C. B. Alcock, ASM Handbook, Volume 3 (1992).]
 
 Magnetic annealing evidently creates a preferred domain orientation in the demagnetized state, with the direction of magnetization in each domain tending to lie parallel to the axis of the annealing field. Subsequent magnetization in this direction can then take place preferentially by $180^{\circ}$ wall motion. As a result, magnetostriction and magnetoresistance measured in the annealing direction are reduced to very small values. Figure 10.3 illustrates this point for a Ni – Fe alloy of slightly different composition. The central curve is for a specimen cooled slowly from $1000^{\circ}\mathrm{C}$ in the absence of a field; slow cooling from $600^{\circ}\mathrm{C}$ in a longitudinal field (lower curve) greatly decreases the longitudinal magnetostriction and the same treatment in a transverse field increases it. Furthermore, when the data for the upper curve are replotted in the form of l vs $(B - H)^{2} = (4\pi M)^{2}$ (cgs) or l vs $(B - \mu_0H)^2 = (\mu_0M)^2$ (SI), the result is a straight line in agreement with Equation 8.31. The magnetization process for this specimen (annealing field transverse to axis) is therefore one of pure rotation of the domain vectors through $90^{\circ}$ from their initial positions transverse to the axis.
 
-![](/content/images/page_348_chart_4.jpg)
+![](images/page_348_chart_4.jpg)
 
 (a)
 
-![](/content/images/page_348_chart_6.jpg)
+![](images/page_348_chart_6.jpg)
 
 (b)
 
-![](/content/images/page_348_chart_8.jpg)
+![](images/page_348_chart_8.jpg)
 
 (c)
 
-![](/content/images/page_348_chart_10.jpg)
+![](images/page_348_chart_10.jpg)
 
 (d)
 
@@ -6928,7 +6928,7 @@ Fig. 10.2 Hysteresis loops of a 65 Ni – 35 Fe alloy after various heat treatme
 
 The anisotropy created by magnetic annealing is due to directional order in the solid solution, an idea originated by S. Chikazumi [J. Phys. Soc. Japan, 5 (1950) p. 327]. The theory of this effect was described independently by several authors [L. Néel, J. de Physique et Radium, 15 (1954) p. 225; S. Taniguchi and M. Yamamoto, Sci. Rep. Tohoku Univ., A6 (1954) p. 330; S. Taniguchi, Sci. Rep. Tohoku Univ., A7 (1955) p. 269; S. Chikazumi and T. Oomura, J. Phys. Soc. Japan, 10 (1955) p. 842]. By directional order is meant a preferred orientation of the axes of like-atom pairs. An example, for atoms arranged on a two-dimensional square lattice, is shown in Fig. 10.4. The arrangement in Fig. 10.4a approximates a random solid solution of a 50 – 50 “alloy” of A and B; the atom positions were determined by drawing black and white balls from a box. If the solution were ideally random, there would be 56 black-white (AB) nearest-neighbor pairs, 28 AA pairs, and 28 BB pairs; the arrangement in Fig. 10.4a comes close to this, since it has 54 AB, 28 AA, and 30 BB pairs. Perfect ordering is shown in Fig. 10.4b; all nearest-neighbor pairs are AB, and no AA or BB pairs exist. The arrangement in Fig. 10.4c has directional order in the vertical direction. It has the same 28 AA pairs as Fig. 10.4a, but in Fig. 10.4c 20 of these have vertical axes and only eight have horizontal axes. The same kind of preferred orientation is shown by BB pairs; 19 are vertical and nine horizontal.
 
-![](/content/images/page_349_chart_2.jpg)
+![](images/page_349_chart_2.jpg)
 
 Intrinsic induction, B – H (gauss)
 
@@ -6938,7 +6938,7 @@ Note that directional order can be achieved in a solid solution which is perfect
 
 How does directional order create magnetic anisotropy? The basic hypothesis of the theory is that there is a magnetic interaction between the axis of like-atom pairs and the direction of the local magnetization such that the two tend to be parallel. (The exact physical nature of this interaction is not specified; presumably it is related, like magnetocrystalline anisotropy, to spin – orbit coupling.) Thus, if a saturating field is applied at a high temperature, the magnetization will be everywhere in one direction and diffusion will occur until there is a preferred orientation of like-atom pairs parallel to the magnetization and the field. On cooling to room temperature, this directional order will be frozen in; the domains that form when the annealing field is removed will then have their local magnetization bound to the axis of the directional order. The anisotropy energy, for random polycrystals, is then of the same form as for other uniaxial anisotropies:
 
-![](/content/images/page_350_image_2.jpg)
+![](images/page_350_image_2.jpg)
 
 Fig. 10.4 Possible atom arrangements in a square lattice.
 
@@ -6950,7 +6950,7 @@ where $K_{u}$ is the anisotropy constant and $\theta$ is the angle between the d
 
 The value of $K_{u}$ for polycrystals may be determined by measuring the area between magnetization curves measured in the easy and hard directions, or by the analysis of torque curves, if due allowance is made for the possible contribution of preferred orientation to the observed anisotropy. For single crystals, $K_{u}$ may be found from torque curves, if these are Fourier analysed to separate the field-induced anisotropy from the crystal anisotropy. The values of $K_{u}$ so found are not particularly large. They are typically of the order of a few thousand ergs/cm³ or a few hundred $\mathrm{J / m^3}$ , or no more than 10% of the magnetocrystalline anisotropy energy. The variation of $K_{\mathrm{u}}$ with composition and heat treatment is qualitatively what would be expected from the theory.
 
-![](/content/images/page_351_chart_2.jpg)
+![](images/page_351_chart_2.jpg)
 
 Fig. 10.5 Uniaxial anisotropy constant $K_{u}$ of polycrystalline Ni –Fe alloys, cooled in a field from 600 to $80^{\circ}\mathrm{C}$ at $10^{\circ}\mathrm{C / h}$ . [S. Chikazumi and T. Oomura, J. Phys. Soc. Japan, 10 (1955) p. 842.]
 
@@ -6958,7 +6958,7 @@ Fig. 10.5 Uniaxial anisotropy constant $K_{u}$ of polycrystalline Ni –Fe alloy
 
 2. $K_{u}$ is zero if long-range order is fully developed, because all pairs are then unlike-atom pairs and no directional order is possible. This can occur at 75 atom% Ni in the Fe–Ni system (Fig. 10.1), where the $\mathrm{FeNi}_{3}$ superlattice shown in Fig. 10.6 can form below a critical ordering temperature of $503^{\circ}\mathrm{C};$ the nearest neighbors in this structure are the corner atoms and those at the centers of the faces. The reader may then wonder how directional order can be produced at this composition. The reason is that crystallographic long-range ordering of this alloy is very sluggish, requiring some 160 h for completion; field annealing of a random solid solution can produce directional order before much long-range order is established. The fact that many alloys which show magnetic annealing are also capable of long-range ordering is a complication that must be kept in mind in the experimental study of magnetic annealing.
 
-![](/content/images/page_351_image_7.jpg)
+![](images/page_351_image_7.jpg)
 
 Fig. 10.6 The ordered form of FeNi<sub>3</sub>.
 
@@ -6978,11 +6978,11 @@ The effect differs in kind for $90^{\circ}$ and $180^{\circ}$ walls. When a $90^
 
 These considerations explain the constricted or “wasp-waisted” hysteresis loops found in self-magnetically annealed alloys and ferrites. Such a loop was first observed in Perminvar and is sometimes called a “Perminvar loop.” This alloy usually contains 25% Co, 45% Ni, and 30% Fe, but the composition may vary over wide limits. It has the remarkable and useful property of constant permeability (hence its name) and almost zero hysteresis loss at low field strengths, as shown in Fig. 10.8a. As the field is cycled between increasingly larger limits, the B, H line progressively opens up into a loop but with essentially zero remanence and coercive force, as in Fig. 10.8c. The “Perminvar loop” is shown in Fig. 10.8d. Its fundamental characteristic is near-zero remanence. The loop for a sample driven nearly to saturation is shown in Fig. 10.8e; the remanence is no longer near zero, but is still abnormally low. If the alloy is annealed at $600^{\circ}\mathrm{C},$ a temperature too high for directional order to be established, and then quickly cooled, minor hysteresis loops of normal shape are observed at all field strengths.
 
-![](/content/images/page_354_image_2.jpg)
+![](images/page_354_image_2.jpg)
 
 (a)
 
-![](/content/images/page_354_image_4.jpg)
+![](images/page_354_image_4.jpg)
 
 (b)
 
@@ -6990,17 +6990,17 @@ Fig. 10.7 (a) Potential energy $E_{\mathrm{p}}$ as a function of the displacemen
 
 The magnetic behavior shown in Fig. 10.8 can be qualitatively understood in terms of the potential wells of Fig. 10.7. There is the added complication that in a real material $90^{\circ}$ and $180^{\circ}$ walls form a complex network, so that one kind of wall cannot move independently of the other. But at sufficiently low fields, neither kind of wall moves out of its potential well, and the reversible behavior of Fig. 10.8a results. Higher fields cause larger wall displacements, some of which are irreversible. However, when the field is reduced to zero, most of the walls return to their original positions, leading to the abnormally low remanence characteristic of the Perminvar loop in Fig. 10.8d. It will be noted in Fig. 10.8d that the permeability is small up to a field of about 3 Oe and then more or less abruptly becomes larger. This is the critical field (often called the stabilization field) required to move $180^{\circ}$ walls out of their potential wells; after they are out, subsequent motion becomes much easier and the permeability increases. Finally, if the material is driven to near saturation, as in Fig. 10.8e, the original domain structure is destroyed. Then when the field is reduced to zero, a new domain structure forms with many walls in positions unrelated to the existing potential wells. The hysteresis loop then approaches a normal shape, but with an abnormally low remanence because some domain walls (presumably mostly $90^{\circ}$ walls) have returned to their original positions.
 
-![](/content/images/page_355_chart_2.jpg)
+![](images/page_355_chart_2.jpg)
 
-![](/content/images/page_355_chart_3.jpg)
+![](images/page_355_chart_3.jpg)
 
-![](/content/images/page_355_chart_4.jpg)
+![](images/page_355_chart_4.jpg)
 
-![](/content/images/page_355_chart_5.jpg)
+![](images/page_355_chart_5.jpg)
 
 H (Oe)
 
-![](/content/images/page_355_chart_7.jpg)
+![](images/page_355_chart_7.jpg)
 
 Fig. 10.8 Hysteresis loops of Perminvar annealed at $425^{\circ}\mathrm{C}$ [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
@@ -7012,7 +7012,7 @@ The solubility of C or N in iron is so low that not more than one of these avail
 
 For experimental purposes it may be necessary to control the amount of C and N in solution. This is done by heat treatment in an appropriate gaseous atmosphere. Both C and N can be removed from iron by annealing for several hours at $800^{\circ}\mathrm{C}$ in hydrogen containing a small amount of water vapor. These interstitials can then be added in controlled amounts by heating the iron at $725^{\circ}\mathrm{C}$ in a mixture of hydrogen and a carbonbearing gas like carbon monoxide or methane (to add C) or in a mixture of hydrogen and ammonia (to add N). The amount introduced at high temperature can be retained in solution at room temperature by quenching.
 
-![](/content/images/page_356_image_2.jpg)
+![](images/page_356_image_2.jpg)
 
 Fig. 10.9 Positions of carbon or nitrogen atoms in the unit cell of iron.
 
@@ -7020,9 +7020,9 @@ In paramagnetic a-iron, the x, y, and z sites are crystallographically equivalen
 
 This result was unexpected. Because each domain in iron is spontaneously elongated parallel to $M_{s}$ , and contracted at right angles, there should be more room for a C atom in an x site than in a y or z site in a domain that is magnetized in the [100] or X direction. The converse is true. This result can be understood in a general way by assuming that the electron cloud around an iron atom is elongated parallel to the spontaneous magnetization, as indicated in Fig. 10.11. This assumption explains both the positive value of $\lambda_{100}$ and the greater amount of room for C atoms in y or z sites when $M_{\mathrm{s}}$ is parallel to X.
 
-![](/content/images/page_357_image_2.jpg)
+![](images/page_357_image_2.jpg)
 
-![](/content/images/page_357_image_3.jpg)
+![](images/page_357_image_3.jpg)
 
 (b)
 
@@ -7030,7 +7030,7 @@ Fig. 10.10 Experiment to determine the preferred interstitial sites in iron. [Af
 
 There is no direct evidence to support the assumption that like-atom pairs in a substitutional solid solution have their axes parallel to the local direction of $M_{\mathrm{s}}$ The other possibility is that these pair axes lie in a plane normal to $M_{\mathrm{s}}$ which would make the axes of unlike-atom pairs preferentially parallel to $M_{\mathrm{s}}$ An experiment on substitutional alloys to decide between these possibilities, analogous to the experiment of DeVries et al., has not yet been done.
 
-![](/content/images/page_357_image_8.jpg)
+![](images/page_357_image_8.jpg)
 
 Fig. 10.11 Relation of interstitial sites x, y, z to iron atoms elongated in the magnetization direction.
 
@@ -7062,7 +7062,7 @@ A uniaxial anisotropy can be induced in certain substitutional alloys simply by 
 
 The anisotropy induced by plastic deformation has been explained by in terms of directional order; the theory is summarized by Chikazumi [Physics of Ferromagnetism, Oxford University Press (1997)], who has done much of the basic work in this field. This directional order is created not by diffusion, as in magnetic annealing, but by slip.
 
-![](/content/images/page_360_chart_2.jpg)
+![](images/page_360_chart_2.jpg)
 
 Fig. 10.12 Uniaxial anisotropy constant $K_{u}$ of rolled polycrystalline Ni –Fe alloys. (a) Randomly oriented grains rolled to 33% reduction in thickness. (b) Cube-texture material rolled to 55% reduction. [After G. W. Rathenau and J. L. Snoek, Physica, 8 (1941) p. 555.]
 
@@ -7070,7 +7070,7 @@ How this can occur is shown in Fig. 10.13 for a perfectly ordered superlattice l
 
 A further complication is that an ordered crystal is never completely ordered throughout its volume, but is made up of a number of “antiphase” regions. In order – disorder language, these are called domains, but the word “region” will be substituted here to avoid confusion with magnetic domains. The crystal structure is out of step at the boundaries of these regions, and only within them is the order perfect. When the slip distance is large enough to bring a substantial portion of one antiphase region into contact with another across the slip plane, new orientations of like-atom pairs become possible. In this way slip on the (111) plane, for example, can create BB pairs not only in the [011] direction shown in Fig. 10.13 but also in [110] and [101]. The same result is expected when only short-range order exists. The various orientations of like-atom-pair axes in the deformed crystal then combine to give a single easy axis for the whole specimen.
 
-![](/content/images/page_361_image_2.jpg)
+![](images/page_361_image_2.jpg)
 
 Fig. 10.13 Formation of AA and BB pairs by slip in an $A_{3}B$ superlattice. [S. Chikazumi, Physics of Magnetism, Oxford University Press (1997).]
 
@@ -7090,7 +7090,7 @@ Krause and Cullity [R. F. Krause and B. D. Cullity, J. Appl. Phys., 39 (1968) p.
 
 If the strip is now stretched a few percent, the torque curve is radically changed. The maxima are now some ten times higher and occur at different values of $\theta$. A fairly strong uniaxial anisotropy has been created, with the easy axis parallel to the direction of elongation. Compression has the reverse effect; the anisotropy is again uniaxial, but the easy axis is at $90^{\circ}$ to the direction of compression. This anisotropy is also governed by Equation 10.1, where $\theta$ is the angle between the magnetization and the deformation axis (tensile or compressive). Fourier analysis of the torque curves for deformed specimens permits the separation of the uniaxial anisotropy caused by deformation from the weak biaxial anisotropy caused by texture. The value of $K_{u}$ was found to increase rapidly with tensile strain up to a maximum of 2700 ergs/cm³ (27 kJ/m³) at 2.5% strain; it then decreased slowly with further deformation. After 2.5% compression, $K_{u}$ was $-2400 \mathrm{ergs} / \mathrm{cm}^{3} (-24 \mathrm{kJ} / \mathrm{m}^{3})$
 
-![](/content/images/page_363_chart_2.jpg)
+![](images/page_363_chart_2.jpg)
 
 Fig. 10.14 Torque curves for annealed nickel and for nickel after plastic tension and compression of 2.5%. [After R. F. Krause and B. D. Cullity, J. Appl. Phys., 39 (1968) p. 5532.]
 
@@ -7134,13 +7134,13 @@ $$
 E = K _ {1} \sin^ {2} \theta + K _ {2} \sin^ {4} \theta ,\tag{10.5}
 $$
 
-![](/content/images/page_365_image_7.jpg)
+![](images/page_365_image_7.jpg)
 
 Fig. 10.15 Ordered FeNi, which has the same structure as ordered AuCu.
 
 where $K_{1}$ and $K_{2}$ are equal to $3.2\times10^{6}$ and $2.3 \times 10^{6} \mathrm{ergs/cm}^{3} (32 \times 10^{6}$ and $23 \times 10^{6} \mathrm{~J/m}^{3}$) respectively, and $\theta$ is the angle between the magnetization and [100]. X-ray diffraction showed that the face-centered-cubic random solid solution had undergone long-range ordering by changing to the “AuCu structure” shown in Fig. 10.15. This structure consists of alternate layers of iron and nickel atoms, parallel to (001). The unit cell is very slightly tetragonal, with the c axis normal to the layers. Moreover, the FeNi “crystal” was found to have changed into three sets of crystallites, with their c-axes distributed among the three cube axes of the original crystal. This distribution is not uniform, however; 60% of the crystallites had their c axes parallel to [100], the direction of the field during treatment, 20% along [010], and 20% along [001], where these directions refer to the original cubic crystal. The function of the field is to promote the formation of one of the three kinds of crystallites and thus create a uniaxial anisotropy, while the function of the thermal energy and neutron kinetic energy is to cause long-range ordering to take place rapidly.
 
-![](/content/images/page_366_chart_3.jpg)
+![](images/page_366_chart_3.jpg)
 
 Fig. 10.16 Comparison of anisotropy strengths.
 
@@ -7190,7 +7190,7 @@ The mechanism by which the magnetization of a particle reverses is different in 
 
 1. Multidomain. Magnetization changes by domain wall motion (Section 11.5). For some, but not all, materials the size dependence of the coercivity is experimentally
 
-![](/content/images/page_370_chart_2.jpg)
+![](images/page_370_chart_2.jpg)
 
 Fig. 11.1 Variation of coercivity with particle size, for particles whose coercivity depends on crystal anisotropy. [F. E. Luborsky, J. Appl. Phys., 32 (1961) p. 171S.]
 
@@ -7204,7 +7204,7 @@ where a and b are constants. This relation has no theoretical foundation.
 
 2. Single-domain. Below a critical diameter $D_{s}$ the particles become single domains, and in this size range the coercivity reaches a maximum. (The quantity $D_{s}$ is equivalent to $L_{c}$ of Chapter 9.) Particles of size $D_{s}$ and smaller change their magnetization by spin rotation, but more than one mechanism of rotation can be involved (Section 11.4).
 
-![](/content/images/page_370_chart_8.jpg)
+![](images/page_370_chart_8.jpg)
 
 Fig. 11.2 Variation of intrinsic coercivity $H_{\mathrm{ci}}$ with particle diameter D (schematic).
 
@@ -7230,17 +7230,17 @@ where $H_{\mathrm{ci}}(0)$ is the coercivity of an isolated particle $(p = 0)$ .
 
 The nature of the particle-interaction problem is indicated in Fig. 11.4, for elongated single-domain particles. In (a), part of the external field of particle A is sketched, and this field is seen to act in the +z direction on particle B below it, but in the 2z direction on particle C beside it. Thus the “interaction field” depends not only on the separation of the two particles but also on their positions relative to the magnetization direction of the particle considered as the source of the field. Suppose the $M_{\mathrm{s}}$ vectors of these particles had all been turned upward by a strong field in the +z direction. This field is then reduced to zero and increased in the 2z direction. The field of A at C now aids the applied field, and C would reverse its magnetization at a lower applied field than if A were absent; the coercivity would therefore be lowered. The opposite conclusion would be reached if we considered only the pair of A and B particles. In either case we have a relatively easy two-body problem to deal with. A quantitative study of the interactions of three particles is very difficult, and the exact solution of the many-body problem represented by Fig. 11.4b, a cylindrical compact of a large number of particles, is virtually impossible. If a reversing field $H_{\mathrm{a}}$ is applied in the -z direction, what is the true field acting on the shaded particle in the interior of the compact? Note that it is not enough to correct $H_{\mathrm{a}}$ for the demagnetizing field of the whole compact. In order to compute the coercivity we would have to know, in addition, the field at the interior particle due to all the other particles, both at the start of and during the reversal. As p increases, the particles come closer together, the interactions become stronger, and the coercivity continues to decrease. Finally, at $p = 1$ , all particles are everywhere in contact, shape anisotropy is lost, and the coercivity becomes zero, if other forms of anisotropy are absent.
 
-![](/content/images/page_372_chart_2.jpg)
+![](images/page_372_chart_2.jpg)
 
 Fig. 11.3 Variation of $H_{\mathrm{ci}}$ with p for elongated Fe–Co particles. [After F. E. Luborsky J. Appl. Phys., 32 (1961) p. 171S.]
 
 On the other hand, when magnetocrystalline anisotropy prevails, the coercivity is expected to be independent of p, and this view is supported by experiment. This kind of anisotropy is due to forces (spin-orbit coupling) which are “internal” to the particle and not, like shape anisotropy, to magnetostatic fields external to the particle. At any value of p, including unity, the crystal anisotropy forces remain constant. However, at $p = 1$ individual particles no longer exist. They become grains or crystallites in a polycrystalline material, and their magnetic behavior will depend the coupling between them. This topic will be considered further in Chapter 14.
 
-![](/content/images/page_372_image_6.jpg)
+![](images/page_372_image_6.jpg)
 
 (a)
 
-![](/content/images/page_372_image_8.jpg)
+![](images/page_372_image_8.jpg)
 
 (b)
 
@@ -7268,21 +7268,21 @@ where $N_{a}$ is the demagnetizing factor along the short axis and $N_{c}$ along
 
 This mode was suggested by the shape of the electrodeposited iron particles observed with the electron microscope. Figure 11.5a shows that these particles have a kind of “peanut shape,” characterized by periodic bulges rather than smooth sides. This suggests that they can be approximated by the “chain of spheres” model shown at A and B of Fig. 11.5b for two-sphere chains. I. S. Jacobs and C. P. Bean [Phys. Rev., 100 (1955)
 
-![](/content/images/page_374_image_2.jpg)
+![](images/page_374_image_2.jpg)
 
 (a)
 
-![](/content/images/page_374_image_4.jpg)
+![](images/page_374_image_4.jpg)
 
 (c)
 
-![](/content/images/page_374_image_6.jpg)
+![](images/page_374_image_6.jpg)
 
 Fanning
 
-![](/content/images/page_374_image_8.jpg)
+![](images/page_374_image_8.jpg)
 
-![](/content/images/page_374_image_9.jpg)
+![](images/page_374_image_9.jpg)
 
 (b)
 
@@ -7342,11 +7342,11 @@ or three times as large as $H_{\mathrm{ci}}$ for fanning. The easier reversal fo
 
 Jacobs and Bean also computed the coercivity for linear chains longer than $n = 2$ , where n is the number of spheres in the chain, both for chains aligned with the field and for chains randomly oriented. Similar calculations were made for reversal mechanism C, where n is now the axial ratio of the prolate spheroid, by means of Equation 11.4. The results, for chains aligned with the field, are shown in Fig. 11.7 both in terms of the intrinsic coercivity
 
-![](/content/images/page_376_image_2.jpg)
+![](images/page_376_image_2.jpg)
 
 Fig. 11.6 External fields of spheres reversing by fanning and by coherent rotation.
 
-![](/content/images/page_376_chart_4.jpg)
+![](images/page_376_chart_4.jpg)
 
 Fig. 11.7 Calculated coercivities for aligned n-sphere chains (A and B) and prolate spheroids of axial ratio n (C). The observed values are for elongated iron particles. [F. E. Luborsky, J. Appl. Phys., 32 (1961) p. 171S.]
 
@@ -7370,21 +7370,21 @@ $$
 D _ {0} = \frac {2 A ^ {1 / 2}}{M _ {\mathrm{s}}},\tag{11.12}
 $$
 
-![](/content/images/page_378_image_2.jpg)
+![](images/page_378_image_2.jpg)
 
-![](/content/images/page_378_image_3.jpg)
+![](images/page_378_image_3.jpg)
 
 (a)
 
-![](/content/images/page_378_image_5.jpg)
+![](images/page_378_image_5.jpg)
 
 (c)
 
-![](/content/images/page_378_image_7.jpg)
+![](images/page_378_image_7.jpg)
 
 Curling
 
-![](/content/images/page_378_image_9.jpg)
+![](images/page_378_image_9.jpg)
 
 (d)
 
@@ -7426,7 +7426,7 @@ This equation is valid only for $D / D_{0}$ values greater than 1.44. The inequa
 
 Figure 11.9 shows, for the infinite cylinder, the size dependence of $h_{ci}$ for curling and the size independence for coherent rotation. The particle will reverse by the mechanism which has the lower coercivity. Thus below a critical diameter $D = (1.08)^{1 / 2}D_{0} = 1.04D_{0}$ coherent rotation is favored, while larger particles will reverse by curling. If Fig. 11.9 is replotted for a finite value of c/a (prolate spheroid), both curves will move to lower $h_{\mathrm{ci}}$ values and their intersection to larger $D / D_{0}$ values. For a sphere, the critical diameter separating the two modes of reversal is 1.44 $D_{0}$ In Fig. 11.10 the theoretical curves for the infinite cylinder are plotted in a different way; the scales are now linear, rather than logarithmic, and the contribution of crystal anisotropy, which is the same for either reversal mode, is included. The easy crystal axis is assumed to be parallel to the cylinder axis.
 
-![](/content/images/page_379_chart_9.jpg)
+![](images/page_379_chart_9.jpg)
 
 Fig. 11.9 Calculated reduced coercivities for coherent and curling reversals in an infinite cylinder, and for fanning reversal in an infinite chain of spheres, as a function of the reduced diameter $D / D_0.$ Crystal anisotropy is neglected. The observed values are for elongated iron particles. [F. E. Luborsky, J. Appl. Phys., 32 (1961) p. 171S.]
 
@@ -7436,7 +7436,7 @@ It has also been suggested that particles with large values of c/a might reverse
 
 The main conclusion of the theory, then, is that small particles will reverse coherently and large particles by curling. The main reason is the rapid increase of magnetostatic energy with particle size for coherent rotation, because this energy is directly proportional to particle volume. But so is the potential energy available from the reversing field, and the result is that the coercivity is independent of particle size. In a curling reversal, on the other hand, the mean angle between adjacent spins, averaged over the cross section of the particle (Fig. 11.8b), is less, and the exchange energy per unit volume is smaller, the larger the diameter of the particle. The total exchange energy during reversal therefore increases with particle volume at a less than linear rate, with the result that the coercivity decreases as particle diameter increases. Large particles can therefore reverse by curling, which involves exchange energy but complete flux closure and no magnetostatic energy during reversal (infinite cylinder) or partial flux closure and low magnetostatic energy (prolate spheroid or sphere). In very small particles, the magnetostatic energy required for coherent reversal is less than the exchange energy required for curling, so that coherent reversal is preferred.
 
-![](/content/images/page_380_chart_6.jpg)
+![](images/page_380_chart_6.jpg)
 
 Fig. 11.10 Calculated coercivities, with the effect of crystal anisotropy included, for coherent and curling reversals in an infinite cylinder as a function of the reduced diameter $D / D_0.$ [After W. F. Brown, Magnetostatic Principles in Ferromagnetism, North Holland (1962).]
 
@@ -7496,13 +7496,13 @@ It would not be surprising to find this value approached in single-domain partic
 
 What is the mechanism of magnetization reversal in particles larger than $D_{s}$ i.e., in particles large enough to contain domain walls? It cannot be coherent rotation, because the observed coercivities are much less than $2\mathrm{i}/M_{\mathrm{s}}$ . The only other alternative is that one or more domain walls are nucleated in the particle; the wall then moves through the particle and reverses its magnetization. We may consider this wall nucleation process in some detail, with reference to the perfect spheroidal crystal mentioned earlier, now assumed to be larger than $D_{\mathrm{s}}$ . When saturated in the +z direction, it is a single domain with all spins parallel. When a reversing field H acts in the -z direction, wall formation presumably begins at the surface, say at the point B of Fig. 11.11a. The spins along a line AB intersecting the surface are shown in Fig. 11.11b, with the spin on the surface atom rotated $45^{\circ}$ out of the xz plane by the field. This rotation tends to rotate the spin on the next atom, because of exchange coupling, and Fig. 11.11c –e shows successive steps in the rotation. In Fig. 11.11e a complete wall, assumed for simplicity to be only four atoms thick, has been formed. In Fig. 11.11f the wall has moved inward, producing a new domain 2 magnetized antiparallel to the original domain 1. Because the crystal has been assumed perfect, there are no hindrances to the motion of the newly formed wall; under pressure of the nucleating field, it flashes across the crystal in a single Barkhausen jump, and the magnetization reversal is completed. (The just-nucleated wall will move entirely across the crystal only if the applied field exceeds the demagnetizing field. See the discussion of Fig. 11.16.) The hysteresis loop is rectangular, just as it would be if all the spins reversed coherently. But this whole process of wall nucleation and wall motion has its beginnings in spin rotation, on a few atoms at the surface, against the crystal anisotropy forces, and this requires a field equal to $2K/M_{s}$
 
-![](/content/images/page_384_image_2.jpg)
+![](images/page_384_image_2.jpg)
 
 (a)
 
-![](/content/images/page_384_image_4.jpg)
+![](images/page_384_image_4.jpg)
 
-![](/content/images/page_384_image_5.jpg)
+![](images/page_384_image_5.jpg)
 
 Fig. 11.11 Domain wall nucleation at a crystal surface. Only the projections of the spins on the xz plane are shown.
 
@@ -7540,11 +7540,11 @@ The applied field required may be much less than expected if (a) $H_{\mathrm{d}}
 
 Of these several possibilities, local variations in the demagnetizing field $H_{\mathrm{d}}$ are usually assumed to be the most likely nucleators of domain walls. Among surface imperfections, pits are no help at all. As shown in Fig. 11.12a, the field at the base of the pit, due to the poles on the pit walls, acts to increase the magnetization at the base of the pit and to counteract the field $H_{\mathrm{a}}$ which is acting to reverse the magnetization. On the other hand, a surface bump, shown in Fig. 11.12b, produces local fields which act to demagnetize the particle and aid $H_{a}$
 
-![](/content/images/page_386_image_2.jpg)
+![](images/page_386_image_2.jpg)
 
 (a)
 
-![](/content/images/page_386_image_4.jpg)
+![](images/page_386_image_4.jpg)
 
 (b)
 
@@ -7554,11 +7554,11 @@ The magnetostatic energy associated with these local fields may be so large that
 
 These considerations suggest that small domains of reversed magnetization may always be present near imperfections, even in specimens nominally “saturated.” It is difficult to determine experimentally the difference between $M=M_{s}$ and $M = 0.995M_{\mathrm{s}},$ so that reverse domains occupying a volume fraction of the order of a few tenths of a percent can easily remain undetected in a measurement of magnetization. If so, then magnetization reversal becomes a question, not of nucleating walls, but of freeing or “unpinning” walls that already exist.
 
-![](/content/images/page_386_image_9.jpg)
+![](images/page_386_image_9.jpg)
 
 (a)
 
-![](/content/images/page_386_image_11.jpg)
+![](images/page_386_image_11.jpg)
 
 (b)
 
@@ -7566,11 +7566,11 @@ Fig. 11.13 Closure domains near bumps and sharp corners.
 
 The role of imperfections in nucleating magnetization reversals was nicely demonstrated by experiments of R. W. DeBlois and C. P. Bean [J. Appl. Phys., 30 (1959) p. 225S] on single whiskers of iron. These whiskers were about 1 cm long, from 1 to 20 mm thick, and had <100> axes. Each whisker was enclosed for protection in a quartz capillary which was then inserted in a tiny solenoid, scarcely longer than 1 cm, as shown in Fig. 11.14a. An isolated whisker appears just above the solenoid, and the bits of graph paper with 1-mm squares give the scale. An even shorter reversing coil, 13 turns and 0.8 mm long, was wound on the center of the solenoid. The whisker is initially saturated in one direction by applying a 50-Oe pulse with the solenoid; it remains saturated in that direction after the field has returned to zero. A large pulse field is then applied in the opposite direction with the short central coil. If the region of the whisker inside this coil reverses its magnetization, an emf will be induced in the solenoid and can be detected with an oscilloscope. If no reversal is observed, the magnitude of the reverse pulse field is increased until one is observed. The capillary and whisker is then moved a short distance in the solenoid to place another portion of the whisker in the central coil. An example of such measurements along the length of an 8 mm whisker, which varies in thickness from 19 to 1 mm along its length, is shown in Fig. 11.14b. The coercivity is extremely variable along the length, ranging from less than 50 to a maximum of 504 Oe (4-40 kA/m) at a point where the whisker is 12.4 μm thick. Microscopic examination of the whisker showed that visible surface defects corresponded to the positions of the local minima in the nucleating field, but not all field minima had a matching visible surface defect.
 
-![](/content/images/page_387_image_4.jpg)
+![](images/page_387_image_4.jpg)
 
 (a)
 
-![](/content/images/page_387_chart_6.jpg)
+![](images/page_387_chart_6.jpg)
 
 (b)
 
@@ -7590,9 +7590,9 @@ Further evidence of the role of surface imperfections as nucleating points comes
 
 A further effect was uncovered by Becker, who showed that the coercivity of particles increased, not only with increasing surface smoothness, but also with increasing magnitude of the field used to magnetize the particles [J. J. Becker, IEEE Trans. Mag., 5 (1969) p. 211]. Now a dependence of the coercive field, as defined in Section 1.8, on the maximum magnetizing field $H_{\mathrm{m}}$ is quite normal, because the coercive field is the reverse field required to reduce M or B to zero after the specimen has been partially magnetized in the forward direction. Thus in Fig. 11.15a, an increase in $H_{\mathrm{m}}$ from 1 to 2 increases the intrinsic coercive force $H_{\mathrm{ci}}$ from 1 to 2. But that the coercivity, measured after saturation in the forward direction, should depend on $H_{\mathrm{m}}$ is quite unexpected; whether $H_{\mathrm{m}}$ has the value 3 or 4, the coercivity should have the value 3. Actually, the coercivity is found to increase from 3 to 4 when $H_{\mathrm{m}}$ is increased from 3 to 4. The experimental data are shown in Fig. 11.15b for assemblies of particles of $\mathrm{SmCo}_{5}$ in various size ranges. The easy axes of these particles (the c-axes of their hexagonal unit cells) were aligned with the field, and saturation is essentially complete for fields of 10 kOe and above. Yet substantial increases in $H_{\mathrm{ci}}$ are observed, even for changes in $H_{\mathrm{m}}$ beyond 20 kOe. If coercivity is defined as the limiting value of the coercive field as $H_{\mathrm{m}}$ is increased, then the quantity plotted in Fig. 11.15b is coercive field, and the fields $H_{\mathrm{m}}$ are not really saturating the material. The retentivity $M_{r}$ also increases with $H_{\mathrm{m}}$ but the effect is relatively small. Thus, when $H_{\mathrm{ci}}$ doubles in magnitude, the increase in $M_{\mathrm{r}}$ is only about 10%.
 
-![](/content/images/page_389_chart_2.jpg)
+![](images/page_389_chart_2.jpg)
 
-![](/content/images/page_389_chart_3.jpg)
+![](images/page_389_chart_3.jpg)
 
 (b)
 
@@ -7602,11 +7602,11 @@ If the high coercivity of particles such as these is due to the difficulty of fr
 
 Becker has suggested [J. Appl. Phys., 39 (1969) p. 1270] that a single particle can have a number of pinning sites, each characterized by the field $H_{\mathrm{n}}$ necessary to nucleate, or unpin, a domain wall, and that the particular site that operates depends on the value of the pre-viously applied field $H_{\mathrm{m}}$ The predicted behavior of a single particle is shown in Fig. 11.16a where M is plotted against the applied field $H_{a}$ If walls are present and free to move, the hysteresis loop will have a low coercivity $H_{w},$ the wall-motion coercivity. If the interior defect concentration is so low that there is negligible resistance to wall motion, then the loop will have a negligible width and a slope of $1 / N_{\mathrm{d}}$ , where $N_{d}$ is the demagnetizing factor of the particle. Saturation is achieved at $H_{a}=H_{d}$ . If the field is increased to $H_{\mathrm{m}}$ , walls are pinned so strongly that nucleating fields $H_{n}$ , which depend on $H_{\mathrm{m}}$ are needed to cause reverse wall motion. If a wall nucleates at $H_{\mathrm{n1}}$ , it would immediately move until M drops to the upper branch of the wall-motion hysteresis loop, which would then describe the magnetization as $H_{\mathrm{a}}$ was further decreased. If a wall did not nucleate until $H_{\mathrm{n2}}$ , this field would also be the coercivity. If the wall nucleated at $H_{\mathrm{n3}}$ , the loop would be square.
 
-![](/content/images/page_390_image_4.jpg)
+![](images/page_390_image_4.jpg)
 
 (a)
 
-![](/content/images/page_390_image_6.jpg)
+![](images/page_390_image_6.jpg)
 
 (b)
 
@@ -7628,7 +7628,7 @@ As mentioned in Section 11.3, the coercivity of an assembly of multidomain parti
 
 If the particles are large, the probability that a particular particle has a strong defect is high, because of the large surface area per particle. That particle will therefore reverse at a low $H_{n}$ . The particle can be expected to have strong defects with a range of strengths, but the strongest defect present determines the reversing field $H_{\mathrm{n}}$ Moreover, the reversal of a large particle will cause a relatively large change in the magnetization M of the assembly of particles. For example, if there are only eight particles, the reversal of one of them would cause M to decrease from $M_{\mathrm{s}}$ to $3/4M_{s}$ as in Fig. 11.17a. The coercivity $H_{\mathrm{ci}}$ of the assembly (the field required to reverse half the particles) is expected to be low because of the high probability that many particles will contain strong defects. Small particles, on the other hand, each have a small surface area and therefore fewer defects. The range of probable $H_{\mathrm{n}}$ values per particle is thus more restricted; some particles will contain only weak defects and some only strong ones. The demagnetization curve is therefore expected to resemble Fig. 11.17b, with a large coercivity.
 
-![](/content/images/page_392_image_2.jpg)
+![](images/page_392_image_2.jpg)
 
 Fig. 11.17 Demagnetization curves of assemblies of particles.
 
@@ -7664,11 +7664,11 @@ $$
 
 Here the proportionality constant $f_{0}$ is called the frequency factor and has a value of about $10^{9}\sec^{-1}$ . This value is only slightly field dependent and can be taken as constant. The constant $\tau$ is called the relaxation time. (For spherical particles with cubic anisotropy the energy barrier is not KV but $\frac{1}{4} KV$ if K is positive with <100> easy directions, or $\frac{1}{12} KV$ if $K$ is negative with <111> easy directions.) To find how the remanence $M_{r}$ decreases with time we rearrange the terms of Equation 11.24 and integrate:
 
-![](/content/images/page_394_image_2.jpg)
+![](images/page_394_image_2.jpg)
 
 (a)
 
-![](/content/images/page_394_image_4.jpg)
+![](images/page_394_image_4.jpg)
 
 (b)
 
@@ -7718,7 +7718,7 @@ The iron particles of Fig. 11.18 must have a blocking temperature between 77 and
 
 Figure 11.19 summarizes some of these relations for spherical cobalt particles. The variation of $D_{\mathrm{p}}$ with temperature shows that $20^{\circ}\mathrm{C}$ is the blocking temperature for particles 76 Å in diameter; above this temperature particles of this size have enough thermal energy to be superparamagnetic, while below this temperature they are stable and show hysteresis. The other curve shows how the relaxation time of 76 $\text{Å}$ particles varies with temperature; at $20^{\circ}\mathrm{C}\tau$ is 100 sec.
 
-![](/content/images/page_396_chart_2.jpg)
+![](images/page_396_chart_2.jpg)
 
 Fig. 11.19 Temperature dependence of the relaxation time $\tau$ for spherical cobalt particles 76 Å in diameter and of the critical diameter $D_{\mathrm{p}}$ of spherical cobalt particles.
 
@@ -7768,7 +7768,7 @@ $$
 \ln \left(\frac {M _ {\mathrm{r}}}{M _ {\mathrm{i}}}\right) = - \frac {t}{\tau} = - 1 0 ^ {9} t \mathrm{e} ^ {- K \mathrm{V} / k T}.\tag{11.38}
 $$
 
-![](/content/images/page_398_chart_2.jpg)
+![](images/page_398_chart_2.jpg)
 
 Fig. 11.20 Particle size dependence of the coercivity (lower curve) and retentivity (upper curve) of a Co –Fe alloy. Solid lines are calculated. [E. F. Kneller and F. E. Luborsky, J. Appl. Phys., 34 (1963) p. 656.]
 
@@ -7780,7 +7780,7 @@ $$
 
 The variation of $M_{\mathrm{r}} / M_{\mathrm{i}}$ with $V / V_{\mathrm{p}},$ or $D / D_{\mathrm{p}},$ predicted by this equation, is extremely rapid, as illustrated by Problem 11.7. It is plotted as the upper curve of Fig. 11.20, and its slope is so large that it appears vertical. The experimental retentivities do not agree with theory as well as the coercivities, because the retentivities, which vary so rapidly with size, are more sensitive to the presence of a distribution of sizes. When particles of size $V_{p}$ are cooled below $T_{\mathrm{B}}$ , the retentivity rises very rapidly to its maximum value.
 
-![](/content/images/page_399_chart_2.jpg)
+![](images/page_399_chart_2.jpg)
 
 Fig. 11.21 Theoretical temperature dependence of the coercivity of single-domain fine particles. $T_{\mathrm{B}} =$ blocking temperature.
 
@@ -7794,7 +7794,7 @@ An alloy of copper with 2 wt% cobalt has received the most attention. The Cu –
 
 Magnetization curves measured after aging up to 100 min at $650^{\circ}\mathrm{C}$ had the typical superparamagnetic shape, with zero coercivity. The size of the precipitate particles was determined from the initial susceptibility x of the alloy and its saturation magnetization $M_{\mathrm{sa}}$ The Langevin law will apply either for particles with no anisotropy or for a random distribution of particles with uniaxial anisotropy. The initial susceptibility will therefore be given by Equation 3.15:
 
-![](/content/images/page_400_chart_2.jpg)
+![](images/page_400_chart_2.jpg)
 
 Fig. 11.22 Copper–cobalt equilibrium diagram (ASM Handbook).
 
@@ -7816,7 +7816,7 @@ The value of $M_{\mathrm{s}}$ in this equation was taken as the value for pure c
 
 The observed value of the saturation magnetization $M_{\mathrm{sa}}$ of the alloy disclosed the amount of the magnetic phase present, independent of its particle size. The upper curve of Fig. 11.23 therefore shows that precipitation of β is essentially complete in only 3 min at $650^{\circ}\mathrm{C}$ . Thereafter, the changes that occur in the alloy consist solely of an increase in particle size and a decrease in the number of particles, with a nearly constant total volume of precipitate. This process, called coarsening or ripening, occurs by the dissolving into solid solution of some particles and the growth of others, in order to decrease the total surface energy of the precipitate. This kind of behavior, initial rapid nucleation followed by a decrease in the nucleation rate to zero, is typical of precipitation from a supersaturated solid solution and is technically known as continuous precipitation. The cobalt-rich precipitate particles are believed to have the fcc crystal structure, rather than hcp, and to owe their uniaxial nature to shape anisotropy. If the particles are actually egg-shaped, then the radius R shown in Fig. 11.23 is an average radius.
 
-![](/content/images/page_401_chart_6.jpg)
+![](images/page_401_chart_6.jpg)
 
 Fig. 11.23 Effect of aging at $650^{\circ}\mathrm{C}$ on the saturation magnetization $M_{\mathrm{sa}}$ of a Cu –Co alloy and on the effective radius R of the precipitate particles. [J. J. Becker, Trans. AIME, 209 (1957) p. 59.]
 
@@ -7826,7 +7826,7 @@ Fine magnetic particles dispersed in a nonmagnetic matrix also exist in many kin
 
 In the copper–cobalt alloy cited in this section and in most rocks, the magnetic particles responsible for the superparamagnetic behavior of the material are discrete particles of a second phase. This condition is not essential, because a single-phase solid solution can also be superparamagnetic if it has local inhomogeneities of the right kind. For example, in a solid solution containing 90 mol% Zn ferrite and 10% Ni ferrite, there may be small clusters containing more than the average number of magnetic ions (Fe and Ni), surrounded by nonmagnetic ions (Zn). These magnetic clusters within the solid solution then act superparamagnetically.
 
-![](/content/images/page_402_chart_6.jpg)
+![](images/page_402_chart_6.jpg)
 
 Fig. 11.24 Effect of aging at $700^{\circ}\mathrm{C}$ on the coercivity $H_{\mathrm{ci}}$ of a Cu – Co alloy. [J. J. Becker, Trans. AIME, 209 (1957) p. 59.]
 
@@ -7836,11 +7836,11 @@ Another interesting small-particle effect was discovered in 1956 by W. H. Meikle
 
 These two features of exchange anisotropy, a shifted loop and high-field rotational hysteresis, have since been found in other materials, including alloys. For example, disordered nickel-manganese alloys at and near the composition $Ni_{3}Mn$ are paramagnetic at room temperature but show exchange anisotropy when field-cooled to low temperatures (Fig. 11.26). The hysteresis loop is then shifted so far that the remanence is positive,
 
-![](/content/images/page_403_image_6.jpg)
+![](images/page_403_image_6.jpg)
 
 Fig. 11.25 Hysteresis loops measured at 77K of oxide-coated cobalt particles. Loop (1) results from cooling in a 10 kOe field in the positive direction, and loop (2) from cooling in zero field. [W. H. Meiklejohn and C. P. Bean, Phys. Rev., 105 (1957) p. 904.]
 
-![](/content/images/page_404_image_2.jpg)
+![](images/page_404_image_2.jpg)
 
 Fig. 11.26 Hysteresis loops measured at 4.2K of an alloy of Ni + 26.5 atomic percent Mn after cooling with and without a field of 5 kOe in the positive direction. [J. S. Kouvel, C. D. Graham, and I. S. Jacobs, J. Phys. Rad., 20 (1959) p. 198.]
 
@@ -7856,7 +7856,7 @@ where K is the anisotropy constant and $\theta$ is the angle between $M_{\mathrm
 
 The unusual properties of field-cooled Co –CoO particles are due to exchange coupling between the spins of ferromagnetic Co and antiferromagnetic CoO at the interface between them. The Néel temperature $T_{N}$ of CoO is about $20^{\circ}\mathrm{C}$ When a strong field is applied at $20^{\circ}\mathrm{C},$ the cobalt is magnetically saturated but the oxide, being paramagnetic, is little affected. However, the spins of the first layer of Co ions in the oxide are forced to be parallel to the adjoining spins in the metal, because of the positive exchange force between the spins of adjacent cobalt atoms. When the particles are cooled, still in the field, far below $T_{\mathrm{N}}$ the antiferromagnetic ordering that occurs in the oxide will then have to take on the form sketched in Fig. 11.27a. Furthermore, this spin arrangement will persist when the field is removed. If now a strong field is applied in the downward (negative) direction, as in Fig. 11.27b, the spins in the cobalt will reverse, and the exchange coupling at the interface will try to reverse the spin system of the oxide. This rotation is resisted by the strong crystal anisotropy of the antiferromagnet, with the result that only, partial rotation of a few spins near the interface occurs, as indicated. Finally, when the downward field is removed, the “up” spins in the oxide at the interface force the spins in the metal to turn up, restoring the particle to state (a), with a positive retentivity. This ideal behavior is achieved in the observed loop of $\mathrm{Ni}_{3}\mathrm{Mn}$ (Fig. 11.26) but not in the Co –CoO loop (Fig. 11.25).
 
-![](/content/images/page_405_image_3.jpg)
+![](images/page_405_image_3.jpg)
 
 Fig. 11.27 Mechanism of the shifted loop in Co–CoO. Arrows represent spins on cobalt atoms or ions, and open circles are oxygen ions. Points (a) – (c) on the loop correspond to the three states at the left.
 
@@ -7880,11 +7880,11 @@ The structure of thin films is complex and hard to characterize. The grain size 
 
 Directional structures can be produced in a film if the deposition conditions are arranged so that the direction of the incoming atoms makes an angle with respect to the film plane. This directionality may be the result of crystallographic texture in materials with significant crystal anisotropy, or of geometrical structures produced in the film.
 
-![](/content/images/page_407_image_6.jpg)
+![](images/page_407_image_6.jpg)
 
 Fig. 11.28 Thin-film preparation by sputtering.
 
-![](/content/images/page_408_image_2.jpg)
+![](images/page_408_image_2.jpg)
 
 Fig. 11.29 Thin-film preparation by thermal evaporation.
 
@@ -7924,11 +7924,11 @@ $$
 N _ {\mathrm{b}} = C \frac {a}{a + b},\tag{11.46}
 $$
 
-![](/content/images/page_410_image_2.jpg)
+![](images/page_410_image_2.jpg)
 
 (a)
 
-![](/content/images/page_410_image_4.jpg)
+![](images/page_410_image_4.jpg)
 
 (b)
 
@@ -7956,9 +7956,9 @@ $$
 \gamma_ {\mathrm{ms,N}} = \frac {C}{2} \frac {t \delta M _ {\mathrm{s}} ^ {2}}{t + \delta}.\tag{11.49}
 $$
 
-![](/content/images/page_411_image_2.jpg)
+![](images/page_411_image_2.jpg)
 
-![](/content/images/page_411_image_3.jpg)
+![](images/page_411_image_3.jpg)
 
 (b)
 
@@ -7974,15 +7974,15 @@ The magnetostatic energy of a Néel wall is less than that of a Bloch wall when 
 
 The second new kind of wall observed in thin films is the cross-tie wall. It consists of a special kind of Néel wall, crossed at regular intervals by Néel wall segments. As shown in Fig. 11.32, its energy is less than that of a Bloch wall or a Néel wall in a certain range of film thickness; the cross-tie wall therefore constitutes a transition form between the Bloch walls of thick films and the Néel walls of very thin films. Figure 11.33 shows the appearance of a cross-tie wall, and Fig. 11.34b its structure. In Fig. 11.34a a Néel wall is shown, separating two oppositely magnetized domains. It is not a normal Néel wall because it consists of segments of opposite polarity; these have formed in an attempt to mix the north and south poles on the wall surface more intimately and thus reduce magnetostatic energy. The regions within the wall where the polarity changes, marked with small circles, and where the magnetization is normal to the film surface, are called Bloch lines. However, this hypothetical wall would have very large energy, because the fields due to
 
-![](/content/images/page_412_chart_2.jpg)
+![](images/page_412_chart_2.jpg)
 
 Fig. 11.32 Variation of wall energy with film thickness for various kinds of wall in 80 Permalloy, calculated for exchange constant $A = 10 - 6 \, \text{erg/cm}$ , anisotropy constant $K = 1500\mathrm{ergs / cm}^3$ , bulkwall width = 20,000 Å, and bulk-wall $\mathrm{energy} = 0.1 \, \mathrm{erg/cm}^2$ . [M. Prutton, Thin Ferromagnetic Films, Butterworth (1964).]
 
-![](/content/images/page_412_image_4.jpg)
+![](images/page_412_image_4.jpg)
 
 Fig. 11.33 Bitter pattern of a cross-tie wall in an 80 Permalloy film, 300 Å thick. Modified brightfield illumination. [R. M. Moon, J. Appl. Phys., 30 (1959) p. 82S.]
 
-![](/content/images/page_413_image_2.jpg)
+![](images/page_413_image_2.jpg)
 
 (b)
 
@@ -7992,7 +7992,7 @@ the poles on the wall, sometimes called stray fields, are antiparallel to the do
 
 By proper manipulation of a mask during the deposition of an evaporated film, a film can be deposited whose its thickness varies continuously from one end to the other. The Bitter pattern of such a film is shown in Fig. 11.35. At the thin end on the left the walls are of the Néel type, and as the thickness increases, cross-tie and then Bloch walls appear. The film thicknesses at which transitions occur from one type to another are in good agreement with the curves of Fig. 11.32. (Néel walls are more easily visible than Bloch walls, which sometimes appear only as a series of dots. This is due to the different modes of flux closure where each type of wall intersects the film surface. At the edge of a Néel wall the stray fields are parallel to the film surface, and these fields attract chains of colloid particles, transverse to the wall, which close the flux. The stray fields at the edge of a Bloch wall are normal to the film surface, have a larger spatial extent, and attract the colloid less strongly.)
 
-![](/content/images/page_414_image_2.jpg)
+![](images/page_414_image_2.jpg)
 
 Fig. 11.35 Domain walls in a tapered film of 80 permalloy. Easy axis horizontal. Dark-field Bitter pattern. [S. Methfessel et al., J. Appl. Phys., 31 (1960) p. 302S.]
 
@@ -8004,19 +8004,19 @@ If a small reverse field is applied, reverse domains are nucleated at the ends o
 
 When the film is demagnetized by an alternating easy-axis field of decreasing amplitude, the resulting domain structure is shown in Fig. 11.36c. This structure is typical. It consists of elongated domains more or less parallel to the easy axis, bounded by gently curved, rather than straight, $180^{\circ}$ walls. The domain wall thickness is generally larger than the grain size. A film can also be demagnetized by saturating it in a hard direction, in the plane of the film and at right angles to the easy axis, and then removing the saturating field. The film then breaks up into the much narrower domains shown in Fig. 11.36d. The width of these domains varies from about 2 to 50 mm from one film to another.
 
-![](/content/images/page_415_image_2.jpg)
+![](images/page_415_image_2.jpg)
 
 (a)
 
-![](/content/images/page_415_image_4.jpg)
+![](images/page_415_image_4.jpg)
 
 (b)
 
-![](/content/images/page_415_image_6.jpg)
+![](images/page_415_image_6.jpg)
 
 (c)
 
-![](/content/images/page_415_image_8.jpg)
+![](images/page_415_image_8.jpg)
 
 (d)
 
@@ -8024,23 +8024,23 @@ Fig. 11.36 Domains in an 81 permalloy film observed by the Kerr effect. The film
 
 This structure (Fig. 11.36d) is due to anisotropy dispersion. By this is meant a variation, from place to place in the film, of the direction of the easy axis and/or the magnitude of the anisotropy constant, because of inhomogeneities in the structure of the film. As a result the direction of the local magnetization $M_{\mathrm{s}}$ varies slightly from one point to another even within a domain. The nonparallelism of the $M_{s}$ vectors adds exchange energy to the system; in addition, free poles are created within the domain because of the divergence of M (Section 2.6), causing stray fields and magnetostatic energy. In order to minimize this exchange and magnetostatic energy, the $M_{\mathrm{s}}$ direction varies in a wavelike manner, called
 
-![](/content/images/page_416_image_2.jpg)
+![](images/page_416_image_2.jpg)
 
 (a)
 
-![](/content/images/page_416_image_4.jpg)
+![](images/page_416_image_4.jpg)
 
-![](/content/images/page_416_image_5.jpg)
+![](images/page_416_image_5.jpg)
 
 (b)
 
-![](/content/images/page_416_image_7.jpg)
+![](images/page_416_image_7.jpg)
 
 (c)
 
 Fig. 11.37 Domain formation in a thin film after magnetization in a hard direction.
 
-![](/content/images/page_416_image_10.jpg)
+![](images/page_416_image_10.jpg)
 
 Fig. 11.38 Transmission electron micrograph of a cobalt film, 500 Å thick. [Courtesy of E. J. Torok, Sperry Rand Univac Division, St. Paul, Minnesota.]
 
@@ -8086,7 +8086,7 @@ We shall consider mostly the qualitative aspects of eddy currents in this chapte
 
 Suppose a rod of magnetic material is wound with a wire, as in Fig. 12.1, connected by a switch to a dc source. When the switch is suddenly closed, a current $i_{w}$ is established in the wire which creates an applied field $H_{\mathrm{a}}$ along the rod axis and uniform across the rod cross section. This field magnetizes the rod, and the induction B immediately increases from its original value of zero. Therefore, by Faraday’s law, Equation 2.6, an electromotive force e will be induced in the rod proportional to dB/dt.
 
-![](/content/images/page_419_image_2.jpg)
+![](images/page_419_image_2.jpg)
 
 Fig. 12.1 Eddy currents in a rod.
 
@@ -8110,15 +8110,15 @@ where $A = \pi r^{2}$ is the cross-sectional area of the rod within the path con
 
 In Fig. 12.1 only one ring of eddy current is shown. Actually, circular eddy currents are flowing all over the cross section of the rod in a series of concentric rings. Inside each ring the eddy current produces a field $H_{ec}$ in the -z direction and outside it in the +z direction. It follows that the eddy-current field is strongest at the center of the rod, where the contributions of all the current rings add, and that it becomes weaker toward the surface. The variation of $H_{ec}$ across the bar diameter at one particular instant is sketched in Fig. 12.2a. Because the true field H acting in the material is equal to the vector sum of $H_{\mathrm{a}}$ and $H_{ec}$ , the true field decreases below the surface and is a minimum at the center. Thus, as soon as the current $i_{w}$ is established in the winding, eddy currents are set up which temporarily shield the interior of the rod from the applied field.
 
-![](/content/images/page_420_image_2.jpg)
+![](images/page_420_image_2.jpg)
 
 (a)
 
-![](/content/images/page_420_chart_4.jpg)
+![](images/page_420_chart_4.jpg)
 
 (b)
 
-![](/content/images/page_420_image_6.jpg)
+![](images/page_420_image_6.jpg)
 
 (c)
 
@@ -8192,7 +8192,7 @@ Equation 12.8 is in good agreement with most of the experimental data. Wall velo
 
 1. In whiskers and in polycrystalline ferromagnetic wires with positive magnetostriction loaded in tension, a single reverse domain can be nucleated at one end of a previously saturated specimen. The resulting wall can be driven along the length of the wire by an axial field from a solenoid, as in Fig. 12.3a. Two pickup coils, a known distance apart, also surround the wire and are connected to an oscilloscope or data recorder. As the wall passes each coil, the flux reversal induces a voltage pulse. The time between the two pulses gives the time required for the wall to move from one coil to the other, from which the velocity can be calculated.
 
-![](/content/images/page_423_image_2.jpg)
+![](images/page_423_image_2.jpg)
 
 Fig. 12.3 Measurement of domain wall velocity. (a) Wire or whisker specimen. (b) Portion of one leg of a picture-frame specimen wound with secondary coil.
 
@@ -8200,21 +8200,21 @@ Fig. 12.3 Measurement of domain wall velocity. (a) Wire or whisker specimen. (b)
 
 H. J. Williams, W. Shockley, and C. Kittel [Phys. Rev., 80 (1950) p. 1090] determined wall velocity in the same Fe–Si picture-frame crystal previously studied by Williams and Shockley and shown in Fig. 9.26. At very low excess fields, $(H - H_{0})$ less than 0.003 Oe (0.24 A/m) , they found v equal to about 0.017 cm/sec, corresponding to a mobility C of about 5.5 cm/(sec Oe) $[7 \times 10^{-4} \mathrm{~m/(sec A/m)}]$ . At higher fields of 2 – 80 Oe (160 – 6400 A/m) the domain wall no longer remains flat as in Fig. 12.4a but assumes the successive positions shown in Fig. 12.4b. The wall is retarded more at the center than at the top and bottom, until it curls around on itself to enclose a cylindrical domain which shrinks and finally vanishes. The same effect occurs in a wire but in a less extreme form because of the difference in specimen shape, as suggested in the sketch of Fig. 12.3a; there the domain wall, moving from right to left, has the form of a cone, much more elongated than shown, with the tip of the cone lagging behind.
 
-![](/content/images/page_423_image_7.jpg)
+![](images/page_423_image_7.jpg)
 
 (a)
 
-![](/content/images/page_423_image_9.jpg)
+![](images/page_423_image_9.jpg)
 
 (b)
 
 Fig. 12.4 Cross sections of leg of picture-frame crystal, showing wall motion in low and high fields. The magnetization directions are normal to the page.
 
-![](/content/images/page_424_chart_2.jpg)
+![](images/page_424_chart_2.jpg)
 
 (a)
 
-![](/content/images/page_424_chart_4.jpg)
+![](images/page_424_chart_4.jpg)
 
 (b)
 
@@ -8232,7 +8232,7 @@ The various mobilities C noted above are a measure of the viscous damping parame
 
 This is due to the field $H_{ec}$ set up locally by eddy currents around a moving domain wall, as indicated in Fig. 12.6. When the applied field $H_{\mathrm{a}}$ moves the wall from 1 to 2, the flux change in the region swept out induces an emf which causes eddy currents in the direction shown, namely, the direction which causes an eddy-current field $H_{ec}$ opposed to the applied field. Because the true field actually acting on the wall is now less than $H_{a},$ the velocity v of the wall is less than it would be if the eddy currents did not exist; that is, the wall motion is damped. (Another way of looking at this effect is to note that the heat developed by the eddy currents per unit of time represents a power loss, and the input power required to move the wall with a particular velocity must be increased to replace this loss.) To distinguish the scale, the large-scale eddy currents in the rod of Fig. 12.1 are usually called macro eddy currents, while those associated with a moving domain wall are known as micro eddy currents. However, the two are not inherently different. The rod of Fig. 12.1 is assumed to be polycrystalline and to contain a great many domains, so its macroeddy-current system is simply the vector sum of all the tiny whirls of micro eddy currents associated with its moving domain walls. Micro eddy currents are an important aspect of domain wall motion.
 
-![](/content/images/page_425_image_2.jpg)
+![](images/page_425_image_2.jpg)
 
 Fig. 12.6 Micro eddy currents associated with a moving domain wall.
 
@@ -8266,7 +8266,7 @@ $$
 \frac {\mu^ {\prime \prime}}{\mu^ {\prime}} = \frac {\sin \delta}{\cos \delta} = \tan \delta .
 $$
 
-![](/content/images/page_427_chart_2.jpg)
+![](images/page_427_chart_2.jpg)
 
 Fig. 12.7 Real and imaginary permeabilities as a function of frequency for a series of Ni–Zn ferrites. The ratio ZnO/NiO decreases from 1.9 for sample A to 0.01 for sample E, with $\mathrm{ZnO}+$ $\mathrm{NiO}\approx 0.5$ for all samples. [S. Chikazumi, Physics of Ferromagnetism, Oxford University Press (1997).]
 
@@ -8302,9 +8302,9 @@ Similarly, the reduced magnetization in the easy direction is given by $m = M / 
 
 (b)
 
-![](/content/images/page_428_image_11.jpg)
+![](images/page_428_image_11.jpg)
 
-![](/content/images/page_428_image_12.jpg)
+![](images/page_428_image_12.jpg)
 
 Fig. 12.8 Calculated hysteresis loops as a function of reduced transverse field h<sub>t</sub>. [D. O. Smith, J. Appl. Phys., 29 (1958) p. 264.]
 
@@ -8340,7 +8340,7 @@ The easy-axis coercivity $H_{c}$ is usually considerably less than $H_{\mathrm{K
 
 Switching mechanisms in thin films of various compositions and geometries were extensively studied in the 1970s, and comparisons of the measured with the ideal switching asteroid were often used to understand the details of switching behavior. When magnetic computer memories were replaced with semiconductor arrays, research on magnetic films turned to magnetic data storage materials, and to heads for writing and reading digital information. Since about 2000, various new forms of magnetic random access memory (MRAM) have been proposed and developed (see Chapter 15), and the switching behavior of magnetic films is again a subject of research. In the new devices, often a magnetic film is biased to be magnetized in a specific direction by an exchange interaction with an adjacent antiferromagnetic film. As a result the measured switching asteroid does not have its origin at zero field.
 
-![](/content/images/page_430_image_2.jpg)
+![](images/page_430_image_2.jpg)
 
 Fig. 12.9 Ideal switching astroid.
 
@@ -8364,27 +8364,27 @@ This effect has been most often studied in iron containing interstitial carbon a
 
 This decrease in permeability is due to the preferential distribution of carbon atoms with respect to the local direction of the magnetization, specifically, in a plane at right angles to the magnetization in iron, as described in Section 10.3. Once this distribution is set up, the domain walls tend to become stabilized. The kind of potential wells caused by the carbon atoms, and the forces required to free domain walls from these wells, have been sketched in Fig. 10.7. During demagnetization, domain walls are in continual motion over large distances, and in any local region there is no preferred direction of magnetization for any length of time and therefore no preferred distribution of carbon atoms; x, y, and z sites are equally populated. When demagnetization ceases, at time $t = 0.$ , the permeability is high, because the isotropic carbon distribution does not stabilize domain walls. But the carbon atoms immediately begin to distribute themselves preferentially in each domain, i.e., the material self-magnetically anneals, and potential wells begin to build up with time at each domain wall, somewhat as sketched in Fig. 12.11. The walls become increasingly difficult to move, so the permeability $\mu_{i}$ decreases.
 
-![](/content/images/page_431_chart_6.jpg)
+![](images/page_431_chart_6.jpg)
 
 (a)
 
-![](/content/images/page_431_chart_8.jpg)
+![](images/page_431_chart_8.jpg)
 
 (b)
 
 Fig. 12.10 Time decrease of permeability. (a) Schematic. (b) Measurements on iron containing carbon. [J. L. Snoek, Physica, 5 (1938) p. 663.]
 
-![](/content/images/page_432_chart_2.jpg)
+![](images/page_432_chart_2.jpg)
 
 Fig. 12.11 Build-up of a potential well at the position of a $90^{\circ}$ domain wall as a function of time t. Demagnetization ceased at time $t_{0}$ (schematic).
 
 Domain wall stabilization can be demonstrated in another way. Instead of measuring just $\mu_{i}$ P. Brissonneau [J. Phys. Chem. Solids, 7 (1958) p. 22] determined the initial portion of the B, H curve for 17 time periods after demagnetization, ranging from 0.7 to 1000 min. Two of his extreme curves, for $t = 0$ and $t = \infty$ (both obtained by extrapolation), are shown in Fig. 12.12. The horizontal separation of the two curves is called the stabilization field $H_{s};$ this is the extra field that must be applied a long time after demagnetization to produce the same induction B that a smaller field would produce immediately after demagnetization. It has already been alluded to in Section 10.2 with reference to Perminvar. The value of $H_{s}$ measures the strength of the wall stabilization, and it is itself a function of the induction B. As B increases, Brissonneau found that $H_{\mathrm{s}}$ increases, goes through a maximum at about 100 gauss (0.01 T), and then decreases to a constant value at about 2500 gauss (0.25 T) and beyond. The maximum in $H_{\mathrm{s}}$ is associated with the freeing of $180^{\circ}$ walls from their potential wells, because the force – distance curve of Fig. 12.7b goes through a maximum for $180^{\circ}$ walls; the constant value of $H_{s}$ at higher inductions is associated with the motion of 908 walls over large distances, in conformity with the corresponding force – distance curve.
 
-![](/content/images/page_432_chart_5.jpg)
+![](images/page_432_chart_5.jpg)
 
 Fig. 12.12 Normal induction curves, at time t after demagnetization, of iron containing 46 ppm C. Temperature $= -27.3^{\circ}\mathrm{C}$ . [P. Brissonneau, J. Phys. Chem. Solids, 7 (1958) p. 22.]
 
-![](/content/images/page_433_image_0.jpg)
+![](images/page_433_image_0.jpg)
 
 Fig. 12.13 Magnetic after-effect.
 
@@ -8458,7 +8458,7 @@ $$
 
 where a and b are constants. Street and Woolley ascribed the after-effect to fluctuations of thermal energy sufficient to cause irreversible rotations in small volumes of the material. This view is consistent with the current opinion that alnico contains single-domain regions. The probability that the energy of a particular volume will fluctuate by an amount Q above the average is proportional to $\mathrm{e}^{-Q / kT}$ . One would therefore expect the after-effect DM to vary in the same way, whereas it is found to vary linearly with T, and would expect the rate of the after-effect $d(\Delta M)/dt$ to vary as $\mathrm{e}^{-t / \tau}$ , whereas actually it varies as 1/t (see Equations 11.24 and 11.27). However, Street and Woolley showed that Equation 12.21 could be accounted for by assuming that the activation energy Q was not a single value but a continuous range of values from 0 to 1. This is equivalent, because of Equation 12.19, to a similar range of relaxation times t.
 
-![](/content/images/page_436_chart_6.jpg)
+![](images/page_436_chart_6.jpg)
 
 Fig. 12.14 Fluctuation after-effect in alnico [R. Street and J. C. Woolley, Proc. Phys. Soc., A62 (1949) p. 562].
 
@@ -8472,7 +8472,7 @@ The situation discussed here is related to the phenomenon of superparamagnetism,
 
 Suppose a weight is hung on a helical spring, then pulled downward and released. The spring will contract, then lengthen, then contract, etc. If the displacement of the weight is plotted as a function of time, the result will look like the curves of Fig. 12.15. Frictional forces make the oscillations die out eventually. What frictional forces? Air resistance is one, and there may be some friction at the point of support of the spring. But when the greatest care is taken to reduce these sources to a minimum, the oscillations still die out eventually. Evidently, there are some frictional processes within the material of the spring itself. This “internal friction,” or damping, occurs in any vibrating material.
 
-![](/content/images/page_437_chart_8.jpg)
+![](images/page_437_chart_8.jpg)
 
 Fig. 12.15 Trace of the angle of twist of an iron wire in a torsion pendulum, when the wire is unmagnetized (above) and magnetized (below). Frequency = 2.6 Hz. [R. Becker and M. Kornetski, Z. Phys., 88 (1934) p. 634.]
 
@@ -8514,7 +8514,7 @@ Domain wall damping, often called magneto-mechanical damping, is easily separate
 
 At extremely low amplitudes magnetic damping is small and independent of amplitude, as shown by the data of Fig. 12.16 for longitudinal vibration of a rod. In these measurements any one region of the rod is alternately in states of axial tension and compression. This is accomplished by cementing a quartz “driver” crystal to the end of the rod and applying an alternating voltage to opposite faces of the quartz. Because quartz is piezoelectric, this voltage causes the quartz to vibrate, and the vibrations are transmitted to the specimen rod. Another quartz crystal cemented to the rod senses the vibrations and generates a voltage between opposite faces proportional to the vibrational amplitude. The specimen will vibrate substantially (resonate) only at its natural frequency, which is determined by its dimensions, or at integral multiples (harmonics) of this frequency. The vibration frequency is determined by the frequency of the applied voltage. At each selected frequency, the damping is found by measuring the shape of the resonance peak, i.e., the curve of vibrational amplitude (proportional to voltage output of the gage crystal) vs frequency (equal to frequency of the applied voltage). The smaller the damping, the sharper is the resonance peak, according to the relation
 
-![](/content/images/page_440_chart_2.jpg)
+![](images/page_440_chart_2.jpg)
 
 Fig. 12.16 Damping d (logarithmic decrement) as a function of strain amplitude 1 in a nickel singlecrystal rod with a <100> axis. Room temperature. Vibrated in the longitudinal mode at 50 kHz. [H. Ganganna, N. F. Fiore, and B. D. Cullity, J. Appl. Phys., 42 (1971) p. 5792.]
 
@@ -8532,7 +8532,7 @@ Magnetic damping in metals is chiefly due to the micro eddy currents set up by m
 
 Since the magnetostrictive strains on either side of a $90^{\mathrm{o}}$ domain wall are in different directions, and applied stress will favor the growth of one domain at the expense of the pother, and so will act to move the domain wall. This does not apply to 180º walls, since in this case the magnetostrictive strains are the same in both neighboring domains. Therefore the major effect of an applied stress is to move $90^{\mathrm{o}}$ domain walls.
 
-![](/content/images/page_441_chart_2.jpg)
+![](images/page_441_chart_2.jpg)
 
 Fig. 12.17 Damping d (logarithmic decrement) as a function of maximum shear strain amplitude 1 at the surface of polycrystalline nickel at $-40^{\circ}\mathrm{C}$ Torsion pendulum measurements at about 1 Hz [J. T. A. Roberts and P. Barrand, Acta. Metallurg. 15 (1967) p. 1685.]
 
@@ -8726,15 +8726,15 @@ Electrical steels will be considered first. These cores are magnetized by altern
 
 A simple transformer is shown in Fig. 13.1a. It consists of a rectangular core of magnetic material, with a primary winding on one leg and a secondary on the opposite leg. An alternating current in the primary magnetizes the core along the dashed lines, alternately clockwise and counterclockwise. The change of flux through the secondary coil induces an emf in it that is proportional at any instant to the rate of change of flux dB/dt through that coil. The ratio of the output voltage to the input depends on the ratio of the number of turns in the secondary coil to the number in the primary. A transformer is a simple device with no moving parts that allows the voltage level of ac electrical power to be varied up or down over a very wide range. Transformers are a necessary part of electric power grids around the world.
 
-![](/content/images/page_449_image_9.jpg)
+![](images/page_449_image_9.jpg)
 
 (a)
 
-![](/content/images/page_449_image_11.jpg)
+![](images/page_449_image_11.jpg)
 
 (b)
 
-![](/content/images/page_449_image_13.jpg)
+![](images/page_449_image_13.jpg)
 
 (c)
 
@@ -8744,7 +8744,7 @@ The alternating flux induces an emf, not only in the secondary coil, but also in
 
 How thin should the laminations be made? We saw in Section 12.2 that, when a body is exposed to an alternating field, eddy currents are generated which partially shield the interior of the body from the field. Thus the value of H and hence B inside the body can be much less than the value at the surface. This phenomenon is referred to as the skin effect, which is the confinement of the flux to the surface layers of a body at a “high” frequency. This effect can be very strong in a material like transformer steel at ordinary power frequencies (50 or 60 Hz), which are normally considered “low.” Figure 13.2 shows that the flux density B at the center of a sheet of transformer steel containing 3.25% silicon, 1.6 mm or $\frac{1}{16}$ inch thick, is only about half the value at the surface at 60 Hz. Extrapolating the data of Fig. 13.2 to a sheet 6.4 mm or $\frac{1}{4}$ inch thick, one can conclude that the flux at its center is virtually zero. The material at the center of such a sheet is contributing nothing to the desired multiplication of the applied field and might as well not be there; it is simply wasted material.
 
-![](/content/images/page_450_chart_5.jpg)
+![](images/page_450_chart_5.jpg)
 
 Fig. 13.2 Calculated amplitude of alternating flux in transformer steel sheets of various thicknesses as a fraction of the value at the surface. Frequency = 60 Hz, skin depth $\delta = 0.5$ mm, sheet thicknesses as indicated.
 
@@ -8768,7 +8768,7 @@ Flux penetration increases as μ and f decrease and as ρ increases, for a const
 
 The curves of Fig. 13.2 were calculated from Equation 13.1 with $\mu = 6750$ and $\rho =$ $40\times10^{-6}$ ohm-cm, which are appropriate for Fe with 3.25% Si, and they apply for a frequency of 60 Hz. This gives a skin depth d of 0.5 mm. Alternatively, they apply to any material, thickness, or frequency for which the dimensionless constant $d / \delta$ has the values 0.8, 1.6, 3.2, and 6.4, respectively. The flux penetration in each sheet of a stack of sheets, as in the laminated core of a transformer, is the same as in a single sheet, provided the sheets are electrically insulated from one another. This point is illustrated in Fig. 13.3.
 
-![](/content/images/page_452_chart_2.jpg)
+![](images/page_452_chart_2.jpg)
 
 Fig. 13.3 Calculated relative flux amplitude in a stack of insulated sheets, each 0.75 mm thick, for the same conditions as in Fig. 13.2.
 
@@ -8798,7 +8798,7 @@ The dependence of μ on H and on position in strongly magnetic substances has tw
 
 The effect of domain structure on eddy-current loss has been calculated in an often-cited paper by R. H. Pry and C. P. Bean [J. Appl. Phys., 29 (1958) p. 532]. They assumed the specimen to be an infinite sheet of thickness d, made up of domains of width 2L magnetized antiparallel to one another, as shown in the upper sketch of Fig. 13.4. Their result for the power loss $P_{\mathrm{ed}}$ is complicated and will not be given here, but the quantity of most interest is the ratio $P_{\mathrm{ed}} / P_{\mathrm{ec}}$ where $P_{ec}$ is the classical eddy-current loss given by Equation 13.4. This ratio is shown in Fig. 13.4 as a function of 2L/d. The solid line refers to small magnetization, such that the amplitude of the induction $B_{0}$ is small compared to the saturation induction $B_{s}$ The dashed line shows the higher losses that occur when the domain walls move so far that the sheet is saturated once in each half cycle. The walls are assumed to remain flat, so that the calculation applies only to low frequencies where the walls do not bow out. (The lower the frequency, the lower is the average wall velocity, for constant $B_{0.}$ We see from this calculation that $P_{ed}$ becomes equal to the classical value $P_{ec}$ as the domain size approaches zero; this is reasonable in that μ then becomes homogeneous on a microscopic scale. But when the domain size becomes equal to the sheet thickness, as it does in some electrical steels, the eddy-current loss can become almost double the value calculated on a classical model.
 
-![](/content/images/page_453_chart_7.jpg)
+![](images/page_453_chart_7.jpg)
 
 Fig. 13.4 Ratio of the domain-model eddy-current power loss $P_{ed}$ to the classical eddy-current power loss $P_{ec}$ as a function of domain size 2L relative to sheet thickness d. [R. H. Pry and C. P. Bean, J. Appl. Phys., 29 (1958) p. 532.]
 
@@ -8828,7 +8828,7 @@ Although core losses in a transformer might appear insignificant, in that they c
 
 The standard method of measuring core loss is the Epstein test, which simulates the operation of a transformer at zero load. This test has been standardized by national and international organizations. The test material is in the form of strips 28 cm long and 3 cm wide, having a total weight of 2 kg. (This amounts to a total of 88 strips, if they are cut from sheet 0.014 inch or 0.36 mm thick). The strips are inserted into four solenoids arranged in a square, and mounted on a base with the strips interleaved at the corners to form a square core, as shown in Fig. 13.5. The solenoids form a square 25 cm (10 inch) on each side. Each solenoid has an inner, secondary winding S of 175 turns and an outer, primary (magnetizing) winding P of 175 turns; the four primary windings are connected in series and so are the four secondary windings. The normal oxide skin on the steel strips usually offers enough electrical resistance to prevent eddy-current flow from one strip to another. Moderate pressure may be applied at the corners of the assembled stack of strips to improve magnetic continuity at these points where the strips overlap.
 
-![](/content/images/page_455_image_4.jpg)
+![](images/page_455_image_4.jpg)
 
 Fig. 13.5 Epstein test frame with strips inserted.
 
@@ -8838,7 +8838,7 @@ The Epstein test requires a large heavy sample, and many individual strips which
 
 Conventionally, the total core losses measured by the Epstein test are divided into two parts, hysteresis loss and eddy-current loss. The hysteresis loss is determined from the area of the static or direct-current hysteresis loop as determined using a fluxmeter (Section 2.5). The area of this loop in units of gauss-oersted, divided by $4\pi,$ equals the hysteresis loss $W_{\mathrm{h}}$ in ergs/cm³ (Section 7.6). Knowing the density of the material and the conversion $10^{7}\mathrm{ergs}=1$ joule, we can find the hysteresis loss $W_{\mathrm{h}}$ in joules /kg . This loss is assumed to be independent of frequency. The hysteresis power loss $P_{\mathrm{h}}$ is therefore given by $W_{\mathrm{h}}f$ watts/lb or watts /kg. where f is the frequency (1 watt = 1 joule/sec). On the other hand, the classical eddy-current power loss $P_{ec}$ is proportional to $f^{2}$ , according to Equation 13.4. Therefore, the total power loss $P_{\mathrm{t}}$ in the core, as measured by the Epstein test, should be given by
 
-![](/content/images/page_456_image_6.jpg)
+![](images/page_456_image_6.jpg)
 
 Fig. 13.6 Simplified circuit for core-loss measurement on Epstein specimens. PS = power supply, R = resistor, P = primary winding, S = secondary winding, V = voltmeter, W = wattmeter.
 
@@ -8858,7 +8858,7 @@ Losses are not regularly measured as a function of frequency, and the cases for 
 
 The “anomalous loss” is anomalous in name only. It appears only because the classical calculation of eddy-current loss ignores the presence of domains and domain wall motion, and is therefore too low. It is unreasonable to compare an observed loss with the calculated classical loss and call the difference an anomaly. When the domain structure of the material is taken into account, the calculated eddy-current loss exceeds the classical loss, and the difference between the two is larger the larger the domain size, as shown by Fig. 13.4. The difficulty is that the details of the domain structure and of the domain wall motion are not known in an actual sample, so that calculations can only be made for assumed and simplified models.
 
-![](/content/images/page_457_image_9.jpg)
+![](images/page_457_image_9.jpg)
 
 Fig. 13.7 Conventional separation of losses in transformer cores.
 
@@ -8898,11 +8898,11 @@ $$
 
 where L is the torque on the specimen when M makes an angle $\theta$ with some reference line on the specimen. The quantity on the right is just 2p times the average torque required to rotate the specimen in the field; it is also the net (algebraic) area between the L, $\theta$ curve and the $L = 0$ axis. In Fig. 13.9 the torque in a field of 50 Oe is practically constant. At 170 Oe the overall anisotropy of the specimen has become evident, but there is still rotational hysteresis because the net area between the curve and axis is still negative. At 1500 Oe, however, the curve is symmetrical about the axis, no net torque is required to rotate the specimen, and $W_{\mathrm{r}}$ is zero. The specimen is then saturated and its $M_{\mathrm{s}}$ vector rotates reversibly with the field; the torque curve is simply an expression of the anisotropy, just as the curve of Fig. 7.15, for example.
 
-![](/content/images/page_459_image_10.jpg)
+![](images/page_459_image_10.jpg)
 
 Fig. 13.8 Wall motion in a rotating field (schematic).
 
-![](/content/images/page_460_chart_2.jpg)
+![](images/page_460_chart_2.jpg)
 
 Fig. 13.9 Torque curves for a disk of cold-rolled iron at different values of the applied field. [H. J. Williams, Rev. Sci. Instrum., 8 (1937) p. 56.]
 
@@ -8916,7 +8916,7 @@ Although alternating and rotational hysteresis losses are conceptually different
 
 The conditions of the Epstein test correspond quite closely to the conditions in a working transformer. The major differences are that in a working transformer there are mechanical stresses acting on the magnetic laminations as a result of the need to hold everything firmly in place, and the corner joints are designed so that there are no gaps between the laminations in the transformer legs. The transformer losses predicted from the Epstein test results are always too low by a factor called the build factor or the construction factor, which is known only from experience.
 
-![](/content/images/page_461_chart_2.jpg)
+![](images/page_461_chart_2.jpg)
 
 Fig. 13.10 Dependence on 4pM of the rotational hysteresis loss W<sub>r</sub> and the alternating hysteresis loss $W_{\mathrm{h}}$ in the rolling direction for grain-oriented 3.13% silicon steel. [F. Brailsford, J. Inst. Elect. Engrs, 84 (1939) p. 399.]
 
@@ -8950,7 +8950,7 @@ Low-carbon steel regarded as a magnetic material is commercially pure iron with 
 
 This steel was developed by the English metallurgist Robert Hadfield in 1900 and soon became the preferred core material for large transformers, motors, and generators. The addition of silicon to iron profoundly modifies the phase diagram, as shown by Fig. 13.11. The temperature of the $\alpha \rightarrow \gamma$ transformation is raised and that of the!  transformation is lowered until the two meet at about 2.5% Si, forming a closed “gamma loop.” As a result, an alloy containing more than about 2.5% Si is body-centered cubic at all temperatures up to the melting point. This means that (1) such an alloy may be recrystallized at any temperature without concern for phase changes, and (2) single crystals of such an alloy can be made by slow solidification from the liquid or by recrystallization at any desired temperature. These operations are difficult in the case of pure iron or at lower Si contents, because of the $\gamma \rightarrow \alpha$ transformation on cooling to room temperature. The a solid solution of silicon in iron is often called silicon ferrite by metallurgists, and the magnetic Si – Fe alloys are often called silicon iron.
 
-![](/content/images/page_463_chart_5.jpg)
+![](images/page_463_chart_5.jpg)
 
 Fig. 13.11 Portion of iron– silicon equilibrium diagram.
 
@@ -8966,7 +8966,7 @@ The addition of silicon to iron has the following beneficial effects on magnetic
 
 On the debit side, silicon additions decrease the saturation induction and tend to make the alloy brittle, so that it becomes difficult to roll into sheet when the silicon content is much higher than 3%. Figure 13.12 shows the effect of silicon on these various properties; the percentage elongation in the tensile test is a measure of ductility.
 
-![](/content/images/page_464_chart_9.jpg)
+![](images/page_464_chart_9.jpg)
 
 Fig. 13.12 Data on iron-silicon alloys: magnetocrystalline anisotropy constant $K_{1}$ saturation induction $B_{s},$ electrical resistivity ρ and percentage elongation for nonoriented, polycrystalline sheet, 0.0185 inch or 0.47 mm thick.
 
@@ -8986,7 +8986,7 @@ In order for secondary recrystallization to occur, something must prevent normal
 
 The feature of secondary recrystallization that is of interest here is the fact that a secondaryrecrystallization texture is usually quite different from the primary-recrystallization texture. In silicon steel the primary texture is weak and complex, whereas the secondary texture is a quite sharp single-component texture, namely, {110} <100>. This texture is illustrated in Fig. 13.14. In Fig. 13.14a is shown the stereographic projection of the principal directions in a single crystal, with the plane of the sheet taken as the projection plane; (011) is parallel to the sheet surface and [100] parallel to the rolling direction. The sketch in Fig. 13.14b of the orientation of the unit cell of each grain relative to the sheet shows why this is called the cube-on-edge texture. The schematic {100} pole figure in Fig. 13.14c shows where the <100> directions are concentrated for a large number of grains in polycrystalline sheet; the texture is sharper, i.e., has less scatter about the ideal orientation shown in Fig. 13.14a, the smaller the areas of the high-density regions on the pole figure. Pole figures are the result of X-ray diffraction measurements and are the most direct description of a texture. Useful information about texture in magnetic materials can also be obtained from torque curves, subject to the limitations mentioned in Section 7.8; Fig. 13.15 shows how closely the torque curve for a grain-oriented polycrystalline sheet can approach that of a single crystal.
 
-![](/content/images/page_466_image_2.jpg)
+![](images/page_466_image_2.jpg)
 
 Fig. 13.13 Partial secondary recrystallization in silicon iron. A few large secondary grains are growing in a matrix of primary grains during a 9008C anneal. About actual size. [C. G. Dunn, Cold Working of Metals, ASM (1949) p. 113.]
 
@@ -9000,13 +9000,13 @@ The details of the manufacturing process for oriented silicon steel are propriet
 
 The particles inhibiting normal grain growth were believed to be MnS in the original grain-oriented material. Other compounds, such as AlN, have been used more recently. It is important that the particles be removed in the final heat treatment, since if they remained in the alloy they would act as domain wall pinning sites and increase the coercive field.
 
-![](/content/images/page_467_image_2.jpg)
+![](images/page_467_image_2.jpg)
 
 Fig. 13.14 Single-crystal projections (top), unit-cell orientations (center), and {100} pole figures (below). RD = rolling direction; TD = transverse direction.
 
 Treatments that give the best crystallographic texture tend to produce very large grain sizes, and large grains tend to have relatively few domain walls. As seen previously, closely spaced domain walls are desirable to reduce eddy-current losses. Therefore various methods have been employed to provide nucleation sites for domain walls: mechanical scratches, chemical etches, spark erosion, and laser scribing. The best and most practical procedure seems to be laser scribing to produce a series of parallel lines arrayed perpendicular to the rolling direction of the sheet, spaced a few millimeters apart.
 
-![](/content/images/page_468_chart_2.jpg)
+![](images/page_468_chart_2.jpg)
 
 Fig. 13.15 Torque curves of a single crystal in the {110} plane and of a disk cut from a sheet of grain-oriented silicon steel having a strong cube-on-edge, {110} <100> texture. [C. D. Graham, Magnetism and Metallurgy, Volume 2, Academic Press (1969).]
 
@@ -9014,15 +9014,15 @@ The cube-on-edge texture makes the easy <100> directions in all grains almost pa
 
 Because the magnetic properties are so directional, care must be taken in the construction of transformers to make the rolling direction of the sheet parallel, as far as possible, to the direction of flux travel. This is no problem in the largest transformers, because each leg is formed of separate pieces of sheet. This kind of construction is illustrated in Fig. 13.16a, where the striations indicate the rolling direction of each piece. (The largest transformers are called power transformers. They are located at the generating plant and at large substations, and have cores weighing up to 250 tons, limited mainly by considerations of transportation. Distribution transformers are much smaller, and are seen mounted on poles in residential neighborhoods.) In smaller transformers this construction is not economical; one solution is to make E– I laminations, as in Fig. 13.16b, where the core is made of two sets of sheets, cut in the form of these letters. Flux travel is in the easy direction except in the top leg, where it is in the transverse direction of the sheet; this leg may be widened to decrease the flux density and thus compensate for the lower permeability in this direction. (Both primary and secondary windings are placed on the central leg. These are only schematically indicated; the windings actually occupy most of the space between the legs.) Still another solution is to roll up a long length of strip on itself to form the tapewound or strip-wound core shown in Fig. 13.16c, with windings (not shown) placed on opposite sides. Here the entire flux path is in the easy (rolling) direction. The tapewound design presents problems in assembly: the magnetic strip must be wound through the prewound coils, or the coils must be wound on the prewound core, or the core must be cut in half to install the prewound coils.
 
-![](/content/images/page_469_image_0.jpg)
+![](images/page_469_image_0.jpg)
 
-![](/content/images/page_469_image_3.jpg)
+![](images/page_469_image_3.jpg)
 
 (a)
 
 (b)
 
-![](/content/images/page_469_image_6.jpg)
+![](images/page_469_image_6.jpg)
 
 (c)
 
@@ -9065,7 +9065,7 @@ Noise Transformer “hum” is due to magnetostrictive vibration of the core and
 
 Stacking Factor The need to use soft magnetic material in the form of stacks of relatively thin sheets, each with an electrically insulating surface layer, means that in a magnetic device a fraction of the volume is not magnetic material, but is empty space and electrical insulation. This decrease in the effective density of magnetic material is expressed by the stacking factor (ASTM uses the term lamination factor), a number less than unity which is the fraction of the stack area that is composed of magnetic material. The stacking factor decreases for very thin sheets, for sheets of nonuniform thickness, and for heavy insulating coatings.
 
-![](/content/images/page_471_chart_5.jpg)
+![](images/page_471_chart_5.jpg)
 
 Fig. 13.17 Limits of static longitudinal magnetostriction as a function of induction for several grades and thicknesses of grain-oriented silicon steel sheet. Data from U.S. Steel.
 
@@ -9083,17 +9083,17 @@ Figure 13.18 also shows the variation of the magnetocrystalline anisotropy, and 
 
 We expect high permeability when K and l are small. A low value of K decreases domain-wall energy and increases domain wall thickness, so that inclusions become less effective hindrances to wall motion. A low value of l means that microstress becomes similarly less effective. Figure 13.19 shows that both $K_{1}$ and $\lambda_{111}$ are near zero just below 80% Ni, and $\lambda_{100}$ is not very large. This is the composition of 78 permalloy, and Fig. 13.20 shows the remarkable effect of heat treatment on the maximum permeability of this alloy.
 
-![](/content/images/page_473_chart_2.jpg)
+![](images/page_473_chart_2.jpg)
 
 Fig. 13.18 Iron –nickel alloys. Variation with nickel content of saturation magnetization $M_{\mathrm{s}}$ Curie temperature $T_{c}$ , and magnetocrystalline anisotropy $K_{1}$ (quenched alloys). [R. M. Bozorth, Ferromagnetism, reprinted by IEEE Press (1993).]
 
 The maxima in μ near 50 and 80% Ni are due to near-zero values of $K_{1}$ and/or l. Note that it is the value of l in the easy direction of magnetization that determines the effect of microstress on wall motion; near 50% Ni, the value of $K_{1}$ is positive, <100> are easy directions, and $\lambda_{100}$ is zero; at 80% Ni the value of $K_{1}$ is negative, <111> are easy directions, and $\lambda_{111}$ is zero.
 
-![](/content/images/page_473_chart_6.jpg)
+![](images/page_473_chart_6.jpg)
 
 Fig. 13.19 Iron –nickel alloys. Variation of saturation magnetostriction with nickel content. See text for details. The dotted line shows $K_{1}$ from Fig. 13.18. [Data from R. C. Hall, J. Appl. Phys., 30 (1959) p. 816.]
 
-![](/content/images/page_474_chart_2.jpg)
+![](images/page_474_chart_2.jpg)
 
 Fig. 13.20 Maximum permeabilities of iron –nickel alloys.
 
@@ -9133,15 +9133,15 @@ Materials with Curie temperature just above room temperature have a strong tempe
 
 The magnetically soft special alloys are used mainly in the form of cores, of varying shape and with external diameters from several inches to less than 0.25 inch (10 – 0.5 cm). They can be of three forms (Fig. 13.21). In stacked laminations the flux travels in all possible directions in relation to the original rolling direction of the sheet from which the laminations were cut; only the average magnetic properties in the plane of the sheet are of interest. In contrast, the flux in a tape-wound core travels only in the rolling direction of the strip (tape). To minimize core losses, the tape should be thinner the higher the frequency;
 
-![](/content/images/page_477_image_2.jpg)
+![](images/page_477_image_2.jpg)
 
 (a) Stacked laminations
 
-![](/content/images/page_477_image_4.jpg)
+![](images/page_477_image_4.jpg)
 
 (b) Tape-wound core
 
-![](/content/images/page_477_image_6.jpg)
+![](images/page_477_image_6.jpg)
 
 (c) Powder core
 
@@ -9151,7 +9151,7 @@ tape-wound cores are available made from material ranging from 0.014 to 0.000125
 
 Special Transformers Permalloy-type or amorphous alloys are used as transformer cores in cases where high permeability, low losses, or constant permeability are required. A case of special importance is the transformer used in ground-fault interrupters, which are circuit breakers designed to cut off power to a device if a potentially dangerous amount of current is leaking to ground. Both the current supply wire and the return wire pass through the core of a miniature transformer, and act as the primary winding (see Fig. 13.22). If there is no leakage current in the device, the two currents are equal and opposite, so no field is applied to the core and no flux change occurs. If there is a leakage current, the supply current is greater than the return current, and the net current applies a nonzero ac field to the core. This generates a voltage in the secondary winding, which opens the circuit. An unbalanced current of 5 mA, corresponding to a power of 0.6 watt at 120 V, trips the circuit breaker.
 
-![](/content/images/page_477_image_11.jpg)
+![](images/page_477_image_11.jpg)
 
 Fig. 13.22 Ground-fault interrupter circuit (schematic). If the current to the load is not equal to the current from the load, a signal voltage appears on the sensor winding and trips the circuit breaker.
 
@@ -9165,19 +9165,19 @@ A variant of the usual relay is the reed switch or reed relay. It consists of tw
 
 Fluxgate Magnetometers These are instruments for accurate measurement of fields comparable in magnitude to the Earth’s field. They are used for geomagnetic surveys, magnetic prospecting, archeological surveying, and as sensors in feedback systems to cancel the Earth’s field in an experimental space. In its simplest form (Fig. 13.24), the fluxgate magnetometer consists of a thin strip or wire of a high-permeability soft magnetic material, placed inside two concentric solenoids. An ac current in the drive winding drives the strip to positive and negative saturation, and the sense winding picks up the dB/dt voltage signal. If there is no external dc field along the length of the strip, the positive and negative voltage pulses are equally spaced, but if there is a parallel applied field, the pulses become unevenly spaced. If the drive field is a triangular wave, the change in pulse spacing is proportional to the applied field and gives a direct measure of this field. The device can also be operated as a null detector: a third concentric coil is provided, and a dc current in this coil is used to cancel the (unknown) applied field and return the pulses to equal spacing. The field produced by this canceling coil can be calculated
 
-![](/content/images/page_478_image_7.jpg)
+![](images/page_478_image_7.jpg)
 
 Fig. 13.23 Reed relay.
 
-![](/content/images/page_479_image_2.jpg)
+![](images/page_479_image_2.jpg)
 
 (a)
 
-![](/content/images/page_479_image_4.jpg)
+![](images/page_479_image_4.jpg)
 
 (b)
 
-![](/content/images/page_479_image_6.jpg)
+![](images/page_479_image_6.jpg)
 
 (c)
 
@@ -9221,11 +9221,11 @@ Commercial ferrites are sold under various trade names. Manufacturers rarely giv
 
 2. Ni–Zn Ferrites. These are intended for very high frequency operation, to more than 100 MHz. Initial permeabilities are about 10 – 1000, and coercivities are several oersteds. At the highest frequencies, losses are found to be lower if domain wall motion is inhibited and the magnetization forced to change by rotation. For this reason some grades of Ni-Zn ferrites are deliberately underfired. The resulting porosity interferes with wall motion and decreases both losses and permeability. The Ni-Zn ferrites have very high resistivity, about $10^{5}$ ohm-cm.
 
-![](/content/images/page_482_image_2.jpg)
+![](images/page_482_image_2.jpg)
 
 (a)
 
-![](/content/images/page_482_image_4.jpg)
+![](images/page_482_image_4.jpg)
 
 (b)
 
@@ -9233,17 +9233,17 @@ Fig. 13.25 Microstructure of a Mn – Zn ferrite. (a) After sintering 5 min at $
 
 Both of these main classes of materials contain zinc ferrite. As we saw in Fig. 6.4, the addition of zinc ferrite increases the value of $M_{\mathrm{s}}$ at 0K. It also weakens the exchange interaction between ions on A and B sites, with the result that the Curie point decreases. The curves of $M_{\mathrm{s}}$ (or $\sigma_{\mathrm{s}}$) vs temperature must therefore cross over, as shown in Fig. 13.26 for a series of Mn – Zn ferrites. In any magnetic material it is usual for the initial permeability $\mu_{0}$ to increase with temperature to a maximum just below the Curie point, because the magnetocrystaline anisotropy and magnetostriction normally decrease with rising temperature. This effect is shown for the Mn-Zn ferrites in Fig. 13.27. Not only do zinc additions shift $T_{c}$ and the accompanying peak in $\mu_{i}$ to lower temperatures, but they increase the height of the peak; as a result the room-temperature value of $\mu_{i}$ also increases with the zinc content. Ni-Zn ferrites behave in the same way.
 
-![](/content/images/page_483_chart_2.jpg)
+![](images/page_483_chart_2.jpg)
 
 Fig. 13.26 Variation with temperature of the saturation magnetization $\sigma_{s}$ of Mn– Zn ferrites.
 
 Figure 13.28 shows how the initial permeability $\mu_{i}$ varies with frequency in the megahertz range for three different ferrites. The first is a Mn – Zn ferrite of unspecified composition, the second a 50 – 50 mixture of Ni and Zn ferrites, and the third is pure Ni ferrite. The shape of these curves is typical. As the frequency increases, $\mu_{i}$ remains equal to its static (dc) value until a critical frequency is reached and then decreases rapidly, as may be seen more clearly if the data are plotted on linear rather than logarithmic scales. The larger the static value of $\mu_{i}$ the lower is the frequency at which this decrease occurs. Therefore, if a particular ferrite core must have constant inductance, which requires constant permeability, at all frequencies up to several hundred megahertz, there is no option but to choose a material with low permeability.
 
-![](/content/images/page_483_chart_6.jpg)
+![](images/page_483_chart_6.jpg)
 
 Fig. 13.27 Variation with temperature of the initial permeability $\mu_{\mathrm{i}}$ of Mn– Zn ferrites. These specimens also contain a small ferrous $(\mathrm{Fe}^{2+})$ ion content.
 
-![](/content/images/page_484_chart_2.jpg)
+![](images/page_484_chart_2.jpg)
 
 Fig. 13.28 Variation of initial permeability $\mu_{i}$ with frequency for three ferrites.
 
@@ -9293,11 +9293,11 @@ where $N_{d}$ is the demagnetizing factor of the magnet. Because $N_{d}$ depends
 
 Consider the specific case of the gapped ring of Fig. 14.2, which is similar to some actual magnetic circuits. This could be the magnet for a moving-coil meter, with the moving coil located in the air gap. The magnet must provide a field $H_{\mathrm{g}}$ of constant strength in the air gap. The induction in the magnet is $B_{\mathrm{d}}$ which we will now call $B_{\mathrm{m}}$ and the field is $H_{\mathrm{d}}$ which we will now call $H_{\mathrm{m}}$ According to Ampere’s law, Equation 2.55, the line integral of H around the ring of Fig. 14.2 must be zero, because there is no current flowing:
 
-![](/content/images/page_487_image_9.jpg)
+![](images/page_487_image_9.jpg)
 
 Fig. 14.1 Initial magnetization and demagnetization curve of a permanent magnet. $B_{r}$ is the residual induction; point P is the operating point.
 
-![](/content/images/page_488_image_2.jpg)
+![](images/page_488_image_2.jpg)
 
 Fig. 14.2 Open magnetic circuit.
 
@@ -9325,13 +9325,13 @@ $$
 
 where V stands for volume. This result shows that the volume $V_{\mathrm{m}} = A_{\mathrm{m}}l_{\mathrm{m}}$ of magnet that is required to produce a given field in a given gap is a minimum when the product BH in the magnet is a maximum. Furthermore, Equation 7.43 shows that the energy stored in the field in the air gap is $H_{\mathrm{g}}^{2}V_{\mathrm{g}} / 8\pi$ ergs (cgs) or $\mu_0H_{\mathrm{g}}^2 V / 2$ joule (SI). For a magnet of any volume, this energy is directly proportional to BH, which is accordingly called the energy product. Figure 14.3 shows how BH varies with B over the demagnetization curve, going through a maximum value $(BH)_{\mathrm{max}}$ for a particular value of B. For most efficient use of material, the magnet should be so shaped that the load line passes through the point at which (BH) has its maximum value $(BH)_{\mathrm{max}}$ . Evidently, the magnet of Fig. 14.3 should be made thicker, or shorter, to bring its operating point P down to the $(BH)_{\mathrm{max}}$ point.
 
-![](/content/images/page_489_image_2.jpg)
+![](images/page_489_image_2.jpg)
 
 Fig. 14.3 Left: demagnetization curve; right: corresponding values of energy product (BH) plotted on the same B scale. Maximum value of (BH) is shown on both plots.
 
 The demagnetization curves of permanent-magnet materials are often presented on graphs on which lines of constant BH are lightly drawn, as in Fig. 14.4. The viewer can then see at once the approximate value of $(BH)_{\mathrm{max}}$ and where that point lies on the demagnetization curve. The units of $(BH)_{\mathrm{max}}$ are $10^{6}$ gauss-oersteds or megagauss-oersteds (MGOe) in cgs units, or kilojoules/cubic meter (kJ/m³) in SI
 
-![](/content/images/page_489_chart_6.jpg)
+![](images/page_489_chart_6.jpg)
 
 Fig. 14.4 Demagnetization curves (schematic) of two permanent magnet materials denoted 1 and 2. The graph shows also contour lines of constant (BH), and perimeter marks to allow values of the permeance coefficient to be drawn. Material 1 has $(BH)_{\mathrm{max}}$ about 3 MGOe; the value for material 2 is just below 2 MGOe.
 
@@ -9359,11 +9359,11 @@ $$
 
 For a magnet of given volume the maximum attainable gap energy $H_{\mathrm{g}}^{2}V_{\mathrm{g}} / 8\pi$ (cgs) or $\mu_{0}H_{\mathrm{g}}^{2}V_{\mathrm{g}}$ (SI) is larger, the larger the energy product $(BH)_{\mathrm{max}}$ of the magnet material. For this reason, the maximum energy product is considered to be the best single index of quality of a permanent magnet material, and it is always included in any list of permanent magnet properties.
 
-![](/content/images/page_490_image_11.jpg)
+![](images/page_490_image_11.jpg)
 
 (a)
 
-![](/content/images/page_490_image_13.jpg)
+![](images/page_490_image_13.jpg)
 
 (b)
 
@@ -9375,11 +9375,11 @@ Even in a material like alnico, with relatively low coercive field, a plot of B 
 
 Many of the newer permanent magnetic materials display a behavior previously unknown: The remanent magnetization remains almost unchanged in magnitude as increasing negative field H is applied, and remains unchanged up to a value substantially greater than $H_{c}$ Then, as seen in Fig. 14.7, the B vs H curve becomes a straight line passing through the points $B_{\mathrm{r}}$ and $H_{\mathrm{c}} = B_{\mathrm{r}}$ The magnetization reverses fairly suddenly at a field $H_{\mathrm{ci}}$ which may be considerably larger than $H_{c}$ Under these conditions, the maximum energy product $(BH)_{\mathrm{max}}$ is given by
 
-![](/content/images/page_491_chart_6.jpg)
+![](images/page_491_chart_6.jpg)
 
 Fig. 14.6 Demagnetizing curves of alnico and hard ferrite. Solid lines are B vs H; dotted lines are 4pM vs H. Note the difference between $H_{c}$ and $H_{ci}$ in the case of hard ferrite.
 
-![](/content/images/page_492_image_2.jpg)
+![](images/page_492_image_2.jpg)
 
 Fig. 14.7 Demagnetizing behavior of a high $H_{ci}$ permanent magnet. The magnetization is unchanged by negative fields less than $H_{c},$ so $H_{\mathrm{c}} = B_{\mathrm{r}}$ (in cgs units).
 
@@ -9395,7 +9395,7 @@ Although $(BH)_{\mathrm{max}}$ is an index of material quality, it is not the on
 
 In Fig. 14.8a the iron armature represents the piece being lifted. When this is far away, the magnet is open-circuited and at point P on the demagnetization curve. As the iron approaches, part of the flux is diverted from the leakage gap to the useful gap. When contact is made, the demagnetizing field is reduced and the operating point moves to D. If the armature is pulled away, the point returns to P. The minor hysteresis loop thus traced out is very thin, and is often approximated by a straight line through the tips of the loop; the slope of this line, which is approximately equal to the slope of the major hysteresis loop at the $B_{\mathrm{r}}$ point, is called the recoil permeability $\mu_{\mathrm{rec}}$ . Under these dynamic conditions the best location for P does not correspond to $(BH)_{\mathrm{max}}$ but to a more complex condition that depends on the details of the geometry. Of course, in a material like that in Fig. 14.7, the minor hysteresis loop is just a line coinciding with the demagnetizing curve, and the recoil permeability is zero.
 
-![](/content/images/page_493_image_2.jpg)
+![](images/page_493_image_2.jpg)
 
 Fig. 14.8 (a) Lifting magnet. (b) Path followed on B, H curve.
 
@@ -9433,7 +9433,7 @@ Most alnicos are cooled (step 2 above) in a magnetic field of 1 kOe or more, or 
 
 The alnicos achieve their permanent magnet properties by the precipitation of a ferromagnetic phase in a weakly magnetic matrix. Both phases are body centered cubic, and the phase separation occurs by spinodal decomposition, which results in a very regular array of ferromagnetic rods about 300 Å in diameter lying along <100> directions. Applying a strong magnetic field during the precipitation process causes the rods to form preferentially along the [100] direction most nearly parallel to the field, rather than equally along all three possible <100> directions. Figure 14.9 shows the remarkable degree of alignment and uniformity that can be attained in a single crystal.
 
-![](/content/images/page_495_image_2.jpg)
+![](images/page_495_image_2.jpg)
 
 Fig. 14.9 Electron micrograph (oxide replica) from a single crystal of field-annealed alnico. The field during annealing was directed horizontally; 50,000 [K. J. De Vos, Magnetism and Metallurgy, Volume 2, Academic Press (1969)].
 
@@ -9441,7 +9441,7 @@ A further improvement in properties can be created by producing a crystallograph
 
 The permanent magnet properties of alnico result from the shape anisotropy of singledomain particles. The final anneal (step 3) increases the difference in magnetization between the two phases, and so increases the magnitude of the anisotropy.
 
-![](/content/images/page_495_image_6.jpg)
+![](images/page_495_image_6.jpg)
 
 Fig. 14.10 Directional solidification of alnico to produce columnar grains oriented in the <100> direction.
 
@@ -9463,11 +9463,11 @@ $$
 
 Actually, the particles are plate-shaped, which introduces shape anisotropy. And the shape is wrong, because the easy axis due to shape is perpendicular to the easy axis due to crystal anisotropy. It is difficult to allow for this effect exactly. For an isolated particle, the shape effect reduces $H_{\mathrm{ci}}$ by 4800 Oe to a value of about 12,000 Oe, as mentioned in Section 11.5; for commercial magnets with 5– 10% porosity, the reduction would not be nearly as much, although the pores are the source of internal demagnetizing fields.
 
-![](/content/images/page_497_image_2.jpg)
+![](images/page_497_image_2.jpg)
 
 (a)
 
-![](/content/images/page_497_image_4.jpg)
+![](images/page_497_image_4.jpg)
 
 (b)
 
@@ -9493,7 +9493,7 @@ To obtain high density and good magnetic properties, a small amount of powder ma
 
 SmCo<sub>5</sub> magnets have an unusual and useful property: they can be magnetized initially by a field much smaller than their intrinsic coercive field $H_{\mathrm{ci}}$ . This behavior is illustrated in Fig. 14.12. The rule of thumb for permanent magnets is that the field required to satisfactorily magnetize the material is several times larger than the coercive field; this rule clearly does not apply to $\mathrm{SmCo}_{5}$ . This behavior is a distinct production advantage, since reaching fields several times larger than the coercive field is difficult and expensive.
 
-![](/content/images/page_499_image_2.jpg)
+![](images/page_499_image_2.jpg)
 
 Fig. 14.12 Magnetization and demagnetization behavior of $\mathrm{SmCo}_{5}$ (schematic).
 
@@ -9523,7 +9523,7 @@ An important variable not shown by the demagnetizing curve is the Curie temperat
 
 <small><span class="docvortex-page-footnote" data-block-type="page_footnote" style="color:#6b7280"><sup>1</sup>FeNdB is more commonly written NdFeB, although iron is the major constituent.</span></small>
 
-![](/content/images/page_501_chart_2.jpg)
+![](images/page_501_chart_2.jpg)
 
 Fig. 14.13 Demagnetization curves of typical rare-earth permanent magnets.
 
@@ -9563,7 +9563,7 @@ Lodex was a nice example of science leading the way to a new and useful product,
 
 For many applications, it is useful to grind a permanent magnet material into relatively fine particles and imbed the particles in a matrix of a plastic, rubber, or even a low-melting metallic alloy. Such a material is called a bonded magnet. The magnetization of a bonded magnet is about half that of the starting material, because of the dilution by the nonmagnetic matrix, but the coercive field is largely unchanged. Bonded magnets can be made into shapes, such as extruded tubes, that could not be created from the original solids. They can have a wide range of mechanical properties, including the flexibility of rubber. Complex geometries of the magnetization are also possible, by applying an appropriate magnetic field pattern while the matrix material is hot and semiliquid, so that the magnetic particles can physically rotate, or by applying a high (usually pulsed) field to the finished bonded material. A common example is the flexible “refrigerator” magnet, used to hold a printed message to a steel surface such as a refrigerator. The pattern of magnetization is a series of shallow “U” shapes, with the closed ends of the Us under the printed surface (see Fig. 14.14). Such a magnet will stick to the refrigerator with the printed surface exposed and visible, but not with the printed surface facing the steel.
 
-![](/content/images/page_503_image_6.jpg)
+![](images/page_503_image_6.jpg)
 
 Fig. 14.14 “One-sided” magnet. Only the nonprinted side will stick to a steel surface.
 
@@ -9579,17 +9579,17 @@ If a permanent magnet is to be useful in service, it must be stable: it must del
 
 These normally are a problem only for alnico magnets and for the lower-coercivity grades of hard ferrites. Suppose that the magnet of Fig. 14.15a has a load line such that it operates at point a. What is the result of external fields that may increase or decrease the field acting on the magnet by an amount DH? If the true field changes from $H_{\mathrm{d}}$ to $H_{1}$ and back again, the operating point moves from a to b and back to a along the recoil line defined in Fig. 14.6b. The change in induction B during this reversible excursion is small, and the magnet is back at its original operating point. But if the true field changes from $H_{\mathrm{d}}$ to $H_{2}$ and back, the operating point moves from a to c to d, causing a large permanent drop in induction. However, once the magnet is at d, temporary external fields in either direction merely move it reversibly back and forth along the recoil line through d. The resulting changes in B are small and temporary.
 
-![](/content/images/page_504_image_9.jpg)
+![](images/page_504_image_9.jpg)
 
-![](/content/images/page_504_image_10.jpg)
+![](images/page_504_image_10.jpg)
 
 Fig. 14.15 Stabilization of a permanent magnet.
 
-![](/content/images/page_505_chart_2.jpg)
+![](images/page_505_chart_2.jpg)
 
 (a)
 
-![](/content/images/page_505_chart_4.jpg)
+![](images/page_505_chart_4.jpg)
 
 (b)
 
@@ -9639,7 +9639,7 @@ If a current flows in a conductor located in the magnetic field of a permanent m
 
 Loudspeakers. These form probably the largest single application of permanent magnets. One design is shown in Fig. 14.17. The base of the speaker cone carries a coil which fits in the annular gap of the magnet circuit. Flux travels from the magnet into the iron pole piece, radially across the gap, and back through the outer return path of iron. A varying current in the coil causes a varying axial force on the coil, which therefore vibrates axially, as does the cone attached to it, thus generating sound.
 
-![](/content/images/page_507_image_8.jpg)
+![](images/page_507_image_8.jpg)
 
 Fig. 14.17 Loudspeaker construction.
 
@@ -9647,19 +9647,19 @@ Permanent-Magnet Motors. The rotor (armature) of an electric motor is wound with
 
 (a)
 
-![](/content/images/page_508_image_5.jpg)
+![](images/page_508_image_5.jpg)
 
 Woundfield stator
 
-![](/content/images/page_508_image_7.jpg)
+![](images/page_508_image_7.jpg)
 
 Rotor
 
-![](/content/images/page_508_image_9.jpg)
+![](images/page_508_image_9.jpg)
 
 Permanentmagnet stator
 
-![](/content/images/page_508_image_11.jpg)
+![](images/page_508_image_11.jpg)
 
 (b)
 
@@ -9667,7 +9667,7 @@ Fig. 14.18 Permanent magnet motor. (a) Comparison of a wound-field stator with a
 
 Head Positioners. The read/write heads of a computer hard disk drive are moved from track to track by a head positioner which incorporates a special permanent magnet configuration. As shown in Fig. 14.19a, two arc-shaped permanent magnets create a field between them that varies smoothly from a maximum positive value at one end of the arc to a maximum negative value at the other end. A current-carrying loop mounted on one end of a pivoted arm is located in this magnetic field. The equilibrium position of the loop depends on the current in the loop. The equilibrium condition can be stated in various ways: when the force on leg A of the loop is equal and opposite to the force on leg B, or when the total magnetic flux through the loop (the sum of the magnet flux and the loop flux) is minimum. The result is that the equilibrium position of the loop varies directly with the current through the loop, allowing the read/write heads on the opposite end of the pivoted arm to be accurately moved from track to track.
 
-![](/content/images/page_509_image_3.jpg)
+![](images/page_509_image_3.jpg)
 
 (b)
 
@@ -9699,7 +9699,7 @@ $$
 
 where in SI units the force F is in newtons, A is the area of contact in $\mathrm{m}^{2}$ B is the flux density in tesla, and $C_4 = 1$ . In cgs units, F is in dynes, A in $\mathrm{cm}^2$ , B in gauss, and $C_{4}=$ $4\pi .$ This equation can be derived by summing the Coulomb forces between all the poles assumed to lie on the two surfaces. But it can be understood more simply in another way. Suppose the two pieces are pulled apart to a small distance d, creating a very thin gap. If there is no fringing, the field in this gap is B, and the energy density of the field is $B^{2}/8\pi$ (cgs units), from Equation 7.43. The work done is Fd and the field energy is $(B^{2} / 8\pi)(Ad)$ . If the two are equated, Equation 14.11 follows. This equation holds only when the two pieces are very close together; the attractive force falls off very rapidly as the two are separated.
 
-![](/content/images/page_511_image_2.jpg)
+![](images/page_511_image_2.jpg)
 
 Fig. 14.20 Permanent magnet chuck.
 
@@ -9709,7 +9709,7 @@ Magnets are used as separators. The most common application is the removal of sc
 
 Magnets can be used as large-scale positioners to transmit linear or rotary motion across a solid barrier. This is useful for positioning equipment inside a sealed space, such as a vacuum or controlled atmosphere chamber. Many designs have been proposed and constructed.
 
-![](/content/images/page_512_image_2.jpg)
+![](images/page_512_image_2.jpg)
 
 Fig. 14.21 Floating globe using magnetic suspension with feedback.
 
@@ -9723,7 +9723,7 @@ If diamagnetic materials are included in the system, stable levitation becomes p
 
 The permeability of a superconductor is zero, and there are many diamagnetic materials with permeabilities slightly less than unity. But there are no diamagnetic materials with intermediate values of μ, like 20.5. This means that only very light bodies, a few grams in weight, can be stably levitated at room temperature with the help of ordinary diamagnetic materials, like graphite or bismuth, because their flux-repelling powers are so feeble.
 
-![](/content/images/page_513_image_2.jpg)
+![](images/page_513_image_2.jpg)
 
 Fig. 14.22 Bar magnet suspended over a superconducting plate.
 
@@ -9771,7 +9771,7 @@ The basic arrangement for analog magnetic recording on tape, as well as for digi
 
 To read back the recorded information, the recorded track passes under a read head, which is similar to the write head. In low-cost audio recorders, the same head may be used for both reading and writing. The fringing magnetic field from the recorded tape magnetizes the read head as it passes by the head gap, and the changing magnetization in the head generates a signal voltage in the head winding. This voltage contains the recorded information, and can be amplified to recreate the recorded sound or video. Note that since the read head coil voltage is proportional to the time derivative of the flux change in the head, the amplification must include an integration step.
 
-![](/content/images/page_515_image_8.jpg)
+![](images/page_515_image_8.jpg)
 
 Fig. 15.1 Principle of magnetic recording.
 
@@ -9791,7 +9791,7 @@ Audio tape has been made using Fe or FeCo particles instead of oxide particles, 
 
 To minimize distortion due to the nonlinear and irreversible nature of the hysteresis loop of the recording medium, a sinusoidal current at about 100 kHz is superimposed on the recording signal current, and the combined signal is fed to the recording head. Figure 15.2 illustrates this combined signal. The ac bias field is at a higher frequency than the highest frequency to be recorded, and of sufficient magnitude to drive the material of the tape near magnetic saturation. Under these conditions, a section of tape passing under the write head sees a strong ac field superimposed on an almost constant dc field, which is the signal to be recorded. The resulting remanent magnetization in the tape, after the tape has left the head, is very nearly proportional to the value of the signal to be recorded. The strength of the ac bias current must be adjusted to match the properties of the magnetic material of the tape; some recorders provide a manual switch to adjust the bias and some use a system of coded notches in the audio cassette to automatically set the correct bias.
 
-![](/content/images/page_517_chart_2.jpg)
+![](images/page_517_chart_2.jpg)
 
 Fig. 15.2 Combined bias signal (light line) and recorded signal (heavy line) fed to the write head. This signal corresponds to the field in the head gap, which magnetizes the tape.
 
@@ -9803,7 +9803,7 @@ Just as analog audio recording was largely replaced by digital audio recording i
 
 Magnetic recording on tape and on disk are physically almost identical processes. On tape (except video tape), the recorded tracks run parallel to the tape axis, so skipping over unwanted information requires speeding up and then slowing down the tape drive—a slow operation. On disks, the recorded tracks are a series of concentric circles, and the heads can jump very quickly from track to track in order to recover a desired string of data.
 
-![](/content/images/page_517_image_9.jpg)
+![](images/page_517_image_9.jpg)
 
 Fig. 15.3 Recorded pattern on a video tape, produced by a pair of rotating write heads.
 
@@ -9821,7 +9821,7 @@ In the following sections, we will deal with digital recording of digital data.
 
 As recorded track widths grew narrower and bit lengths got shorter, the flux available at a flux reversal was no longer sufficient to produce a reliable signal in a conventional inductive read head. The solution lay in the phenomenon of magnetoresistance, which is the change in resistance of a material when subjected to a magnetic field. All materials show magnetoresistance, but the effect is largest, and also anisotropic (depending on the relative directions of the field and the current) in ferromagnets. So thin films of Ni –Fe alloy were used to detect flux reversals in the first magnetoresistive read heads. The change in resistance of the magnetic layer when a saturating field is applied is about 2%.
 
-![](/content/images/page_518_image_10.jpg)
+![](images/page_518_image_10.jpg)
 
 Fig. 15.4 Digitizing of analog information.
 
@@ -9831,7 +9831,7 @@ The first GMR experiments were done with the samples at low temperature, and req
 
 The GMR spin valves used as read heads in hard disk drives are more complex. The ferromagnetic layers are themselves layered and there may be a permanent magnet layer to hold the magnetic direction of the fixed layer in a desired direction. The reference layer is actually a triple layer of CoFe –Ru –CoFe, with the Ru layer thickness chosen to provide strong antiferromagnetic coupling between the CoFe layers. This results in a strongly directional CoFe layer in a substructure with no net magnetization. There are also layers to carry the current through the head to measure the resistance change, and “seed” layers to assure good adhesion of the films. The structure may have up to a dozen distinct layers, not counting the magnetic shield layers that provide magnetic isolation from the write head and from the neighboring bits.
 
-![](/content/images/page_519_image_6.jpg)
+![](images/page_519_image_6.jpg)
 
 Fig. 15.5 Basic structure of a spin valve.
 
@@ -9851,7 +9851,7 @@ For high-density magnetic tape recording, $\gamma-\mathrm{Fe}_{2}\mathrm{O}_{3}$
 
 The density of recorded information on hard disk drives has increased steadily and rapidly by about a factor of $10^{8}$ since the first hard disk drive was introduced in 1956, and the cost per unit of storage has dropped similarly. A major contribution to this remarkable increase has been the improvement in the recording medium. The disk in a hard disk drive consists of a polished aluminum alloy or glass substrate. The earliest disk drives used $\gamma-\mathrm{Fe}_{2}\mathrm{O}_{3}$ particles borrowed directly from the technology of magnetic tape. A variety of other materials has been used, including both crystalline and amorphous metallic layers, mostly based on cobalt because of its relatively high magnetization, high anisotropy, and good corrosion resistance.
 
-![](/content/images/page_521_image_2.jpg)
+![](images/page_521_image_2.jpg)
 
 Fig. 15.6 Structure of the magnetic layer of a hard disk drive. The heavy line is the boundary between two recorded data bits.
 
@@ -9867,7 +9867,7 @@ For many years, there have been advocates of perpendicular recording; that is, o
 
 The major advantages of perpendicular recording are that higher magnetizing fields can be applied to the recording medium, allowing the use of material with higher anisotropy and greater stability, and that the bit length can be reduced, packing more bits per unit length of track. A requirement, in addition to the redesign of the write head, is the addition of a soft magnetic underlayer to the disk, between the actual recording layer and the nonmagnetic support layer. This layer provides a path for the magnetic flux to return to the head, as indicated in the figure. The return flux is spread over a much larger area than the area of the writing gap, so the field strength is much lower and is insufficient to disturb the recorded bits.
 
-![](/content/images/page_522_image_2.jpg)
+![](images/page_522_image_2.jpg)
 
 Fig. 15.7 Perpendicular recording geometry.
 
@@ -9879,7 +9879,7 @@ Two methods have been suggested to permit even higher recording densities: therm
 
 Most recording on compact disks and digital versatile disks (CDs and DVDs) is purely optical. Single-write disks use a dye layer whose optical properties are changed by highintensity laser illumination and read by low-intensity laser light. Disks capable of multiple writing and rewriting replace the dye layer with a phase-change layer. In both cases no magnetic phenomena are involved. There are, however, also magneto-optic disk recording systems. Typically the magnetic layer is an amorphous alloy of terbium and iron –cobalt, which has a high anisotropy and can be magnetized perpendicular to the disk surface. Digital bits are recorded by simultaneously applying a perpendicular magnetic field to one side of the disk and a thermal pulse from a laser to the other side of the disk, as indicated in Fig. 15.8. The coercive field of the amorphous layer decreases with increasing temperature, so a bit is easier to write at elevated temperature, and will be stable against demagnetizing fields back at room temperature. This is an example of thermo-magnetic writing. The recorded information could be read by an inductive or a magnetoresistive read head, but in practice the Kerr effect is used. The plane of polarization of a reflected laser light beam is rotated in opposite directions, depending on the direction of magnetization of the reflecting surface. This change in polarization direction can be detected and used to read the recorded information.
 
-![](/content/images/page_523_image_2.jpg)
+![](images/page_523_image_2.jpg)
 
 Fig. 15.8 Magneto-optic recording.
 
@@ -9891,7 +9891,7 @@ The first large-scale computers after the vacuum-tube era used magnetic memory. 
 
 In the 1970s, a great deal of research and development was devoted to magnetic bubble memory technology, which was seen as a replacement for semiconductor memory. A large area of single crystal magnetic garnet grown epitaxially on a nonmagnetic garnet substrate can be magnetized perpendicular to the substrate surface. When a reverse field is applied, cylindrical domains of reverse magnetization appear. When viewed from above, these domains look and act somewhat like bubbles, which explains their name (see Fig. 15.9). In a suitably defect-free crystal, the bubbles can move easily in the plane of the device, and the addition of ferromagnetic surface “tracks,” usually thin-film NiFe layers, can confine the bubbles to predefined paths. Finally, the application of an in-plane rotating magnetic field can move the bubbles in a stepwise fashion, one step per revolution of the field, along a closed path. With the addition of facilities to create and destroy individual bubbles, and an optical or magnetic bubble sensor, a bubble domain chip can store and process information. It has the great virtue of being nonvolatile, meaning that the stored information remains safely in place when the power is turned off, eliminating the annoying lengthy start-up sequence required with volatile semiconductor memory. However, bubble memory was never able to compete with semiconductor memory in storage density or cost, and it quietly disappeared after about 10 years of intense effort.
 
-![](/content/images/page_524_image_2.jpg)
+![](images/page_524_image_2.jpg)
 
 Fig. 15.9 Magnetic bubbles.
 
@@ -9947,15 +9947,15 @@ $$
 - M = \frac {(H _ {\mathrm{a}} - H _ {\mathrm{c}})}{\mathrm{N}} (\text { both   SI }).
 $$
 
-![](/content/images/page_527_image_9.jpg)
+![](images/page_527_image_9.jpg)
 
 Fig. 16.1 Magnetic behavior of an ideal type I superconductor.
 
-![](/content/images/page_528_image_2.jpg)
+![](images/page_528_image_2.jpg)
 
 Fig. 16.2 Magnetic behavior of an ideal type I superconductor with nonzero demagnetizing factor N.
 
-![](/content/images/page_528_image_4.jpg)
+![](images/page_528_image_4.jpg)
 
 Fig. 16.3 Hysteretic behavior of a type I superconductor $(N \neq 0)$
 
@@ -9967,7 +9967,7 @@ The topography of the intermediate state is variable, and is different at the sa
 
 The essential difference between a type I and a type II superconductor is that, in a type II, the surface energy of the superconducting/normal interface is negative. When a field is applied to a type II superconductor, a negative magnetization is produced by a surface current, just as in a type I, but only up to a lower critical field $H_{\mathrm{c1}}$ . At this field, flux enters the sample in the form of individual flux lines, or fluxoids, each carrying a single flux quantum, of magnitude $\phi_0 = hc / 2e$ , where h is Planck’s constant, c is the velocity of light, and e is the charge on the electron. The numerical value of $\phi_{0}$ is $2.07 \times 10^{-7} \mathrm{~G cm}^{2}$ (Maxwell) or $2.07 \times 10^{-15} \mathrm{~Wb}$ . A type II superconductor containing flux lines is said to be in the mixed state, which is to be distinguished from the intermediate state of a type I superconductor. If the flux lines can move freely, they will enter the sample at $H = H_{\mathrm{c1}}$ and pack together until they are spaced closely enough to begin to repel one another. The (negative) magnetization thus drops sharply at first, then more slowly as the flux lines are packed more and more tightly together. Finally, at the upper critical field $H_{\mathrm{c2}}$ , the sample becomes completely normal. The magnetization curve has the general shape shown in Fig. 16.4. The curve is retraced on lowering the field back to zero.
 
-![](/content/images/page_529_image_2.jpg)
+![](images/page_529_image_2.jpg)
 
 Fig. 16.4 Magnetic behavior of an ideal type II superconductor $(N = 0)$
 
@@ -9975,11 +9975,11 @@ However, the flux lines generally do not move freely in practical type II superc
 
 For most applications of type II superconductors, specifically to create high magnetic fields, complete flux pinning is desirable, and the Bean model is a reasonable approximation. However, perfect pinning is an ideal case, and often there is some degree of flux creep due to motion of the flux lines. Flux creep appears as a resistance, and therefore as the production of heat, in a superconducting coil. The phenomenon was first clearly identified in a series of experiments by Kim et al., using a superconducting hollow cylinder as a sample, and comparing the magnetic field measured inside and outside the cylinder (see Fig. 16.6).
 
-![](/content/images/page_530_image_2.jpg)
+![](images/page_530_image_2.jpg)
 
-![](/content/images/page_530_image_3.jpg)
+![](images/page_530_image_3.jpg)
 
-![](/content/images/page_530_image_4.jpg)
+![](images/page_530_image_4.jpg)
 
 (c)
 
@@ -9987,11 +9987,11 @@ Fig. 16.5 Field penetration in a type II hard (flux-pinned) superconductor slab 
 
 In a superconducting solenoid used to create a high field, the magnetic field at the midplane of the coil is directed along the axis of the solenoid, but in opposite directions at the inside and outside diameters. At the end-plane of the solenoid, however, the field direction is radial (Fig. 16.7). In both cases, the field is perpendicular to the direction of current flow, so superconductors for use in high-field solenoids must be tested in an appropriate field geometry. A short length of the conductor is placed across the inside diameter of a Bitter-type resistive magnet or a superconducting solenoid, connected to an appropriate current source, and anchored securely to resist the large lateral force resulting from the flow of a large current perpendicular to a large magnetic field. Then at a series of fixed fields, the current is increased until a voltage drop across the short test length is first detected.
 
-![](/content/images/page_530_image_8.jpg)
+![](images/page_530_image_8.jpg)
 
 Fig. 16.6 Geometry of the Kim experiments.
 
-![](/content/images/page_531_image_2.jpg)
+![](images/page_531_image_2.jpg)
 
 Fig. 16.7 Field distribution around a superconducting solenoid.
 
@@ -10013,11 +10013,11 @@ The susceptibility behavior of granular superconductors depends on the magnitude
 
 Superconducting materials have a characteristic quantity l called the magnetic penetration depth, which is the equivalent thickness of the surface supercurrent-carrying layer. If the grains of a granular superconductor are small enough so that the volume of this surface layer is not negligible compared to the volume of a grain, then the physical size of the grain is larger than the size of the superconducting part, and results intended to show the total volume of superconductor will need to be corrected.
 
-![](/content/images/page_532_image_8.jpg)
+![](images/page_532_image_8.jpg)
 
 (a)
 
-![](/content/images/page_532_image_10.jpg)
+![](images/page_532_image_10.jpg)
 
 (b)
 
@@ -10027,7 +10027,7 @@ Fig. 16.8 Demagnetizing fields acting on a thin film sample with the applied fie
 
 Demagnetizing fields are important in many magnetic measurements, and are not only important but non-intuitive in the case of superconducting samples. When dealing with magnetic materials, it is often reasonable to regard the magnetization M as a constant quantity, whose direction but not magnitude is influenced by the demagnetizing field. Superconducting materials do not have a saturation magnetization; in the fully superconducting state, the magnetization is always a function of the total field, which is the applied field plus the demagnetizing field. A magnetic thin film is difficult to magnetize perpendicular to the film surface, because the large demagnetizing field opposes the applied field. In a superconducting thin film, the large demagnetizing field aids the applied field, and magnetization is easier in the perpendicular direction than in the parallel direction. These two cases are illustrated in Fig. 16.8.
 
-![](/content/images/page_533_chart_5.jpg)
+![](images/page_533_chart_5.jpg)
 
 (b)
 
@@ -10061,9 +10061,9 @@ $$
 
 (a)
 
-![](/content/images/page_536_image_3.jpg)
+![](images/page_536_image_3.jpg)
 
-![](/content/images/page_536_image_4.jpg)
+![](images/page_536_image_4.jpg)
 
 Fig. A1.1 Fields of dipoles.
 
@@ -10089,7 +10089,7 @@ $$
 \begin{array}{c} H = (H _ {\mathrm{r}} ^ {2} + H _ {\theta} ^ {2}) ^ {1 / 2} \\ = \frac {m}{r ^ {3}} (3 \cos^ {2} \theta + 1) ^ {1 / 2}. \end{array}\tag{A.5}
 $$
 
-![](/content/images/page_537_image_2.jpg)
+![](images/page_537_image_2.jpg)
 
 Fig. A1.2 Interacting dipoles.
 
