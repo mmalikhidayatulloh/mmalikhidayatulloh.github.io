@@ -1,0 +1,599 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Quartz Plugins Configuration Schema",
+  "description": "Schema for validating quartz.config.yaml (and legacy quartz.plugins.json) configuration files",
+  "type": "object",
+  "required": ["configuration", "plugins"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "JSON Schema reference"
+    },
+    "configuration": {
+      "type": "object",
+      "required": ["pageTitle", "enableSPA", "locale", "theme"],
+      "additionalProperties": false,
+      "properties": {
+        "pageTitle": {
+          "type": "string",
+          "description": "The title of the website"
+        },
+        "pageTitleSuffix": {
+          "type": "string",
+          "description": "Suffix appended to page titles"
+        },
+        "enableSPA": {
+          "type": "boolean",
+          "description": "Enable single-page application mode"
+        },
+        "enablePopovers": {
+          "type": "boolean",
+          "description": "Enable hover popovers for links"
+        },
+        "prefetch": {
+          "type": "string",
+          "enum": ["viewport", "hover", "off"],
+          "default": "viewport",
+          "description": "Fetch pages before their links are followed: links on screen and pointed at (viewport), only links pointed at (hover), or never (off)"
+        },
+        "locale": {
+          "type": "string",
+          "description": "Locale code for the site"
+        },
+        "baseUrl": {
+          "type": "string",
+          "description": "Base URL for the site"
+        },
+        "theme": {
+          "type": "object",
+          "required": ["fontOrigin", "cdnCaching", "typography", "colors"],
+          "additionalProperties": false,
+          "properties": {
+            "fontOrigin": {
+              "type": "string",
+              "enum": ["googleFonts", "local"],
+              "description": "Source of fonts"
+            },
+            "cdnCaching": {
+              "type": "boolean",
+              "description": "Enable CDN caching"
+            },
+            "typography": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "header": {
+                  "type": "string",
+                  "description": "Font family for headers"
+                },
+                "body": {
+                  "type": "string",
+                  "description": "Font family for body text"
+                },
+                "code": {
+                  "type": "string",
+                  "description": "Font family for code"
+                }
+              }
+            },
+            "colors": {
+              "type": "object",
+              "required": ["lightMode", "darkMode"],
+              "additionalProperties": false,
+              "properties": {
+                "lightMode": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "light": {
+                      "type": "string",
+                      "description": "Light color"
+                    },
+                    "lightgray": {
+                      "type": "string",
+                      "description": "Light gray color"
+                    },
+                    "gray": {
+                      "type": "string",
+                      "description": "Gray color"
+                    },
+                    "darkgray": {
+                      "type": "string",
+                      "description": "Dark gray color"
+                    },
+                    "dark": {
+                      "type": "string",
+                      "description": "Dark color"
+                    },
+                    "secondary": {
+                      "type": "string",
+                      "description": "Secondary color"
+                    },
+                    "tertiary": {
+                      "type": "string",
+                      "description": "Tertiary color"
+                    },
+                    "highlight": {
+                      "type": "string",
+                      "description": "Highlight color"
+                    },
+                    "textHighlight": {
+                      "type": "string",
+                      "description": "Text highlight color"
+                    }
+                  }
+                },
+                "darkMode": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "properties": {
+                    "light": {
+                      "type": "string",
+                      "description": "Light color"
+                    },
+                    "lightgray": {
+                      "type": "string",
+                      "description": "Light gray color"
+                    },
+                    "gray": {
+                      "type": "string",
+                      "description": "Gray color"
+                    },
+                    "darkgray": {
+                      "type": "string",
+                      "description": "Dark gray color"
+                    },
+                    "dark": {
+                      "type": "string",
+                      "description": "Dark color"
+                    },
+                    "secondary": {
+                      "type": "string",
+                      "description": "Secondary color"
+                    },
+                    "tertiary": {
+                      "type": "string",
+                      "description": "Tertiary color"
+                    },
+                    "highlight": {
+                      "type": "string",
+                      "description": "Highlight color"
+                    },
+                    "textHighlight": {
+                      "type": "string",
+                      "description": "Text highlight color"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "analytics": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "description": "Analytics configuration"
+            }
+          ],
+          "description": "Analytics configuration (null to disable)"
+        },
+        "ignorePatterns": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Patterns to ignore during processing"
+        },
+        "publishAssets": {
+          "type": "string",
+          "enum": ["all", "referenced"],
+          "default": "all",
+          "description": "Controls which assets are copied to public. \"all\" copies all non-markdown files; \"referenced\" only copies assets referenced by published pages"
+        },
+        "frontmatter": {
+          "description": "Built-in frontmatter parsing: titles, tags, aliases, dates, drafts. Default order 0.",
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "enabled": {
+                  "type": "boolean",
+                  "description": "Set to false to turn this built-in off (e.g. to replace it with a plugin)."
+                },
+                "order": {
+                  "type": "number",
+                  "description": "Position among plugins of the same category (same scale as plugin `order`)."
+                },
+                "delimiters": {
+                  "description": "Frontmatter delimiters. Default \"---\".",
+                  "oneOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "minItems": 2,
+                      "maxItems": 2
+                    }
+                  ]
+                },
+                "language": {
+                  "enum": ["yaml", "toml"],
+                  "description": "Frontmatter language. Default yaml."
+                }
+              }
+            }
+          ]
+        },
+        "links": {
+          "description": "Built-in link processing (formerly the crawl-links plugin): relative hrefs, link classes, outgoing links for backlinks and graph. Default order 60.",
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "enabled": {
+                  "type": "boolean",
+                  "description": "Set to false to turn this built-in off (e.g. to replace it with a plugin)."
+                },
+                "order": {
+                  "type": "number",
+                  "description": "Position among plugins of the same category (same scale as plugin `order`)."
+                },
+                "markdownLinkResolution": {
+                  "enum": ["absolute", "relative", "shortest"],
+                  "description": "How to resolve Markdown link paths. Default shortest."
+                },
+                "prettyLinks": {
+                  "type": "boolean",
+                  "description": "Strip folders from link text. Default true."
+                },
+                "openLinksInNewTab": {
+                  "type": "boolean",
+                  "description": "Open external links in a new tab. Default false."
+                },
+                "lazyLoad": {
+                  "type": "boolean",
+                  "description": "Lazy-load images, videos, audio and iframes. Default false."
+                },
+                "externalLinkIcon": {
+                  "type": "boolean",
+                  "description": "Show an icon after external links. Default true."
+                },
+                "disableBrokenWikilinks": {
+                  "type": "boolean",
+                  "description": "Add a `broken` class to internal links whose target does not exist. Default false."
+                }
+              }
+            }
+          ]
+        },
+        "drafts": {
+          "description": "Built-in draft handling (formerly the remove-draft plugin): pages with `draft: true` are not published.",
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "enabled": {
+                  "type": "boolean",
+                  "description": "Set to false to turn this built-in off (e.g. to replace it with a plugin)."
+                },
+                "order": {
+                  "type": "number",
+                  "description": "Position among plugins of the same category (same scale as plugin `order`)."
+                },
+                "publish": {
+                  "type": "boolean",
+                  "description": "Publish drafts anyway. Default false."
+                }
+              }
+            }
+          ]
+        },
+        "contentIndex": {
+          "description": "Built-in content index (formerly the content-index plugin): static/contentIndex.json, sitemap.xml and RSS.",
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "enabled": {
+                  "type": "boolean",
+                  "description": "Set to false to turn this built-in off (e.g. to replace it with a plugin)."
+                },
+                "order": {
+                  "type": "number",
+                  "description": "Position among plugins of the same category (same scale as plugin `order`)."
+                },
+                "enableSiteMap": {
+                  "type": "boolean",
+                  "description": "Emit sitemap.xml. Default true."
+                },
+                "enableRSS": {
+                  "type": "boolean",
+                  "description": "Emit an RSS feed. Default true."
+                },
+                "rssLimit": {
+                  "type": "number",
+                  "description": "Maximum number of RSS items. Default 10."
+                },
+                "rssFullHtml": {
+                  "type": "boolean",
+                  "description": "Full page HTML in RSS items. Default false."
+                },
+                "rssSlug": {
+                  "type": "string",
+                  "description": "RSS feed slug (index → index.xml). Default index."
+                },
+                "includeEmptyFiles": {
+                  "type": "boolean",
+                  "description": "Include pages without text. Default true."
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "plugins": {
+      "type": "array",
+      "description": "Array of plugin configurations",
+      "items": {
+        "type": "object",
+        "required": ["source", "enabled"],
+        "additionalProperties": false,
+        "properties": {
+          "source": {
+            "oneOf": [
+              {
+                "type": "string",
+                "description": "Plugin source path or identifier. Supports github:user/repo, git+https://, and https:// URLs. Append #ref to pin to a specific branch or tag (e.g., github:user/repo#my-branch). Local file paths (e.g., ./my-plugin, ../sibling-plugin, /absolute/path) are also supported for local development or airgapped environments."
+              },
+              {
+                "type": "object",
+                "required": ["repo"],
+                "additionalProperties": false,
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "description": "Override name for the plugin directory. If omitted, the name is derived from the repository URL."
+                  },
+                  "repo": {
+                    "type": "string",
+                    "description": "Git repository URL (e.g., https://github.com/user/repo.git). Supports the same URL formats as the string source."
+                  },
+                  "subdir": {
+                    "type": "string",
+                    "description": "Subdirectory within the repository containing the plugin. Used when the plugin is not at the repository root."
+                  },
+                  "ref": {
+                    "type": "string",
+                    "description": "Git ref (branch or tag) to pin to. If omitted, the default branch is used."
+                  }
+                },
+                "description": "Object source with explicit repo URL and optional subdirectory, ref, and name overrides for monorepo-style plugins."
+              }
+            ],
+            "description": "Plugin source: either a string path/identifier or an object with repo/subdir configuration."
+          },
+          "enabled": {
+            "type": "boolean",
+            "description": "Whether the plugin is enabled"
+          },
+          "order": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Plugin execution order"
+          },
+          "options": {
+            "type": "object",
+            "additionalProperties": true,
+            "description": "Plugin-specific options"
+          },
+          "layout": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "position": {
+                "type": "string",
+                "enum": ["header", "beforeBody", "left", "right", "afterBody", "footer"],
+                "description": "Layout slot the plugin's component renders in"
+              },
+              "priority": {
+                "type": "number",
+                "description": "Order within the slot (lower renders first). Defaults to the plugin's defaultPriority, else 50."
+              },
+              "display": {
+                "type": "string",
+                "enum": ["all", "mobile-only", "desktop-only"],
+                "description": "Display mode"
+              },
+              "condition": {
+                "type": "string",
+                "description": "Render only when this condition holds. Built-in: not-index, has-tags, has-backlinks, has-toc; plugins may register more."
+              },
+              "group": {
+                "type": "string",
+                "description": "Layout group name"
+              },
+              "groupOptions": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "grow": {
+                    "type": "boolean",
+                    "description": "Flex grow"
+                  },
+                  "shrink": {
+                    "type": "boolean",
+                    "description": "Flex shrink"
+                  },
+                  "basis": {
+                    "type": "string",
+                    "description": "Flex basis"
+                  },
+                  "order": {
+                    "type": "number",
+                    "description": "Flex order"
+                  },
+                  "align": {
+                    "type": "string",
+                    "description": "Alignment"
+                  },
+                  "justify": {
+                    "type": "string",
+                    "description": "Justification"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "layout": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "groups": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "properties": {
+              "priority": {
+                "type": "number",
+                "description": "Explicit priority for the group (lower renders first). Defaults to the first member's priority."
+              },
+              "direction": {
+                "type": "string",
+                "enum": ["row", "row-reverse", "column", "column-reverse"],
+                "description": "Flex direction"
+              },
+              "wrap": {
+                "oneOf": [
+                  {
+                    "type": "string",
+                    "enum": ["nowrap", "wrap", "wrap-reverse"]
+                  },
+                  {
+                    "type": "boolean"
+                  }
+                ],
+                "description": "Flex wrap"
+              },
+              "gap": {
+                "type": "string",
+                "description": "Gap between items"
+              }
+            }
+          },
+          "description": "Layout groups configuration"
+        },
+        "sidebars": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "How each sidebar handles content taller than the screen: fit (default; one screen tall, components shrink and scroll), scroll (stays in view, scrolls itself), static (scrolls away with the page).",
+          "properties": {
+            "left": {
+              "enum": ["fit", "scroll", "static"],
+              "description": "Left sidebar mode"
+            },
+            "right": {
+              "enum": ["fit", "scroll", "static"],
+              "description": "Right sidebar mode"
+            }
+          }
+        },
+        "byPageType": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "exclude": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "description": "Excluded plugins for this page type"
+              },
+              "positions": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "header": {
+                    "type": "array",
+                    "maxItems": 0
+                  },
+                  "beforeBody": {
+                    "type": "array",
+                    "maxItems": 0
+                  },
+                  "afterBody": {
+                    "type": "array",
+                    "maxItems": 0
+                  },
+                  "left": {
+                    "type": "array",
+                    "maxItems": 0
+                  },
+                  "right": {
+                    "type": "array",
+                    "maxItems": 0
+                  },
+                  "footer": {
+                    "type": "array",
+                    "maxItems": 0
+                  }
+                },
+                "description": "Clear slots for this page type, e.g. right: []"
+              },
+              "template": {
+                "type": "string",
+                "description": "Page frame to use for this page type (e.g. default, full-width, minimal)"
+              },
+              "sidebars": {
+                "type": "object",
+                "additionalProperties": false,
+                "description": "Sidebar modes for this page type (merged over layout.sidebars).",
+                "properties": {
+                  "left": {
+                    "enum": ["fit", "scroll", "static"],
+                    "description": "Left sidebar mode"
+                  },
+                  "right": {
+                    "enum": ["fit", "scroll", "static"],
+                    "description": "Right sidebar mode"
+                  }
+                }
+              }
+            }
+          },
+          "description": "Layout configuration by page type"
+        }
+      }
+    }
+  }
+}
