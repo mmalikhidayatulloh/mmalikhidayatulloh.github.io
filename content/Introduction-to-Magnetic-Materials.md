@@ -145,7 +145,7 @@ where $A$ is the cross-sectional area of the magnet. We therefore have an altern
 
 Since the unit of magnetic moment $m$ is erg/oersted, the unit of magnetization $M$ is erg/oersted cm<sup>3</sup>. However, it is more often written simply as emu/cm<sup>3</sup>, where “emu” is understood to mean the electromagnetic unit of magnetic moment. However, emu is sometimes used to mean “electromagnetic cgs units” generically.
 
-It is sometimes convenient to refer the value of magnetization to unit mass rather than unit volume. The mass of a small sample can be measured more accurately than its volume, and the mass is independent of temperature whereas the volume changes with temperature due to thermal expansion. The specific magnetization s is defined as
+It is sometimes convenient to refer the value of magnetization to unit mass rather than unit volume. The mass of a small sample can be measured more accurately than its volume, and the mass is independent of temperature whereas the volume changes with temperature due to thermal expansion. The specific magnetization $\sigma$is defined as
 
 $$
 \sigma = \frac {m}{w} = \frac {m}{v \rho} = \frac {M}{\rho} \mathrm{emu/g},\tag{1.9}
