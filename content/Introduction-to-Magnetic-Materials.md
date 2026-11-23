@@ -1,6 +1,4 @@
 
-# INTRODUCTION TO MAGNETIC MATERIALS
-
 Second Edition
 
 B. D. Cullity • C. D. Graham
