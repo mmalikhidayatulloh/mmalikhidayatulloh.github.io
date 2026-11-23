@@ -1,3 +1,17 @@
+<!--toc:start-->
+- [Prequisitions:](#prequisitions)
+- [Linux vs FreeBSD](#linux-vs-freebsd)
+  - [Linux](#linux)
+  - [FreeBSD](#freebsd)
+- [Ubuntu](#ubuntu)
+- [Arch](#arch)
+- [Fedora](#fedora)
+- [Rocky](#rocky)
+- [RHEL](#rhel)
+- [Docker](#docker)
+- [Recommended](#recommended)
+<!--toc:end-->
+
 # Prequisitions:
 - Backup Dokumen penting ke Telegram (freebsd dan linux bisa diinstall telegram)
 - bootable usb (atau ventoy. Siapkan 2: 1 untuk coba-coba 1 lagi untuk utama)
@@ -75,7 +89,7 @@
 
 # RHEL
 - ribet kurang fleksibel, secure bgt sampe pusing mau ngp-ngp dibatasi security
-- usb habis nginstall rhel ada iso9660 yg bikin pusing. solusinya pake [cara ini](./_posts/2025-01-01-Creating-Bootable.md)
+- usb habis nginstall rhel ada iso9660 yg bikin pusing. solusinya pake [cara ini](./Creatin-Bootable.md)
 
 # Docker
 + Bisa install ubuntu, rocky, alpine, dan linux-linux lain tanpa virtualisasi tapi cuma shell
