@@ -13,19 +13,19 @@ To restore the USB drive as an empty, usable storage device after using ISO imag
 as root
 
 Then
-# using cat:
+## using cat:
 ```
 # cat path/to/archlinux-version-x86_64.iso > /dev/disk/by-id/usb-My_flash_drive
 ```
-# using cp:
+## using cp:
 ```
 # cp path/to/archlinux-version-x86_64.iso /dev/disk/by-id/usb-My_flash_drive
 ```
-# using dd:
+## using dd:
 ```
 # dd bs=4M if=path/to/image.iso of=/dev/disk/by-id/usb-My_flash_drive conv=fsync oflag=direct status=progress
 ```
-# using tee:
+## using tee:
 ```
 # tee < path/to/archlinux-version-x86_64.iso > /dev/disk/by-id/usb-My_flash_drive
 ```
