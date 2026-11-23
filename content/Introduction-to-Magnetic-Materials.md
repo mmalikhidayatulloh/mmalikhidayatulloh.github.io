@@ -25,7 +25,7 @@ Many of the equations in this introductory chapter and the next are stated witho
 
 ## 1.2.1 Magnetic Poles
 
-Almost everyone as a child has played with magnets and felt the mysterious forces of attraction and repulsion between them. These forces appear to originate in regions called poles, located near the ends of the magnet. The end of a pivoted bar magnet which points approximately toward the north geographic pole of the Earth is called the northseeking pole, or, more briefly, the north pole. Since unlike poles attract, and like poles repel, this convention means that there is a region of south polarity near the north geographic pole. The law governing the forces between poles was discovered independently in England in 1750 by John Michell (1724 – 1793) and in France in 1785 by Charles Coulomb (1736–1806). This law states that the force $F$ between two poles is proportional to the product of their pole strengths $p_{1}$ and $p_{2}$ and inversely proportional to the square of the distance d between them:
+Almost everyone as a child has played with magnets and felt the mysterious forces of attraction and repulsion between them. These forces appear to originate in regions called poles, located near the ends of the magnet. The end of a pivoted bar magnet which points approximately toward the north geographic pole of the Earth is called the northseeking pole, or, more briefly, the north pole. Since unlike poles attract, and like poles repel, this convention means that there is a region of south polarity near the north geographic pole. The law governing the forces between poles was discovered independently in England in 1750 by John Michell (1724 – 1793) and in France in 1785 by Charles Coulomb (1736–1806). This law states that the force $F$ between two poles is proportional to the product of their pole strengths $p_{1}$ and $p_{2}$ and inversely proportional to the square of the distance $d$ between them:
 
 ![](images/page_20_image_2.jpg)
 
@@ -35,11 +35,11 @@ $$
 F = k \frac {p _ {1} p _ {2}}{d ^ {2}}.\tag{1.1}
 $$
 
-If the proportionality constant $k$ is put equal to 1, and we measure $F$ in dynes and d in centimeters, then this equation becomes the definition of pole strength in the cgs–emu system. A unit pole, or pole of unit strength, is one which exerts a force of 1 dyne on another unit pole located at a distance of 1 cm. The dyne is in turn defined as that force which gives a mass of 1 g an acceleration of 1 $\mathrm{cm / sec^2}$ . The weight of a 1 g mass is 981 dynes. No name has been assigned to the unit of pole strength.
+If the proportionality constant $k$ is put equal to 1, and we measure $F$ in dynes and $d$ in centimeters, then this equation becomes the definition of pole strength in the cgs–emu system. A unit pole, or pole of unit strength, is one which exerts a force of 1 dyne on another unit pole located at a distance of 1 cm. The dyne is in turn defined as that force which gives a mass of 1 g an acceleration of 1 $\mathrm{cm / sec^2}$ . The weight of a 1 g mass is 981 dynes. No name has been assigned to the unit of pole strength.
 
 Poles always occur in pairs in magnetized bodies, and it is impossible to separate them.<sup>1</sup> If a bar magnet is cut in two transversely, new poles appear on the cut surfaces and two magnets result. The experiments on which Equation 1.1 is based were performed with magnetized needles that were so long that the poles at each end could be considered approximately as isolated poles, and the torsion balance sketched in Fig. 1.1. If the stiffness of the torsion-wire suspension is known, the force of repulsion between the two north poles can be calculated from the angle of deviation of the horizontal needle. The arrangement shown minimizes the effects of the two south poles.
 
-A magnetic pole creates a magnetic field around it, and it is this field which produces a force on a second pole nearby. Experiment shows that this force is directly proportional to the product of the pole strength and field strength or field intensity H:
+A magnetic pole creates a magnetic field around it, and it is this field which produces a force on a second pole nearby. Experiment shows that this force is directly proportional to the product of the pole strength and field strength or field intensity $H$:
 
 $$
 F = k p H.\tag{1.2}
